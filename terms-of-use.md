@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:32:33.411Z
+date: 2025-10-25T02:41:46.638Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -12,8 +12,6 @@ dateCreated: 2025-10-25T00:42:05.114Z
 {.is-info}
 
 # Terms of Use
-
-_Last updated: October 24, 2025_
 
 Welcome to **FieroWiki**! An independent, community-focused information archive and knowledge base dedicated to preserving information about the Pontiac Fiero and related projects. By accessing or using this site, you agree to the following Terms of Use.
 
