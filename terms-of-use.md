@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:26:55.636Z
+date: 2025-10-25T02:31:55.269Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -24,6 +24,9 @@ Welcome to **FieroWiki**! An independent, community-focused information archive 
 FieroWiki is a nonprofit, educational resource built to document and preserve information about the Pontiac Fiero for the Fiero community, including technical data, restoration guides, and any other official and community-created materials. FieroWiki exists to collect, organize, and share knowledge about the Pontiac Fiero for personal, educational, and historical purposes. The project operates in good faith to preserve information that might otherwise be lost to time.
 
 For more information, please see the [About page](/about).
+
+> FieroWiki is not affiliated with General Motors, Pontiac, or any official Fiero organization
+{.is-warning}
 
 <br>
 
@@ -83,9 +86,9 @@ FieroWiki and its maintainers are **not responsible** for any damages, losses, o
 
 FieroWiki is not affiliated with General Motors, the Pontiac brand, or any official Fiero organization.
 
-While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as the site may reorganize, correct, materials over time. Furthermore, as this site is self hosted in one place by the server owner in his dwelling, the server is vulnerable to natural disaster, extended power outages, internet outages, hardware failure, hacking, extreme financial hardship, death of the server owner, and acts of God. Protective measures have been put in place such as continuous syncronization with the [FieroWiki Github repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups in an attempt to make this information as available as possible for as long as possible outside of a guarantee of permanence.
+While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as FieroWiki may reorganize or correct materials over time. Furthermore, as this site is self-hosted on privately owned hardware by the site owner, it remains vulnerable to natural disaster, extended power outages, internet outages, hardware failure, hacking, extreme financial hardship, death of the server owner, and acts of God. Protective measures have been put in place such as continuous syncronization with the [FieroWiki Github repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups to make this information as available as possible despite these risks.
 
-Some writing may be produced by large language models such as ChatGPT to lighten the load of FieroWiki's maintainers, but all content produced in such a manner is always reviewed before release.
+Some writing may be produced by large language models such as ChatGPT to assist FieroWiki’s maintainers, but all such content is always reviewed by a human prior to publication.
 
 <br>
 
