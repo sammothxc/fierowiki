@@ -2,11 +2,14 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:13:31.877Z
+date: 2025-10-25T02:24:10.910Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
 ---
+
+> These Terms are governed by and construed in accordance with the laws of the United States.
+{.is-info}
 
 # Terms of Use
 
