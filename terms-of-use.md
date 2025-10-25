@@ -2,8 +2,8 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:08:07.972Z
-tags: 
+date: 2025-10-25T02:13:31.877Z
+tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
 ---
