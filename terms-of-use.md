@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:47:07.951Z
+date: 2025-10-25T02:47:59.632Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -86,7 +86,7 @@ FieroWiki is not affiliated with General Motors, the Pontiac brand, or any offic
 
 While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as FieroWiki may reorganize or correct materials over time. Furthermore, as this site is self-hosted on privately owned hardware by the site owner, it remains vulnerable to natural disaster, extended power outages, internet outages, hardware failure, hacking, extreme financial hardship, death of the server owner, and acts of God. Protective measures have been put in place such as continuous syncronization with the [FieroWiki Github repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups to make this information as available as possible despite these risks.
 
-Some writing may be produced by large language models such as ChatGPT to assist FieroWiki’s maintainers, but all such content is always reviewed by a human prior to publication.
+Some writing may be produced by large language models to assist FieroWiki’s maintainers, but all such content is always reviewed by a human prior to publication. Personal information is never shared with large language models.
 
 <br>
 
