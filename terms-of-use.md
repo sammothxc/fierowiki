@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T01:52:29.881Z
+date: 2025-10-25T01:55:23.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -51,7 +51,7 @@ FieroWiki does not claim ownership of any such materials and will remove or modi
 If you contribute text, images, or files to FieroWiki, you agree to:
 
 - Only upload material that you have the right to share, or otherwise have approval from FieroWiki to do so  
-- Grant FieroWiki a **non-exclusive, perpetual, and royalty-free license** to display, modify, and archive your contribution as part of the site.
+- Grant FieroWiki a **non-exclusive, perpetual, and royalty-free license** to display, archive, reformat, or make minor edits for clarity and consistency as part of the site.
 
 - Understand that your contributions may be edited, reformatted, or reorganized to maintain consistency across the project
 
