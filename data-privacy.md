@@ -2,7 +2,7 @@
 title: Data Privacy
 description: 
 published: true
-date: 2025-10-25T03:07:55.184Z
+date: 2025-10-25T03:10:43.346Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:36:05.030Z
@@ -18,7 +18,7 @@ This page explains what information may be collected, how it is used, and your c
 ## 1. General Principles
 
 FieroWiki is a nonprofit, community-driven preservation project. FieroWiki does not sell, trade, or otherwise share personal data for profit or marketing purposes. Any data processing that occurs is solely to ensure the site’s functionality, security, and spam prevention.
-FieroWiki aims to remain advirtisement-free, funded entirely by the site owners love for Fieros.
+FieroWiki aims to remain advertisement-free, funded entirely by the site owners love for Fieros.
 
 <br>
 
@@ -56,11 +56,11 @@ FieroWiki may interact with the following external services:
 
 ## 4. Data Retention
 
-- The server log records IP traffic and this data may be retained temporarily for spam, security, and troubleshooting pruposes. This data is never shared or sold for any reason.
+- The server log records IP traffic and this data may be retained temporarily for spam, security, and troubleshooting purposes. This data is never shared or sold for any reason.
 
 - User contributions (e.g., wiki edits or uploads) are kept as part of the permanent historical record unless removed for legal or content reasons. This data is never sold for any reason.
 
-- Backup copies that persist in GitHub repositories or physical archives as part of long-term preservation efforts may contain data that was been requested to be removed. It is impossible to completely remove this data from every source. This data is never sold for any reason.
+- Backup copies that persist in GitHub repositories or physical archives as part of long-term preservation efforts may contain data that has been requested to be removed. While FieroWiki cannot guarantee removal from every backup source, such data is never shared or sold for any reason.
 
 <br>
 
