@@ -2,7 +2,7 @@
 title: Copyright
 description: 
 published: true
-date: 2025-10-25T03:42:32.271Z
+date: 2025-10-25T03:44:21.775Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:34:17.034Z
@@ -80,6 +80,7 @@ All trademarks, logos, and brand names are the property of their respective owne
 
 ## 6. Changes to This Policy
 
-This Copyright Policy may be updated occasionally.  
-The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.  
+This Copyright Policy may be updated occasionally.
+The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar. 
+
 Continued use of the site constitutes acceptance of any changes.
