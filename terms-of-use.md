@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T03:43:20.035Z
+date: 2025-10-25T03:43:59.848Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -108,7 +108,7 @@ For more information, please see the [Data Privacy page](/data-privacy).
 
 ## 9. Changes to These Terms
 
-FieroWiki may update or revise these [Terms of Use](/terms-of-use) at any time.
+FieroWiki may update or revise these Terms of Use at any time.
 The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.
 
 Continued use of the site constitutes acceptance of any changes.
