@@ -2,7 +2,7 @@
 title: Data Privacy
 description: 
 published: true
-date: 2025-10-25T03:50:31.094Z
+date: 2025-10-25T03:51:07.845Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:36:05.030Z
