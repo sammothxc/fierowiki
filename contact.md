@@ -2,7 +2,7 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-25T04:34:53.686Z
+date: 2025-10-25T04:35:52.314Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:33:11.770Z
@@ -35,7 +35,7 @@ If you are a rights holder or contributor and wish to request the removal of spe
 
 1. **URL(s) or page(s)** where the content appears on FieroWiki.  
 2. **Description of the content** you want removed.  
-3. **Proof of ownership or authority**, if applicable.  
+3. **Proof of ownership or authority**.  
 4. **Reason for removal** (e.g., copyright, privacy, outdated information).
 
 Requests will be reviewed promptly and in good faith. Removal or modification will be made when appropriate.
