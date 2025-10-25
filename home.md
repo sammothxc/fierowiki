@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T08:12:56.730Z
+date: 2025-10-25T08:14:12.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
@@ -43,9 +43,11 @@ Want to help expand these sections? See the [Contribute page](/about#contributio
 ## 🧰 Project Info
 
 - Repository: [GitHub – sammothxc/fierowiki](https://github.com/sammothxc/fierowiki)  
-- Maintainer: **Sam Warr (sammothxc)**  
-- Platform: **Wiki.js** (self-hosted, synced to GitHub)  
-- Spam protection: **Akismet**
+- Maintainer/Owner: **Sam Warr (sammothxc)**  
+- Platform: **Wiki.js** (self-hosted, synced to GitHub)
+
+> FieroWiki is an independent project and **not affiliated** with General Motors, Pontiac, or any official Fiero organization.
+{.is-warning}
 
 <br>
 
@@ -53,12 +55,11 @@ Want to help expand these sections? See the [Contribute page](/about#contributio
 
 Join the community and help preserve the Fiero’s legacy!
 
-- 💻 Contribute on [GitHub](https://github.com/sammothxc/fierowiki)  
-- 💬 Message `sammothxc` on Discord  
-- 📧 Email via the [Contact page](/contact)
+- Contribute on [GitHub](https://github.com/sammothxc/fierowiki)  
+- Message `sammothxc` on Discord  
+- Email via the [Contact page](/contact)
 
 <br>
 
-> FieroWiki is an independent project and **not affiliated** with General Motors, Pontiac, or any official Fiero organization.
-{.is-warning}
+
 
