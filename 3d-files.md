@@ -1,8 +1,8 @@
 ---
-title: 3D Scans and Files
-description: Files for 3D printing and scanned parts
+title: 3D Files
+description: 
 published: true
-date: 2025-10-25T00:23:09.569Z
+date: 2025-10-25T01:44:27.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:23:09.569Z
