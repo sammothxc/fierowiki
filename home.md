@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T08:56:34.106Z
+date: 2025-10-25T09:20:56.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
 ---
 
-![fierowiki_logo_tr.png](/logos/fierowiki_logo_tr.png)
+![fierowiki_logo_tr.png](/assets/logo/fierowiki_logo_tr.png)
 
 > A preservation project for the technical knowledge and legacy of the Pontiac Fiero.
 
