@@ -2,7 +2,7 @@
 title: About
 description: 
 published: true
-date: 2025-10-25T07:57:04.219Z
+date: 2025-10-25T08:11:59.116Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:32:21.336Z
@@ -53,7 +53,7 @@ FieroWiki content is also mirrored continuously on the [FieroWiki GitHub reposit
 ## Contributions
 
 Community contributions are welcome!  
-If you’d like to share your own Fiero knowledge, restoration experiences, or reference materials, please contact the maintainers or open an issue on [GitHub](https://github.com/sammothxc/fierowiki).
+If you’d like to share your own Fiero knowledge, restoration experiences, or reference materials, please visit the [Contact page](/contact) or open an issue on [GitHub](https://github.com/sammothxc/fierowiki).
 
 > **Note for Contributors:**  
 > Content on FieroWiki is licensed under **CC BY-NC-SA 4.0**.  
