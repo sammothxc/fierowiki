@@ -2,7 +2,7 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-25T04:35:52.314Z
+date: 2025-10-25T09:18:36.961Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:33:11.770Z
@@ -14,7 +14,7 @@ FieroWiki is an independent, nonprofit preservation project dedicated to documen
 
 If you have questions, suggestions, or need to request content removal, submit your request to the email below:
 
-**Email:** ![email.png](/email.png) (the email is an image to prevent scraping bots and the resulting spam)
+**Email:** ![3ma1l.png](assets/3ma1l.png) (the email is an image to prevent scraping bots and the resulting spam)
 
 > This email is used solely for wiki-related communication. We do not share your email, and messages are never used for marketing or advertising purposes.
 {.is-info}
