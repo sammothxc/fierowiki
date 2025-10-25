@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T08:21:12.809Z
+date: 2025-10-25T08:22:00.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
@@ -18,7 +18,7 @@ dateCreated: 2025-10-25T01:48:27.247Z
 
 ## 🔧 What Is FieroWiki?
 
-FieroWiki is a free, independent knowledge base and archival project for everything related to the **Pontiac Fiero** — the innovative mid-engined sports car produced by Pontiac from 1984 to 1988.
+FieroWiki is a free, independent knowledge base and archival project for everything related to the **Pontiac Fiero** — the innovative American mid-engined sports car produced by Pontiac from 1984 to 1988.
 
 This wiki aims to gather technical documentation, historical resources, restoration guides, and community knowledge in one organized, searchable place.  
 Every article, manual, and image helps ensure that the Fiero’s story remains alive for future generations.
