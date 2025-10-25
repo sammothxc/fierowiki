@@ -1,8 +1,8 @@
 ---
 title: Data Privacy
-description: Data privacy policy
+description: 
 published: true
-date: 2025-10-25T00:36:05.030Z
+date: 2025-10-25T01:43:45.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:36:05.030Z
