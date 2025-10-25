@@ -1,8 +1,8 @@
 ---
-title: 
+title: About
 description: 
 published: true
-date: 2025-10-25T00:51:44.172Z
+date: 2025-10-25T01:43:01.155Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:32:21.336Z
