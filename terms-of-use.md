@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:41:46.638Z
+date: 2025-10-25T02:45:03.453Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -116,7 +116,3 @@ FieroWiki may update or revise these [Terms of Use](/terms-of-use) at any time. 
 
 For questions, permissions, or takedown requests, please visit the [Contact page](/contact).
 
-<br>
-
-**FieroWiki**  
-An independent preservation project for the Fiero community
