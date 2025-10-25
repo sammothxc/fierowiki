@@ -2,7 +2,7 @@
 title: Data Privacy
 description: 
 published: true
-date: 2025-10-25T03:10:43.346Z
+date: 2025-10-25T03:11:30.302Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:36:05.030Z
@@ -18,7 +18,7 @@ This page explains what information may be collected, how it is used, and your c
 ## 1. General Principles
 
 FieroWiki is a nonprofit, community-driven preservation project. FieroWiki does not sell, trade, or otherwise share personal data for profit or marketing purposes. Any data processing that occurs is solely to ensure the site’s functionality, security, and spam prevention.
-FieroWiki aims to remain advertisement-free, funded entirely by the site owners love for Fieros.
+FieroWiki aims to remain advertisement-free, funded entirely by the site owner's love for Fieros.
 
 <br>
 
