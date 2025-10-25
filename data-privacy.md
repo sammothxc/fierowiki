@@ -2,7 +2,7 @@
 title: Data Privacy
 description: 
 published: true
-date: 2025-10-25T03:11:30.302Z
+date: 2025-10-25T03:50:31.094Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:36:05.030Z
@@ -90,5 +90,8 @@ If you are located outside the United States, please note that your data may be 
 
 ## 8. Changes to This Policy
 
-This privacy policy may be updated occasionally.  
-The latest version will always be available on this page, with the “last updated” date shown in the sidebar.
+FieroWiki may update or revise this policy at any time.
+The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.
+
+Continued use of the site constitutes acceptance of any changes.
+
