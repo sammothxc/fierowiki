@@ -2,7 +2,7 @@
 title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T02:31:55.269Z
+date: 2025-10-25T02:32:22.614Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
@@ -21,7 +21,7 @@ Welcome to **FieroWiki**! An independent, community-focused information archive 
 
 ## 1. Purpose of FieroWiki
 
-FieroWiki is a nonprofit, educational resource built to document and preserve information about the Pontiac Fiero for the Fiero community, including technical data, restoration guides, and any other official and community-created materials. FieroWiki exists to collect, organize, and share knowledge about the Pontiac Fiero for personal, educational, and historical purposes. The project operates in good faith to preserve information that might otherwise be lost to time.
+FieroWiki is a **nonprofit**, educational resource built to document and preserve information about the Pontiac Fiero for the Fiero community, including technical data, restoration guides, and any other official and community-created materials. FieroWiki exists to collect, organize, and share knowledge about the Pontiac Fiero for personal, educational, and historical purposes. The project operates in good faith to preserve information that might otherwise be lost to time.
 
 For more information, please see the [About page](/about).
 
