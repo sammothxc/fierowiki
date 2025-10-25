@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T09:20:56.592Z
+date: 2025-10-25T09:41:42.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
@@ -37,15 +37,16 @@ Things you'll find here:
 - Media & Galleries – Photos, brochures, and promotional material  
 - Documents & PDFs – Scanned manuals, spec sheets, and historical documents
 
-Want to help expand these sections? See the [Contribute page](/about#contributions).
+Want to help expand these sections? See the [Contribute section](/about#contributions).
 
 <br>
 
 ## 🧰 Project Info
 
+- Website: [FieroWiki](https://fierowiki.samwarr.dev)
 - Repository: [GitHub – sammothxc/fierowiki](https://github.com/sammothxc/fierowiki)  
 - Maintainer: **Sam Warr (sammothxc)**  
-- Platform: **Wiki.js** (self-hosted, synced to GitHub)
+- Platform: [Wiki.js](https://wiki.js.org) (self-hosted, synced to GitHub)
 
 > FieroWiki is an independent project and **not affiliated** with General Motors, Pontiac, or any official Fiero organization.
 {.is-warning}
@@ -63,5 +64,7 @@ Join the community and help preserve the Fiero’s legacy!
 
 <br>
 
+## 🧭 Search
 
-
+You can search any topic, part, or piece of information using the site’s built-in search tool above.  
+If something isn’t listed here but should be, please open an issue or suggestion on [GitHub](https://github.com/sammothxc/fierowiki/issues).
