@@ -2,7 +2,7 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-25T09:18:36.961Z
+date: 2025-10-25T09:19:36.662Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-25T00:33:11.770Z
