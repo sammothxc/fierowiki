@@ -1,8 +1,8 @@
 ---
-title: Terms of Usel
+title: Terms of Use
 description: 
 published: true
-date: 2025-10-25T01:42:11.859Z
+date: 2025-10-25T01:42:33.595Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
