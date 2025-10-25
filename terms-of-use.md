@@ -1,8 +1,8 @@
 ---
-title: Terms of Use
-description: How you’re allowed to use this site
+title: Terms of Usel
+description: 
 published: true
-date: 2025-10-25T01:40:37.558Z
+date: 2025-10-25T01:42:11.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T00:42:05.114Z
