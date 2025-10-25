@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T08:14:12.773Z
+date: 2025-10-25T08:18:50.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
@@ -27,6 +27,9 @@ Every article, manual, and image helps ensure that the Fiero’s story remains a
 
 ## 📚 Explore the Wiki
 
+> All materials are used under fair use and educational purposes where applicable. [See more](/copyright)
+{.is-info}
+
 - 🛠️ [**Technical Information**](/technical) – Repair data, service manuals, and restoration resources  
 - 🧠 [**Guides & Tutorials**](/guides) – Community-written repair, modification, and restoration tips  
 - 🕰️ [**History & Archives**](/history) – Articles and references on the Fiero’s design and legacy  
@@ -34,9 +37,6 @@ Every article, manual, and image helps ensure that the Fiero’s story remains a
 - 🧾 [**Documents & PDFs**](/documents) – Scanned manuals, spec sheets, and historical documents
 
 Want to help expand these sections? See the [Contribute page](/about#contributions).
-
-> All materials are used under fair use and educational purposes where applicable. [See more](/copyright)
-{.is-info}
 
 <br>
 
@@ -55,8 +55,9 @@ Want to help expand these sections? See the [Contribute page](/about#contributio
 
 Join the community and help preserve the Fiero’s legacy!
 
-- Contribute on [GitHub](https://github.com/sammothxc/fierowiki)  
-- Message `sammothxc` on Discord  
+- Contribute on [GitHub](https://github.com/sammothxc/fierowiki)
+- Message me on Reddit at [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc)
+- Message me on Discord at `sammothxc`
 - Email via the [Contact page](/contact)
 
 <br>
