@@ -2,17 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T08:06:54.566Z
+date: 2025-10-25T08:09:23.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-25T01:48:27.247Z
 ---
 
+![fierowiki_logo_tr.png](/logos/fierowiki_logo_tr.png)
+
+A community-driven archive dedicated to preserving the history, knowledge, and legacy of the Pontiac Fiero.
+
 # Welcome to FieroWiki
-
-![Pontiac Fiero Banner Image](/logos/fierowiki_logo_tr.png)
-
-> _A community-driven archive dedicated to preserving the history, knowledge, and legacy of the Pontiac Fiero._
 
 <br>
 
