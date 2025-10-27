@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-27T19:34:04.553Z
+date: 2025-10-27T19:36:49.589Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -21,7 +21,7 @@ dateCreated: 2025-10-26T22:26:43.895Z
 
 ## 🔧 What Is FieroWiki?
 
-FieroWiki is a free, independent knowledge base and archival project for everything related to the **Pontiac Fiero** — the innovative American mid-engined sports car produced by Pontiac from 1984 to 1988.
+FieroWiki is a free, independent knowledge base and archival project for everything related to the **Pontiac Fiero** — the innovative American mid-engine sports car produced by Pontiac from 1984 to 1988.
 
 This wiki aims to gather technical documentation, historical resources, restoration guides, and community knowledge in one organized, searchable place.  
 Every article, manual, and image helps ensure that the Fiero’s story remains alive for future generations.
@@ -40,7 +40,7 @@ Things you'll find here:
 
 - Documents & PDFs – Scanned manuals, spec sheets, and historical documents
 
-Want to help expand these sections? See the [Contribute section](/home#contributions).
+Want to help expand these sections? See the [Contributing section](/home#contributing).
 
 <br>
 
@@ -48,15 +48,6 @@ Want to help expand these sections? See the [Contribute section](/home#contribut
 
 You can search any topic, part, or piece of information using the site’s built-in search tool above.  
 If something isn’t listed here but should be, please open an issue or suggestion on [GitHub](https://github.com/sammothxc/fierowiki/issues).
-
-<br>
-
-## 📚 Explore the Wiki
-
-
-
-
-
 
 <br>
 
@@ -74,13 +65,13 @@ Please respect the **copyright and licensing** of all materials. Only contribute
 
 ## 🧰 Project Info
 
+> FieroWiki is an independent project and **not affiliated** with General Motors, Pontiac, or any official Fiero organization.
+{.is-warning}
+
 - Website: [FieroWiki](https://fierowiki.samwarr.dev)
 - Repository: [GitHub – sammothxc/fierowiki](https://github.com/sammothxc/fierowiki)  
 - Maintainer: **Sam Warr (sammothxc)**  
 - Platform: [Wiki.js](https://wiki.js.org) (self-hosted, synced to GitHub)
-
-> FieroWiki is an independent project and **not affiliated** with General Motors, Pontiac, or any official Fiero organization.
-{.is-warning}
 
 <br>
 
@@ -90,5 +81,5 @@ Join the community and help preserve the Fiero’s legacy!
 
 - Contribute on [GitHub](https://github.com/sammothxc/fierowiki)
 - Message me on Reddit at [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc)
-- Message me on Discord at `sammothxc`
+- Message me on Discord or Telegram  `@sammothxc`
 - Email via the [Contact page](/contact)
