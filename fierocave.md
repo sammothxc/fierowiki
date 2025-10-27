@@ -2,10 +2,10 @@
 title: Ogre's Fiero Cave Entry
 description: 
 published: true
-date: 2025-10-27T02:02:30.505Z
+date: 2025-10-27T02:18:15.351Z
 tags: fierocave
 editor: markdown
-dateCreated: 2025-10-26T22:55:14.927Z
+dateCreated: 2025-10-27T02:09:15.929Z
 ---
 
 # Archive Notice: Ogre’s Fiero Cave
@@ -26,7 +26,7 @@ If you are the original creator or copyright holder and would like this archive 
 
 ## About This Copy
 - This is a **read-only historical archive**. Some links, scripts, and features may no longer function.  
-- The content has been preserved **as-is** for the sake of technical reference.  
+- The content has been preserved **as-is** for the sake of technical reference, with only minor edits to make it hostable.  
 - No claim of authorship, modification, or redistribution rights is made by FieroWiki.
 
 This is a **preserved, unedited copy** of the original website **Ogre’s Fiero Cave** as recorded in [The Wayback Machine](https://web.archive.org/web/20140928092033im_/http://home.comcast.net/~fierocave/) around 2014, hosted here **for archival and educational purposes only**.
