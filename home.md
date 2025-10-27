@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-10-27T19:36:49.589Z
+date: 2025-10-27T19:50:48.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -82,4 +82,5 @@ Join the community and help preserve the Fiero’s legacy!
 - Contribute on [GitHub](https://github.com/sammothxc/fierowiki)
 - Message me on Reddit at [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc)
 - Message me on Discord or Telegram  `@sammothxc`
+- Reach out via DM on my Fiero's instagram account 
 - Email via the [Contact page](/contact)
