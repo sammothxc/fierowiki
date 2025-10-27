@@ -2,7 +2,7 @@
 title: FieroWiki User Guide
 description: 
 published: true
-date: 2025-10-27T21:38:30.898Z
+date: 2025-10-27T21:43:05.480Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-27T16:52:47.129Z
@@ -33,4 +33,4 @@ FieroWiki's site-wide navigation bar is on the left Use it for:
 
 ## 📂 Files and Downloads
 
-Larger files such as PDFs, videos, 3D files, scans, and other miscellaneous files are linked through FieroWiki's fileserver, [FieroFile (https://fierofile.samwarr.dev)](https://fierofile.samwarr.dev). Downloads linked to that domain are considered as part of the FieroWiki website. FieroWiki strives to protect its users from malicious downloads by using various malware and virus detection tools but as all 3rd party content is archived and hosted as-is, FieroWiki cannot guarantee that all hosted files, especially executables, are safe.
+Larger files such as PDFs, videos, 3D files, scans, and other miscellaneous files are linked through FieroWiki's fileserver, [FieroFile `https://fierowiki.samwarr.dev/share/N9G9z0tX`](https://fierofile.samwarr.dev). Downloads linked using this URL are considered as part of the FieroWiki website. FieroWiki strives to protect its users from malicious downloads by using various malware and virus detection tools but as all 3rd party content is archived and hosted as-is, FieroWiki cannot guarantee that all hosted files, especially executables, are safe.
