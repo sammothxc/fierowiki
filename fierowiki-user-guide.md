@@ -2,7 +2,7 @@
 title: FieroWiki User Guide
 description: 
 published: true
-date: 2025-10-27T22:36:09.070Z
+date: 2025-10-27T22:53:11.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-27T16:52:47.129Z
@@ -16,32 +16,38 @@ Welcome to **FieroWiki**! This guide will help you navigate the site and find in
 
 ## 🔎 Searching
 
-- Use the **search bar** at the top of the page to find specific topics, manuals, or files
+- Use the search bar at the top of the page to find specific topics, manuals, or files
 
-- Clicking on the `Browse by Tags` button just to the right of the search bar allows you to see all pages with the associated tag
+- Click the Browse by Tags button (just to the right of the search bar) to view all pages associated with a specific tag
 
 <br>
 
 ## 🧭 Navigation
-FieroWiki's site-wide navigation bar is on the left. Use it for:
+FieroWiki's site-wide navigation bar is on the left. Use it to:
 
-- Getting to FieroWiki specific pages quickly, like for quick refrence material and file downloads, as well as policy pages
+- Quickly access FieroWiki-specific pages such as quick reference material, file downloads, and policy pages
 
-- Access the landing pages for websites archived and preserved by FieroWiki
+- Reach the landing pages for archived websites preserved by FieroWiki
 
-The sidebar on the right has the Table of Contents for the specific page you are on. Use it for:
+The sidebar on the right contains the Table of Contents for the page you’re currently viewing. Use it to:
 
-- Navigating to a specific section of that page
+- Jump directly to a specific section on the page
 
-- Viewing tags associated with that page
+- View tags associated with that page
 
-- Entering the comment section to 
+- Access the comment section for discussion or feedback
 
-> Each archived site will also have its own sitemap/menu/index page for navigating its own resources and pages.
+> Each archived site will also have its own sitemap, menu, or index page for navigating its resources and pages.
 {.is-info}
 
 <br>
 
 ## 📂 Files and Downloads
 
-Larger files such as PDFs, videos, 3D files/scans, and other miscellaneous files are linked through FieroWiki's fileserver, FieroFile and have links that follow the base URL of [`https://fierowiki.samwarr.dev/api/public/dl/`](https://fierowiki.samwarr.dev/api/public/dl/). Downloads linked in this manner are considered as part of the FieroWiki website. FieroWiki strives to protect its users from malicious downloads by using various malware and virus detection tools but as all 3rd party content is archived and hosted as-is, FieroWiki cannot guarantee that all hosted files (especially executables!) are safe.
+Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server, **FieroFile**.
+These files use links beginning with the base URL [`https://fierowiki.samwarr.dev/api/public/dl/`](https://fierowiki.samwarr.dev/api/public/dl/).
+Downloads linked in this manner are considered part of the FieroWiki website.
+
+> While FieroWiki takes precautions against malware by scanning files with various tools, all third-party content is hosted as-is.
+FieroWiki cannot guarantee that all hosted files (especially executables!) are completely safe. Always use caution when downloading files.
+{.is-warning}
