@@ -1,0 +1,243 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="index.htm" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.htm" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>Scannerroid</h1>
+
+<p class="note">You do not need a "Code Reader." Use a small wire connected between
+the A and B terminals in the ALDL connector. The check/service engine light
+will flash out the codes for you. You don't need any of those 20-30$ readers
+you see all over the place. Read ALDL and/or More on Tools.</p>
+
+
+<h2>ECM scanning for the rest of us.</h2>
+
+<p>Many references to using an ECM scanner show up in the forums... But just
+what is a scanner and what the hell do all those bloody number mean?</p>
+
+<p>An ECM scanner is a computer in its own right and plugs into the Assembly
+Line Diagnostic/Communication Link connector. Depending on the scanner model
+and ECM involved it can do several things but the main ones are retrieving
+stored Diagnostic Trouble Codes (DTC is the formal name for the error codes.)
+and reading the Serial Data Stream. It is that second part that sets the
+scanner apart from code grabbers or a simple paper clip.</p>
+
+<p>Many people make out like a scanner will instantly tell you what is wrong
+with the car. Very simply, it won't. You are going to have to practice reading
+and learning the numbers you see on a good engine so you know what to look for
+with a problem. Making the best use of an ECM scanner is as much art as
+science. If you have a poor grasp of how computer controlled engines work, the
+scanner may not help you much. </p>
+
+<p>The main complication is that there's all sorts of things that can make the
+ECM feed you bogus data. You can't count on any one thing to tell you what is
+wrong. Another problem is that the OBD1 ECM data stream is far too slow to
+track fast moving items like O2 voltage and ignition timing. Even the more
+modern OBD2 systems have trouble keeping up with some items.</p>
+
+<h2>First you need a scanner...</h2>
+
+<p>If you have a laptop, you can use WinALDL and a special cable... There are
+many threads in the forums about it. The people using it like it. This works
+only with the older C3 ECMs used with the Fiero V6 and the distributor L4. The
+software is a free download far as I know. Someone in the forums sells the
+assembled cable if you don't want to make one. 
+(WinALDL or The Fiero Store's USB tool <u>will not work</u> on P4 ECM, like 87-88 L4 Fiero.)
+</p>
+
+<p>One of the least expensive standalone units is the AutoXray OBD1 GM Only
+scanner. (It's been discontinued.) <a href="https://web.archive.org/web/20151002181129/http://www.autoxray.com/" target="_blank">autoxray.com</a>. And try <a href="https://web.archive.org/web/20151002181129/http://www.actron.com//" target="_blank">Actron</a>, you can get their tools 
+at any auto parts store. Commercial ones will work on C3 and P4 ECMs, including 87 and up Fiero L4 DIS motors. </p>
+
+<p>I have the AutoXray. It is nice enough for what I need but if you need to
+look at several parameters at once it can be a pain. The screen is setup to do
+one item at a time. It will track everything but you have to scroll back and
+forth to see things.</p>
+
+<h3>Scanning while driving</h3>
+
+<p class="warn">Warning: If you notice that your engine runs significantly different with the scanner
+in operation, <i>don't drive the car!</i></p>
+<p>The ECM isn't made to be multitasking
+and the scanner can mess with the ignition timing, idle RPM, and more, in many configurations of ECM. </p>
+
+<h2>What can I do with it?</h2>
+
+<p>You can learn certain things about how the engine is running and if a change
+you made may be causing trouble. This isn't a complete guide but it should give
+you some starting points depending what is wrong with the car. What you can
+learn from the scanner depends greatly on what ECM is in use. The newer the
+ECM, the more it will tell you.</p>
+
+<h3>System Voltage</h3>
+
+<p>The voltage the ECM sees is important. Besides more obvious problems like
+weak spark with low voltage, you'll also have injection problems. If the
+voltage to the ECM is too low, the ECM will go into a low voltage mode that
+changes the entire fuel pulse setup. This is one reason why I keep harping
+about checking the charging system and grounds whenever you have poor idle and
+other engine problems.</p>
+
+<h3>Idle Setting</h3>
+
+<p>The scanner will tell you where the Idle Air Control motor is positioned. This
+can help you nail down small vacuum leaks or incorrect throttle stop settings.
+With the car idling in park/neutral, I believe most Port fuel injected engines
+should show about 30-35 steps on a hot engine. 700 series TBI units will show
+about 10-12 steps on the IAC. I don't have the number for the older 300 series
+TBI. (TBI units can't shut the throttle butterfly too much or the fuel won't be
+able to get by properly at idle.)</p>
+
+<p>As an example, an Idle count of 3 at idle on a 700 series TBI likely means
+there is a significant vacuum leak or some twit has messed with the throttle
+stop. A miss adjusted throttle stop can also mess with BLM at idle.</p>
+
+<p>The IAC should stay pretty stable at idle. An IAC that is dancing around
+indicates problems. Could be vacuum problems or any number of other things.</p>
+
+<h3>Integrator and BLM </h3>
+
+<p>If you think the car is running rich or far worse lean, these numbers can
+help you find out how bad the problem is.</p>
+
+<p>Ideally both numbers should be close to 128. So you know what they do... On
+newer cars they are called short term and long term fuel trim respectively.
+These numbers tell you how the ECM is setting fuel mix.</p>
+
+<p>Integrator, the short-term fuel trim, will dance around as the car runs. In
+many cases it changes too fast to be accurately read on the scanner. If it
+strays too far from 128 for too long, the ECM will change the BLM number to try
+to get Integrator to stay closer to 128. A car that is running rich will
+usually show a low, even pegged, BLM number. A high BLM indicates a lean
+problem that could be real bad for the engine.</p>
+
+<p>BLM, Block Learn Mode, the long-term fuel trim, gets its name from blocks of
+numbers in the PROM program. </p>
+
+<p>The Integrator will change at nearly every update. BLM should change very
+little or not at all as long as RPM is constant, like at idle or cruising down
+the highway. BLM will change based on RPM as the engine may need different fuel
+trim at 2500 RPM than it does at idle. This is normal. What you never want to
+see is BLM pegged at the low or high limit. Pegging BLM is usually a bad thing,
+but won't trip an error unless the Integrator also pegs for more than X
+seconds. 45 rich mix is the error you get with Integrator pegged low and 44
+lean mix is pegged high. </p>
+
+<h4>The numbers are backwards</h4>
+
+<p>As I noted, low numbers mean the car is running rich. On the face of it this
+sounds to many people like the car is adding fuel. What the low Integrator or
+BLM number means is that the ECM is cutting fuel in response to a rich
+condition. A high Integrator or BLM number means the ECM is adding fuel in
+response to a lean condition. </p>
+
+<h4>When to worry</h4>
+<p><i>Check your fuel pressure?</i> Fuel pressure can mess with BLM...</p>
+<p>Pegging low will waste gas and cause drivability problems. Pegging the BLM
+high is especially bad as you will run the engine lean and likely burn stuff up
+in fairly short order.</p>
+
+<p>The BLM not equaling 128 isn't automatically a problem. There are many
+things in the normal operation of a vehicle that will make the BLM move. If it
+is a couple notches either way then there usually isn't much problem. For
+example, 124-126 could simply be a response to the weather that day making it
+need a bit less fuel. On the other hand, a BLM at idle that is always 120 could
+mean something like fuel pressure is too high, you have the wrong injector(s)
+installed, or you have an injector with a slight leak.</p>
+
+<p>As I mentioned you don't want to see the BLM pegged. The range of BLM can be
+fairly narrow. TK in the forums tells me the 
+low BLM limit on all the V6 Fiero is 120. The low limit on the 87+ DIS L4 is 112. 
+The high limit for most GM engines is 150.
+I don't have any more than that. If the BLM is more than 4 to 5 plus/minus from
+128 then post in the forums so someone can help you figure it out. A BLM that
+is consistently low could be sign of leaking injectors or other problems even
+if it isn't pegged. </p>
+
+<h3>Temperature Sensors</h3>
+
+<p>Besides reading temperature sensor values, a scanner and thermometer can
+make testing the sensors very painless. Since Fiero allows easy access to the
+coolant via the thermostat housing, all you need is a cheap digital meat
+thermometer you can find in many grocery stores for about $15. </p>
+
+<p>On a cold engine, key on and engine off... Scan the coolant temp from the
+ECM and read the coolant temp in the thermostat neck with a good thermometer.
+They should read within a few degrees of each other. Once you do that, run the
+engine up to temperature but DO NOT allow it to build pressure in the cooling
+system! Repeat the test again. (The second part of the test is much easier if
+you have an IR pyrometer. Then you can just cap the system and read the
+thermostat housing temperature without opening the system. You can get IR units
+for under $100 now.)</p>
+
+<p>Same test can be used for the air and transmission temp sensors on cars that
+have them. Due to its location in the manifold, the MAT sensor used on DIS L4
+will need to pulled and let it sit in free air a few minutes. A trans temp
+sensor will usually read the same temp you would get reading the trans oil pan
+with an IR pyrometer.</p>
+
+<h3>Coolant Fan and Cruise Control</h3>
+
+<p>On the later cars with P4 ECM, like 87+ DIS L4, coolant fan management and
+cruise control is integrated into the ECM and status of all controls is
+reported in the data stream.</p>
+
+<h3>AC control</h3>
+
+<p>In many cars the AC clutch is controlled at least partly by the ECM. The data stream will indicate 
+something like "AC Requested" and "AC Clutch En/Disabled." AC Requested means all the switches in the AC system, 
+Control Panel, High pressure, low pressure and clutch cycle if you have it, are closed. The final decision is up to the 
+ECM and sets AC Clutch Enabled. Normally, ECM sets AC Clutch Enabled as soon as AC Requested signal is High/Active 
+but most ECM programs have an AC cutout that activates above some throttle value. (Another reason to make certain 
+your throttle cable is actually making the throttle body reach WOT.) This way the AC isn't sucking power and protects 
+the Compressor from over rev when you mash the gas. Even the later V5 compressor based AC systems have this ECM control.
+</p>
+
+<h2>What you can't do with it</h2>
+
+<p>As noted, things that change rapidly won't be accurately reflected on the
+scanner screen. O2 sensor function and Ignition timing are just a couple
+examples. Others are less obvious. While you can use it to check the gross
+status of the Throttle Position Sensor, the scanner will not reliably tell you
+if there is a bad sensor. If the TPS has small dropouts, they may not last long
+enough for the scanner to register them. Items like these will need other
+testing equipment like a quality voltmeter or shop scope.</p>
+
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+<!--
+     FILE ARCHIVED ON 18:11:29 Oct 02, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:17:24 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.487
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.015
+  esindex: 0.01
+  cdx.remote: 15.1
+  LoadShardBlock: 790.548 (3)
+  PetaboxLoader3.resolve: 523.849 (4)
+  PetaboxLoader3.datanode: 183.762 (4)
+  load_resource: 29.594
+-->
