@@ -1,0 +1,617 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="index.htm" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.htm" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>Yuck, It's Dirty...</h1>
+
+<p>This article is written for OE setups. Some things will vary if you are
+installing performance parts.</p>
+
+<p>Engine oil is some pretty amazing stuff. It has to operate continuously in
+one of the harshest environments on the planet. If it fails so does your engine
+and usually rather quickly. </p>
+
+<p>The lubrication system in an engine is very complex. Every passage is
+carefully planned. Bearing clearances have to be tight enough for parts move
+properly and loose enough to allow adequate oil flow. If one spot flows too
+much oil, one or more other spots could starve resulting in very short engine
+life.</p>
+
+<h2>The Players</h2>
+
+<p>Where's it going and how...</p>
+
+<h3>The Oil Pump and Pressure Regulator</h3>
+
+<p>The pump picks up unfiltered oil from the pan. (There is a screen in the
+pickup but it only stops big stuff.) The oil pressure is limited by a
+regulator, which often built into the pump but can be in the block. The
+regulator is always located between the pump and the oil filter. </p>
+
+<h3>The Oil Filter</h3>
+
+<p>The oil goes is pumped thru the filter before going to the rest of the
+motor. The filters used in Fiero are non-bypass types. This means they do not
+contain a bypass valve. Most do contain an anti drain back valve. Oil flows
+from the outside of the media to the inside. (I.E. The oil enters thru the ring
+of small holes and exits thru the threaded opening.)</p>
+
+<h3>The Valve Lifters</h3>
+
+<p>Many people forget that hydraulic lifters are also little oil pumps. The
+lifters are the only source of oil flowing to the rockers in a pushrod motor. A
+common mistake during cam work is failing to prime the lifters. It's usually
+not a fatal issue but it does mean the lifters take that much longer to oil the
+valve rockers.</p>
+
+<p>To prime a lifter simply place it in a container with enough oil to cover
+it. Compress the lifter several times to drive out the air in it. Yes, this is
+harder with roller lifters. You can use an old pushrod as a priming tool. (I
+used to use a cut off push rod with the cut end stuffed into a wood block. This
+makes really easy work of it.)</p>
+
+<h2>What does oil do?</h2>
+
+<p>Without getting technical... Oil has three jobs. </p>
+
+<p>Obviously it is a lubricant. The oil film keeps the two bearing surfaces
+from actually touching.</p>
+
+<p>It is a coolant. The oil caries heat away from all the places it flows. Oil
+is the only coolant for things like the wrist pins and rod bearings.</p>
+
+<p>It is a garbage collector, carrying metal and dirt particles out of the
+bearings.</p>
+
+<h2>Oil Weight</h2>
+
+<p>5W-30 is the normal oil for Fiero. The W? Think Winter. That is the weight
+the oil will shift to when it's cold. In really cold places you might want to
+use 0W-30 and in warmer places 10W-30. (See 
+<a href="https://web.archive.org/web/20151002181120/http://api.org/aboutoilgas/motoroil/api-quality-marks.cfm" target="_blank">API web page,</a> SAE Viscosity Grade.)</p>
+
+<p>Using heavier oil, such as 20W-50, isn't always a good thing. It can even do
+damage because heavier oil will always flow more slowly than a lighter oil,
+even slower in cold weather. For most people, staying with something in the
+5W-30 to 10W-40 range is best. People in hotter climates or running certain
+high performance setups may need the heavier oil. (Warning! The bearings in
+many turbo and super chargers are configured for specific oil weights. Using
+heavier oil than specified can quickly trash the turbo bearings.)</p>
+
+<table border="1" cellspacing="0" cellpadding="0">
+ <tr>
+  <th style="width:230.6pt;text-align:center;">
+  Lowest expected outside
+  temperature
+  </th>
+  <th style="width:177.0pt;text-align:center;">
+  Typical SAE grades for cars
+  </th>
+ </tr>
+ <tr>
+  <td style="width:230.6pt;text-align:center;">
+  <p class="MsoNormal" align="center">0&deg;C (32&deg;F)
+  </td>
+  <td style="width:177.0pt;border:inset #993300 .75pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">5W-30, 10W-30, 10W-40,
+  20W-50
+  </td>
+ </tr>
+ <tr>
+  <td style="width:230.6pt;text-align:center;">
+  <p class="MsoNormal" align="center" style="text-align:center">-18&deg;C (0&deg;F)
+  </td>
+  <td style="width:177.0pt;text-align:center;">
+  <p class="MsoNormal" align="center" style="text-align:center">5W-30, 10W-30, 10W-40
+  </td>
+ </tr>
+ <tr>
+  <td style="width:230.6pt;text-align:center;">
+  <p class="MsoNormal" align="center" style="text-align:center">Below -18&deg;C (0&deg;F)
+  </td>
+  <td style="width:177.0pt;text-align:center;">
+  <p class="MsoNormal" align="center" style="text-align:center">5W-30
+  </td>
+ </tr>
+</table>
+
+<p>(Source: American Petroleum Inst. Engine Oil Guide from 
+<a href="https://web.archive.org/web/20151002181120/http://api.org/certifications/engineoil/categories/index.cfm" target="_blank">web page.</a> )</p>
+
+<h2>How Much Oil Do I need?</h2>
+
+<p>That depends on a couple things.</p>
+
+<p>I believe Pre recall 84 L4 originally specified 3.5 quarts. Post recall 84
+L4 and all other L4 and V6 specify 4 quarts. (Pre/Post recall means that recall
+84-C-15B and/or 88-C-23A hasn't/has been done.)</p>
+
+<p><i>You may actually need more than the specified amount.</i> This is usually
+the case when the longer PF52 filter is used on 1985 and later engines. Using
+the PF52 will bring the 85 and later engines up to about 4.5 quarts capacity.</p>
+
+<p>The rule with most of the OE Fiero motors is to pour in 4 quarts and start
+the car for a minute or three. Then check the level and bring it up to the full
+mark. (With 84 L4, start with 3.5 quarts.)</p>
+
+<p>I always fill to the full mark on a cars dipstick regardless of specified
+capacity. NEVER run any motor low on oil. Transverse motors are very prone to
+pressure dropout when cornering, low oil will make this problem much worse. As
+far as I'm concerned you should be adding oil BEFORE the level drops to the add
+mark let alone below it. </p>
+
+<p>Yes, this means you may not always add a full quart. Better to add oil more
+frequently than allow oil pressure dropouts. Every time a dropout occurs the
+engine is effectively running without oil. The more dropouts you have, the
+shorter the engine's life.</p>
+
+<h2>Oil Pressure</h2>
+
+<p>A blow off or bypass valve, usually mounted in/on the oil pump, regulates
+oil pressure. Oil pressure should stay within the specified range at all times.
+Oil pressure that swings out side the specified range is very often an early sign
+of engine problems. (BTW. Most stock GM OP senders will only read to 80PSI
+max.) </p>
+
+<p class="MsoNormal">V6, VIN-9, 30-45 PSIG</p>
+
+<p class="MsoNormal">L4, VIN-R, 36-41 PSIG</p>
+
+<p>(Source, ALLdata) </p>
+
+<p>Oil pressure should stay within the specified range at all RPM. In very cold
+weather, oil pressure may be a bit higher than normal until the engine warms up
+a bit.</p>
+
+<p>Always test oil pressure with a mechanical gage! Don't trust an electrical
+one that can be thrown off by a flaky sender or bad grounds.</p>
+
+<p>High oil pressure can be almost as bad as low. Excessive pressure can
+distort the filter and even rupture it or blow the filter gasket. It can create
+internal problems as well. Depending on the engine, some oil passages are
+blocked with gallery plugs, similar to freeze plugs, which could blow out under
+high pressure. If this happens the engine will usually have no pressure. (VIN R
+and U motors have at least 1 such plug behind the timing gear on the cam.)</p>
+
+<h2>First oil</h2>
+
+<p>After a rebuild, no mater how well the block and everything are cleaned;
+there is always some junk that washes out. After an engine is stored for who
+knows how long, God only knows what will end up in the oil pan.</p>
+
+<p>This means you should expect that you might need to change the oil again in
+500-1000 miles. Maybe even less. I recommend using regular crude based oil for
+one main reason... While there is debate over seating rings, etc, with
+synthetic, you want regular oil because it's cheap. It just doesn't make sense
+to use expensive oil for that short interval.</p>
+
+<h2>Which oil is best?</h2>
+
+<p>In general, there is no best oil. Any decent brand of oil will meet API
+service category SJ or SL. (SL is the newest but there is still a large amount
+of SJ in inventory.) When Fiero was built the API service category was SE or SF
+so nearly all retail products will exceed Fiero's original specification.</p>
+
+<p>Mobil 1, if you can afford it AND your motor is in good shape, is nice
+stuff. If your motor has any known lube problems, like leaks or smoking, don't
+use it or any other synthetic until they are fixed. This stuff is too expensive
+to be dumped on the ground or fed out the exhaust.</p>
+
+<p>Your individual driving habits and vehicle setup will ultimately determine
+the best oil. Before settling on a brand, read the oil makers web sites. <a href="https://web.archive.org/web/20151002181120/http://www.mobil1.com/" target="_blank">Mobil 1</a> has a number of articles that should
+help you decide on brand, weight, etc. The oil makers all want you to buy their
+stuff but most seem to want you to pick the right stuff for your application,
+even if that means staying with the less expensive crude based oils.</p>
+
+<h3>Specialty oil</h3>
+
+<p>Do any of the specialty oils, like Valvoline MaxLife for high mile engines,
+actually work? I don't know and even if they do, it would depend on your
+specific engine how well. There is some concern about these products with the
+main issue being that long-term use of some of these products might over soften
+seals and cause leaks.</p>
+
+<p>So far MaxLife seems to be well received by the market. There are so many of
+these purpose blended oils now that it's hard to keep track of them. Before
+choosing one, check the makers' web sites and keep in mind that no oil or
+additive will reverse mechanical damage to a seal. The best you can hope for is
+some softening and swelling of an old seal to buy some time before replacement
+is forced.</p>
+
+<h3>Does Synthetic oil cause leaks?</h3>
+
+<p>No but if you have any small ones, the stuff can find them and wash out the
+dirt in the gap. That can make it seem like the synthetic caused the leak. The
+engine already had a problem that the synthetic simply exposed.</p>
+
+<p>Modern synthetics have chemicals that swell seals the same way regular oil
+is supposed to. Some early synthetics lacked these chemicals and the seals
+would shrink. In some cases the seal conditioners in synthetic oil may extend
+the life of aging seals, but again that will depend on the condition of the
+engine at hand.</p>
+
+<h3>Synthetic means no Crude...</h3>
+
+<p>Not according to Castrol and some others. Castrol Syntec is made from specially treated
+Crude base stocks. Car &amp; Driver and Lubricants World, a lube industry trade
+publication, have reported this issue. Castrol Syntec sells on the same pricing
+levels as Mobil 1's PAO based oil but the stuff costs far less to make.
+Personally I consider this an act of consumer fraud and won't use or recommend
+it.</p>
+
+<p>See 
+<a href="https://web.archive.org/web/20151002181120/http://www.klotzwarehouse.com/index.php?show_aux_page=6" target="_blank">at KLOTZ</a>
+ for more info on which "Group" of oil.</p>
+
+<h2>Do magnetic drain plugs work?</h2>
+
+<p>Yes! They don't trap a huge amount of stuff but everything on the magnet is
+that much less getting back into the motor. They will attract any size of
+magnetic particle that gets in range, even really small stuff that might pass
+thru the oil filter.</p>
+
+<p>They can also give you an early warning to major problems. If the thing is
+ever covered with coarse trash then you've got something going on that
+shouldn't be.</p>
+
+<p>You can get magnetic plugs at most parts stores. They are often sold under
+the OilTite line from MotorMite. They only cost a few dollars.</p>
+
+<h2>What Filter do I need?</h2>
+
+<p class="note">Note: GM/ACDelco has change maker and PF52 is shorter and cheaper made. 
+See notes below.
+</p>
+
+<p>This can be confusing. At the moment we'll stay with just the AC Delco
+numbers.</p>
+
+<p class="MsoNormal">All V6 specified PF47.</p>
+
+<p class="MsoNormal">84-87 L4 specified PF51 in TSB 88C23 (Engine Fire Recall), which has been superceded by PF52.</p>
+<p class="MsoNormal">88 L4 specified PF1072</p>
+
+<p>Officially, the filter makers will all tell you to only use the filter
+listed in their catalog. They don't want to take the chance that some alternate
+will screw up you engine. Many people use the PF52 filter on all Fiero engines
+that have room for it. Besides the increased filter surface area, you get a
+slight increase in total oil capacity and it is easier to reach at service time on L4.</p>
+
+<p>If you use filters in the Allied Signal (They make Fram and other brands)
+numbering system the long filters are xxx3980. The xxx prefix of the number
+will vary depending on the brand/grade the filter is sold under. Typical Fram
+prefixes are PH and PHA. Some Allied Signal numbered brands, I believe Castrol
+is one, only offer the long filter.</p>
+
+<p>88 L4, and all VIN R or U, motors with the filter in the oil pan use PF1072.
+Although you do have a selection of different filter media, this motor doesn't
+have the option of a larger filter. </p>
+
+<h3>PF52 change notes</h3>
+
+<p>PF52 has change, read these links:</p>
+
+<p class="MsoNormal"><a href="https://web.archive.org/web/20151002181120/http://www.fiero.nl/forum/Forum2/HTML/105330.html" target="_blank">AC
+Delco PF52 oil filter has shrunk</a> and 
+<a href="https://web.archive.org/web/20151002181120/http://www.fiero.nl/forum/Forum2/HTML/105372.html" target="_blank">The
+New AC Delco PF52 - Buyer Beware!</a> in PFF</p>
+
+<p class="MsoNormal"><a href="https://web.archive.org/web/20151002181120/http://www.sandyblogs.com/techconnect/2009/11/acdelco-launches-redesigned-oe-oil-filter.html" target="_blank">ACDelco Launches Redesigned OE Oil Filter</a></p>
+
+<p class="MsoNormal"><a href="https://web.archive.org/web/20151002181120/http://www.acdelcotechconnect.com/pdf/09TSS-062.pdf" target="_blank">ACDelco Newsletter</a> in PDF doc</p>
+
+
+<h2>Filter Install Notes</h2>
+
+<p>Most people over tighten filter and worse, use a wrench to tighten... Typical
+instructions:</p>
+
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal">Lube
+     filter gasket with <b>new</b> oil. </li>
+ <li class="MsoNormal">Tighten
+     3/4-1 turn after gasket contacts the base. </li>
+</ol>
+
+<p>Most people can tighten by hand force. Using a wrench to tighten? Then be
+very careful and not over tightening or dent/crush the filter. (Some &quot;wrenches&quot;
+are great for damaging/destroying the new filter.) Use a marker if needed so
+you can see what 3/4-1 turn looks like.</p>
+
+
+<h2>What Filter is best?</h2>
+
+<p>This is another minefield. I have a real problem with any filter claiming
+they are better than another. (Even among different products in the same
+brand.) Here's why.</p>
+
+<p>All the filters test against <a href="https://web.archive.org/web/20151002181120/http://www.sae.org/" target="_blank" title="Society of Automotive Engineers">SAE</a> specifications. The problem is
+that these specifications are not readily available to the public. In most
+cases if you want read them, you will pay a hefty fee to get them from SAE.
+Even then the specifications are beyond the general public's ability to
+understand them.</p>
+
+<p>This makes the tests rather meaningless. For example: one filter claims that
+when tested to an SAE spec it has 50% increased dirt trapping capacity vs.
+another filter, and it costs 3 times as much... Well if you are talking about
+the standard short Fiero filters, you get at least 50% more capacity by simply
+changing to the long filter which most times costs the same as the short one.</p>
+
+<p>To make matters worse there are Multiple SAE tests. If you take two
+competing filters:</p>
+
+<ul style="margin-top:0in" type="disc">
+ <li class="MsoNormal">Filter
+     A does better than B on Test One.</li>
+ <li class="MsoNormal">Filter
+     B does better than A on Test Two.</li>
+ <li class="MsoNormal">Both filters
+     will likely try to claim they are better than the other and both will site
+     only the unintelligible SAE standards as proof.</li>
+</ul>
+
+<h3>Filter construction</h3>
+
+<p>The filter makers all love to abuse each other over construction.... As long
+as the materials used do their job, who bloody cares what kind of springs and
+end caps are used? As long as the filter media holds its shape and doesn't
+leak, everything else is really totally meaningless to the average motor. All
+of the name brand filters meet or exceed the OE requirements for the Fiero
+motors.</p>
+
+<p>If you are racing, then it matters. If you are running high volume/pressure
+pumps them you want good filters. Racing oil pressures could rupture regular
+filter cases or make them puke out the filter gasket. The high flow rates could
+collapse the media. Neither is a good thing. Some &quot;performance&quot;
+filters also have a hex nut on them that is drilled for a safety wire. (Safety
+wire may be required in certain race classes.)</p>
+
+<h3>Changing Filters</h3>
+
+<p>Some people and documents recommend changing filters every other oil change.
+I always recommend you change the filter with the oil every time. This isn't to
+make you spend money. It's to get as much dirty oil out of the system as
+possible. There's no sense changing the oil and leaving up to a quart of dirty
+oil in the filter. </p>
+
+<h3>Brands</h3>
+
+<p>Brand is at least some small indication of quality. At the very least you
+can check out many brand's product data online now.</p>
+
+<p>Don't buy off brand filters. Some are ok but many are crap. There's no way
+to know which is which with them.</p>
+
+<p>I also avoid the filters at quick lube places. Even when these filters have
+a brand name, they are often lower quality than the same brand's retail
+product. Many of them have shells like beer cans.</p>
+
+<p>On the other hand, Store brands from larger chains are often pretty good.
+Many of the chains buy under contract from one of the big filter makers. These
+are worth checking out most of the time.</p>
+
+<p>You've also got some obscure brands, like WIX, running around. These lines
+are often targeted at heavy industry, commercial vehicles, and/or racing. These
+brands may not have products for every car on the road.</p>
+
+<h2>Filter Bypass Valve</h2>
+
+<p>Nearly all motors have an oil filter bypass valve. In OE Fiero motors, the
+bypass valve is located in the block where the filter is attached. (This is
+true of all GM engines using AC PF47 or PF52 filters or the Fram equivalents.)
+In other setups, it can be in the block or built into the filter. </p>
+
+<p>This valve opens only when the pressure difference between the filter inlet
+and outlet exceeds a few pounds. (About 7 PSI I think.) When the valve is open,
+oil flows unfiltered into the engine. Under Normal conditions, this valve will
+hardly ever open. The oil has to be very cold or the filter very dirty to make
+the bypass valve open. </p>
+
+<p>Some people advocate elimination of bypass valves but this is actually a
+really bad idea. Without this valve the filter media can collapse resulting in
+restricted oil flow. That could kill the engine depending how bad the
+restriction is. </p>
+
+<p>Keep in mind that while Mobil 1 will flow down to -65F, many crude based
+oils start getting stiff at +20F. This stiff oil can easily trash many filters
+if there is no bypass valve.</p>
+
+<p>(Bypass valves are commonly eliminated in Fiero running V8 engines.)</p>
+
+<h3>Part Numbers</h3>
+
+<p>If you ever need a new bypass valve...</p>
+
+<p class="quote">84-87, L4, VIN R, Oil Filter Bypass Valve, AC DELCO 25010497</p>
+
+<p class="quote">V6, VIN 9, Oil Filter Bypass Valve, AC DELCO 25014006</p>
+
+<p class="quote">88, L4, VIN R, Oil Filter Bypass Valve, AC DELCO 25014006</p>
+
+<p class="quote">(Source: ACDelco.com)</p>
+
+<p>Always double-check the numbers before ordering. Part Numbers do change.
+These numbers may not be right for all years.</p>
+
+<h2>What does Ogre use and why...</h2>
+
+<p>I started using Mobil 1 when the motor had around 140,000 miles on it. I
+didn't have any significant leaks or any other problem because of it. My engine
+has been pretty well taken care of by the previous owner and me. For filters
+I'm just running standard Fram PH3980's with the grippy paint. The short
+filters work fine but I can't reach them to change them. </p>
+
+<p>Why Fram? I've never had any problem with them. I just like orange I guess.
+(It's as good a reason as any when you start to look into filters... It's a
+close race between the oil people and the filter people who can produce more
+bullshit.) If they are out of Fram, I use AC Delco or some other known brand.</p>
+
+<p>Mobil 1 is generally considered to be one of the best oils there is. It
+works well for me. If you get the 5-quart jugs when they are on sale at
+Wal-Mart it's not as expensive. Price wise you're getting a quart free like
+that. I usually run 5W-30 or 10W-30. (Wal-Mart only caries the 5-quart jug
+about twice a year.)</p>
+
+<p>My change interval is probably more like 4000-5000 miles. I don't beat the
+car. I get a mix of decent runs with some stop and go. I'm using better oil
+with a long filter. I've also got one of the magnetic drain plugs.</p>
+
+<h2>Recycling</h2>
+
+<p>Used oil is a huge environmental problem. Please don't dump it on the ground
+or into storm sewers.</p>
+
+<p>You can return used oil to most chain stores with service centers. Pep Boys
+and other such places will take it. While they may be legally required to,
+small service stations may or may not take it. Some states, like Delaware, have
+additional programs. Delawareans, and nearby residents of MD and PA, can put
+oil into the Recycle Delaware bins 24/7 even on holidays. The Recycle Delaware
+program also has filter disposal bins. (Filters are crushed to extract oil and
+the metal is sold for scrap.)</p>
+
+<p>If your area won't accept used filters... Punch a hole in the dome and let
+them drain overnight before trashing them. They will drain faster and more
+completely if they are kept warm.</p>
+
+<h2>New Technology</h2>
+
+<p>Many newer cars have an &quot;oil life monitor&quot; installed. There are
+two kinds of monitors used.</p>
+
+<p>The most common method in GM cars seems to be a program running in the PCM.
+In short, when the car goes X miles the light turns on. It's basically a high
+tech version of the Jiffy Lube cling label they put on your windshield. It's a
+pretty dumb system that can't fully account for using Synthetic oil, driving
+conditions, and many other factors. To make them even more annoying, there is
+no standard way to reset the thing even across GM products. </p>
+
+<p>Another, more intelligent, system is marketed by Delphi and likely others.
+In this setup, there is actually a sensor in the oil pan that continuously
+monitors oil chemistry. Software in the PCM uses this data to tell you when to
+change oil. When properly programmed, this system can account for many of the
+things the above method cannot. If this system says change the oil, you better
+listen.</p>
+
+<h2>Starting Dry Motors</h2>
+
+<p>There are two kinds of dry motors...</p>
+
+<h3>Rebuilding</h3>
+
+<p>When you are rebuilding a motor, use assembly lube. This light grease is
+specifically designed for engine assembly and will hang around until the oil
+washes it away after startup. It provides far more protection than using engine
+oil. Assembly lube should be applied to all cam lobes/bearings, rocker tips and
+pivots, and any other thing that needs it.</p>
+
+<h3>Stored</h3>
+
+<p>An engine stored long term will dry out almost as much as a rebuilt one.
+Just what you can do depends what motor is involved.</p>
+
+<h3>Starting for the first time</h3>
+
+<p>Before starting the motor, grab some kind of spray oil and spray some into
+each cylinder. (If possible into the valve cover(s) of a stored engine. Bend
+the straw to oil as many rockers as possible.) Oil like Valvoline SynPower
+spray oil or CRC 556 will work better than a high solvent product like WD40 but
+WD40 will do.</p>
+
+<p>Leave the spark plugs out and crank it over 2-3 turns by hand. Yes, even
+rebuilt motors. If you can't crank it over by hand, odds are good that
+something could break if you hit the starter.</p>
+
+<p>Most people know to prime the oil pump before starting the engine. On
+engines that allow it, you can make a priming tool from an old distributor
+shaft. (I think Fiero V6 allows this) Many engines don't provide easy access to
+the pump drive. In that case, disable the ignition and fuel injection then
+crank the motor until oil pressure registers. (Don't crank it too long and cook
+the starter.)</p>
+
+<p>People often forget that priming the oil pump doesn't prime the lifters.
+Even if you manually prime the valve lifters during a rebuild it will still
+take them some time to pump oil thru the pushrods. So don't panic when you
+first start the thing. If the lifters aren't pumping after a minute or three
+then either a lifter is bad or the pushrod is plugged.</p>
+
+<h4>Disabling OE Fiero Motors </h4>
+
+<p class="warn">WARNING! Disable the ignition by unplugging the ignition module
+or the low voltage side of the coil. NEVER pull off high voltage wires!</p>
+
+<p>If you pull of the high voltage wires, the spark energy still has to go
+someplace. It can feed back into the ignition system and if it doesn't fry
+something immediately, it will likely weaken the system so it fails later.</p>
+
+<ul style="margin-top:0in" type="disc">
+ <li class="MsoNormal">On DIS
+     L4, unplug the two-wire connector from the ignition brick. That will kill
+     power to it.</li>
+ <li class="MsoNormal">HEI L4
+     or V6, unplug the ignition module. </li>
+ <li class="MsoNormal">To
+     make sure the EFI is dead... Pull the fuse for the fuel pump. </li>
+</ul>
+
+<p>The EFI goes dead in many systems if the ECM doesn't see the reference
+signal but kill the pump just to make certain. </p>
+
+<h2>Links</h2>
+
+<p>The <a href="https://web.archive.org/web/20151002181120/http://www.api.org/" target="_blank">American Petroleum Institute</a>
+represents most oil producers in the U.S. They also have another site, <a href="https://web.archive.org/web/20151002181120/http://www.recycleoil.org/" target="_blank">API Used Motor Oil Collection and Recycling.</a></p>
+
+<p>The <a href="https://web.archive.org/web/20151002181120/http://www.filtercouncil.org/" target="_blank">Filter Manufacturers Council</a>
+represents many of the filter makers in North America. Some interesting reading
+and links to info on filter recycling.</p>
+
+<p>The <a href="https://web.archive.org/web/20151002181120/http://www.dswa.com/" target="_blank">Delaware Solid Waste Authority</a> has
+info on Delaware's recycling program. (Such as it is.) It includes views of the
+&quot;igloos&quot; used here. (Most of them were originally igloo shaped. Now
+they mostly all are just dressed up dumpsters.) Only a few facilities have the
+oil and filter igloos.</p>
+
+<p><a href="https://web.archive.org/web/20151002181120/http://www.earth911.org/" target="_blank">Earth 911</a> can help you find
+commercial and municipal oil/filter and other recycling information for your
+local area.</p>
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+
+
+<!--
+     FILE ARCHIVED ON 18:11:20 Oct 02, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:16:45 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.601
+  exclusion.robots: 0.043
+  exclusion.robots.policy: 0.032
+  esindex: 0.011
+  cdx.remote: 77.32
+  LoadShardBlock: 105.452 (3)
+  PetaboxLoader3.resolve: 43.23 (3)
+  PetaboxLoader3.datanode: 238.098 (4)
+  load_resource: 182.019
+-->

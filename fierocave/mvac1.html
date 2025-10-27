@@ -1,0 +1,428 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="index.htm" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.htm" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>Climate Control</h1>
+
+<p>Assorted notes for fixing interior climate control components.</p>
+
+<h2>System performance</h2>
+
+<p>To get the most heating or cooling performance from the climate control
+system, avoid running the blower on high speed. You'll get more heat from the
+system sooner because the lower speeds give the air more time to pass thru the
+system. Same thing works for AC. On high the blower moves the air so fast that
+it spends very little time in contact with the heater or evaporator.</p>
+
+<p>If you're having trouble getting heat from the system and everything in the
+cooling system seems ok, the heater core may be air locked. Try bleeding the
+heater core as described in the cooling system article.</p>
+
+<p>Beyond that the heater core may be full of either internal or external
+trash. </p>
+
+<ul style="margin-top:0pt" type="disc">
+ <li class="MsoNormal">Leaves
+     and other junk may have built up in the heater box. This can be very
+     dangerous. If this garbage gets against the blower speed resistor, it's
+     been known to catch on fire. (Several forum members have had this happen!)</li>
+ <li class="MsoNormal">Internal
+     trash is most often the result of failing to maintain the coolant. If
+     flushing won't clean things out then it's usually easier to replace the
+     core instead of trying to get it cleaned or repaired.</li>
+</ul>
+
+<p>(I'm not covering AC performance here. There are too many things to go wrong
+with that system.) </p>
+
+<h2>AC/Heat Mode Actuators</h2>
+
+<p>The Fiero is somewhat unique in it's use of a Servo Motor system to operate
+the dampers in the AC/Heating unit in the passenger compartment instead of more
+traditional vacuum motors. These electric devices are controlled by a set of
+push buttons mounted above the radio. </p>
+
+<p>Servicing the actuators is straightforward. Either it works or it doesn't.
+If it fails to stop at a particular position, it could be a control switch, or
+the actuator. Generally though an actuator will fail either by the motor
+spinning with no resulting change to the dampers, or it won't spin at all. </p>
+
+<h3>Which motor does what?</h3>
+
+<p>The actuator behind the radio is the busy one. That one controls flow to all
+the system's outlets. 
+The one that is buried under the system is used only when
+the AC is set to Max. It opens the recirculation door. Of the two, the one
+behind the radio is the most likely to have a problem.</p>
+
+<h3>Testing</h3>
+
+<p>You did check the fuses.....</p>
+
+<p>There are three ways to test for problems in the electric duct control
+system. The easy one is to swap a known good set of controls but this is
+difficult to impossible for many people... So what else can be done?</p>
+
+<h4>Option 1</h4>
+
+<p>If you have an extra control set, just plug in the control board to test the
+motors. </p>
+
+<p>If you are borrowing the controls from another car, just move the board with
+the buttons. To get the board loose, remove the aluminum cover then remove the
+three screws that hold the board. (One thru the board and two thru the metal
+bar for the buttons. Sometimes they aren't all there... Don't worry about
+that.)</p>
+
+<p>Just using the board will save you from having to mess with the temperature
+slide(s). </p>
+
+<h4>Option 2</h4>
+
+<p>This test will assume all the wiring is ok. No one is likely to screw with
+the motor wiring but anything is possible.</p>
+
+<p>For this one, you need to pull out the control head and disconnect the large
+connector from the control board. (Leave everything else hanging out of the
+way.) </p>
+
+<table border="1" cellspacing="0" cellpadding="0" style="
+ border:outset #993300 .75pt;">
+ <tr>
+  <th>Motor
+  </th>
+  <th>Terminal
+  </th>
+  <th>Wire Color
+  </th>
+  <th>Mode
+  </th>
+ </tr>
+ <tr>
+  <td>Mode
+  </td>
+  <td>D
+  </td>
+  <td>Tan
+  </td>
+  <td>Defrost
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>F
+  </td>
+  <td>Purple
+  </td>
+  <td>Bilevel
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>J
+  </td>
+  <td>Lt Blue
+  </td>
+  <td>Vent
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>M
+  </td>
+  <td>Red
+  </td>
+  <td>Floor
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  </td>
+ </tr>
+ <tr>
+  <td>Recirc
+  </td>
+  <td>E
+  </td>
+  <td>Gray
+  </td>
+  <td>Fresh air in
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>L
+  </td>
+  <td>Yellow
+  </td>
+  <td>Recirculate
+  </td>
+ </tr>
+</table>
+
+<p>The table above shows what terminals in the control connector you will need
+to test each motor.</p>
+
+<p>Connect a FUSED 12V source to the terminals above (One at a time) and see if
+the motor stops at the correct position. If the motor doesn't turn or fails to
+stop then the motor is bad. If the motor does work and stop at the right spot
+then the control board is bad.</p>
+
+<p>The 12V source should be fused for 1-2 amps. The motors only draw about 150
+milliamps.</p>
+
+<h4>Option 3</h4>
+
+<p>This one can be used to test a mounted motor or a loose one. If you are
+testing a loose motor, be careful the arm doesn't pinch you. That arm has more
+torque than you might think. The table below lists the terminals on the motors.</p>
+
+<table border="1">
+ <tr>
+  <th>Motor
+  </th>
+  <th>Terminal
+  </th>
+  <th>Wire Color 
+  </th>
+  <th>Mode
+  </th>
+ </tr>
+ <tr>
+  <td>Mode
+  </td>
+  <td>A
+  </td>
+  <td>Black
+  </td>
+  <td>(Ground)
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>B
+  </td>
+  <td>Tan
+  </td>
+  <td>Defrost
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>C
+  </td>
+  <td>Lt Blue
+  </td>
+  <td>Vent
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>D
+  </td>
+  <td>Purple
+  </td>
+  <td>Bilevel
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>E
+  </td>
+  <td>Empty
+  </td>
+  <td>&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>F
+  </td>
+  <td>Red
+  </td>
+  <td>Floor
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  </td>
+ </tr>
+ <tr>
+  <td>Recirc
+  </td>
+  <td>A
+  </td>
+  <td>Black
+  </td>
+  <td>(Ground)
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>B
+  </td>
+  <td>Yellow
+  </td>
+  <td>Recirculate
+  </td>
+ </tr>
+ <tr>
+  <td>&nbsp;
+  </td>
+  <td>C
+  </td>
+  <td>Gray
+  </td>
+  <td>Fresh air in
+  </td>
+ </tr>
+</table>
+
+<p>Terminal A on the Mode motor is the one farthest from the corner of the
+case. I think the Recirc motor is the same but I've not seen them. They are so
+hard to get at I can't test the one in my car.</p>
+
+<p>Ground the A terminal and connect a FUSED 12V source to the other terminals
+one at a time. The motor will run for a bit then stop at the correct position.
+If the motor doesn't turn or fails to stop then the motor is bad. (If you are
+testing a loose motor, just make sure it stops at the same spot each time you
+power a particular terminal.)</p>
+
+<p>Again, the 12V source should be fused for 1-2 amps. The motors only draw
+about 150 milliamps.</p>
+
+<h3>Service</h3>
+
+<p>I've never had the motors themselves apart. Haven't run into a dead one yet... It may
+be possible to fix one but don't hold your breath over it. </p>
+
+<p>The Actuators are a real pain to get at. One is located behind the radio and
+has 2 linkages inside the duct. The other is under the ductwork with the crank
+facing the driver's side. This one is very uncomfortable to reach. </p>
+
+<p>To remove Actuator behind the radio, unplug the control cable, and then
+remove the two hex head screws. After the screws are out, Carefully lift the
+Actuator away from the heater box until you take up the slack. Find some small
+locking pliers, forceps, or even string and hold onto the linkages. If you drop
+the damper links they will be an absolute shit to get a hold of again later!
+Continue to support the actuator while you do this! </p>
+
+<p>There is a flat steel spring clip on the end of the actuator crank pin. With
+a pair of forceps, or needle nose pliers, rotate the clip so you can pull it
+off then CAREFULLY pull it off. Forceps, and locking pliers, are preferred for
+this since they will lock and hold the clip securely. DO NOT lose this clip!
+You might need it later if you didn't get one with a new unit or dropped the
+clip when harvesting the used unit you are installing. </p>
+
+<p>The tricky part is getting the links back onto the replacement actuator. If
+you dropped the links then good luck to you, if you locked onto them like I
+just told you to, then you're made. Put the links back onto the crack in the
+order they came off! The links will only fit one way on the Mode motor's crank! </p>
+
+<p>The actuator under the duct can be reached, with great difficulty, by
+crawling under the dash on the driver's side. This one only has one linkage.
+The clip and link are easy to deal with. I'm not sure how it's screwed to the
+duct. There is a small metal bracket. I can't see if you take the motor off the
+bracket or if you take the bracket off the duct. Neither one will be easy.</p>
+
+<h2>Temperature control</h2>
+
+<p>The temperature control slide uses a push/pull cable. This cable attaches to
+an arm on the top of the duct below the left speaker. This rarely goes bad. If
+it doesn't work most of the time you've snapped the pin on the slider or gotten
+something hung up on the cable or in the heater box.</p>
+
+<h2>Fan Speed Control Knob</h2>
+
+<p>Warning! The heater blower switch knob is held in place by a small &quot;rolled
+leaf&quot; spring. Be careful taking the knob off, as this spring is sometimes loose
+and can fall out of the knob. If you lose it the knob won't stay on the shaft
+without adhesive. If you must glue it on I suggest you use silicone as it can
+later be removed if need be to service the switch, or replace the knob. </p>
+
+<h2>The button fell off...</h2>
+
+<p>The buttons on the AC/Heater controls are not actually attached to the switch
+stems. Two little ears on each button are the only things that keep them from
+falling out of the controls. Sometimes the ears break off the button and then
+the button either pops out more than the others or pops out entirely.</p>
+
+<p>The easiest fix is to put a little RTV silicone inside the button and slide
+it back on the stem. If the button hasn't come out completely you'll need to
+pull the control set to get to the back of the button. Make sure the button
+lines up with the others and then leave it alone until the Silicone sets.</p>
+
+<p>I recommend RTV silicone for this just in case you ever need to take the
+things apart for some odd reason. If you use another glue, use something that
+sets slowly so you have time to line up the buttons. Don't use super glue!</p>
+
+
+<h2>Heater Core</h2>
+
+<p>The heater core on cars with AC is replaced according to the instructions in
+the Haynes book but removing the cover can be a bit tricky. Here are a couple
+things that make the cover easier to deal with. (This might apply to non-AC
+cars but I've never seen one.)</p>
+
+<p>Take the Chime socket off its bracket. The ones that face right are held by
+2 screws. The ones that face down are held by one screw and the other side is
+sort of wedged onto an ear on the bracket. Let the whole thing hang by the
+wires.</p>
+
+<p>The top screw is hidden under some insulation. Take out the speaker and
+slide your hand forward along the top of the cover joint until you feel the
+boss. The other three screws are pretty easy to find. There's only one screw on
+each side of the cover.</p>
+
+<p>If you loose a screw and can't find a replacement then leave the top hole
+empty. The other three hold a spring against the heater core and help seal a
+gasket in the bottom of the cover. (The gasket is supposed to help contain
+leaks in the core. It doesn't always work.)</p>
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+
+<!--
+     FILE ARCHIVED ON 18:11:41 Oct 02, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:16:28 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.761
+  exclusion.robots: 0.032
+  exclusion.robots.policy: 0.018
+  esindex: 0.015
+  cdx.remote: 96.288
+  LoadShardBlock: 48.075 (3)
+  PetaboxLoader3.datanode: 60.267 (4)
+  load_resource: 14.144
+-->

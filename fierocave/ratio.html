@@ -1,0 +1,981 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="index.htm" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.htm" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>Cranking Along</h1>
+
+<p>I've broken this out from the TH125 page because I finally found the math
+that shows the effect of changing tire sizes on the transmission. I'll add the
+ratios for the various manual transmissions if/when I find it.</p>
+
+<h2>Why do people change the Final Drive? What difference does that make?</h2>
+
+<p>There are 2 main reasons to change the final drive of the transmission:</p>
+
+<p>The first is to compensate for a change in tire diameter (Not rim diameter!).
+Changing tire size alters the performance of the car. Changing the final drive
+can restore the performance loss that comes with larger tires. While usually percieved 
+as a truck issue, when people change to tires on 17" and larger rims, it will affect the car. 
+Often more then you think.</p>
+
+<p>The second is to increase launch torque or to get better highway mileage.
+You can have one or the other, not both. Ratios closer to 1:1 get better
+mileage and higher top speed but low torque. Ratios moving away from 1:1 increase 
+torque at the sacrifice of mileage and top speed.</p>
+
+<p><b>Note!</b> Doing an AOD (4T60, etc.) conversion? <a href="aodproj.htm">See Also Here.</a></p> 
+
+<h2>TH125 &amp; 4T60 Gear Ratios</h2>
+
+
+<p>When most people think about final ratios in TH125c (3T40) and 440-T4 (4T60)
+transmissions, they simply assume that it means the final drive gears. Problem
+is things don't work that way in these units. Here are the 10 RPO codes and the
+three final gear sets that go with them.</p>
+
+<table border="1">
+ <tr>
+  <th>RPO Code
+  </th>
+  <th>Ratio
+  </th>
+  <th>Sun Gear
+  </th>
+ </tr>
+ <tr>
+  <td>F16, F17, F62, F75
+  </td>
+  <td>2.84:1
+  </td>
+  <td>38 Teeth
+  </td>
+ </tr>
+ <tr>
+  <td>FP3, FW2, FW9
+  </td>
+  <td>3.06:1
+  </td>
+  <td>34 Teeth
+  </td>
+ </tr>
+ <tr>
+  <td>F77, F79, GX3
+  </td>
+  <td>3.33:1
+  </td>
+  <td>30 Teeth
+  </td>
+ </tr>
+</table>
+
+<p>Please note: The table above is based on information from a GM TSB 
+and the transmission parts catalog from <a href="https://web.archive.org/web/20150827000726/http://www.acerecon.com/" target="_blank">Aceomatic
+Transmissions</a>. Those really are the only three final gear sets available for the TH125
+or TH440-T4.</p>
+
+<h3>The RPO list says F62 is 2.39:1. Something isn't right.</h3>
+
+<p>Actually the RPO list is correct. Notice that the RPO list says &quot;Transaxle
+Ratio&quot; not Final Drive or Axle. The confusion is caused by the fact there is
+something else contributing to total gear reduction besides the final gear set.</p>
+
+<h3>Why do some documents say different ratios for the same final gears?</h3>
+
+<p>I finally found this explained in
+yet another GM TSB. Apparently many GM dealer shops had the same question.</p>
+
+<p class="quote">Bulletin Number: 89-7-26<br>
+Reference Number: 977115<br>
+Publish Date: 4/89</p>
+
+<p class="quote">125C AND 440-T4 TRANSAXLE FINAL DRIVE</p>
+
+<p class="quote">Subject: RATIO</p>
+
+<p class="quote">Models: All 1980 - 1989 MODELS WITH 125C (3T40) OR 440T4 (4T60) TRANSMISSIONS</p>
+
+<p class="quote">When identifying a 125C/Hydra-matic 3T40 or 440-T4/Hydra-matic
+4T60 transaxle for the purpose of ordering parts, there may be conflicting
+final drive ratios listed in different publications for the same transaxle I.D.
+code.</p>
+
+<p class="quote">Some sources, such as the Chassis Service Manual, may list the
+actual ratio of the final drive in the transaxle. Other sources, such as the
+GMSPO Parts catalog may list an &quot;AXLE RATIO&quot; which is figured using
+ratio of the final drive assembly combined with the drive to driven sprocket ratio
+of the drive chain.</p>
+
+<p>In English... This means some documents report straight final drive ratio,
+while others report the final ratio as the actual final gear ratio adjusted by the Chain ratio.
+(This is why the RPO list doesn't jive with the actual final gears in many transverse
+transmissions.)</p>
+
+<p>Many people forget that you can have a gear reduction in the chain set in these
+transmissions. (Many people don't even know there is a chain in these
+transmissions....) This effectively alters the gearing of the whole
+transmission just like changing the finals would. </p>
+
+<h4>How does this work?</h4>
+
+<p>Let's say two TH125c transmissions have 2.84:1 final gears. (Remember that third gear of
+TH125c and 4T60 is 1:1!)</p>
+
+<p>Transmission 1 has a 1:1 chain or 35 teeth on both chain sprockets. The
+total gear reduction in this transmission is 2.84:1 in third gear. </p>
+
+<p>Transmission 2 has a .84:1 chain or 38 teeth on the drive sprocket and 32 on
+the driven sprocket. The total gear reduction in this transmission is 2.39:1 in
+third gear.</p>
+
+<h4>How many sets are there?</h4>
+
+<p>For TH125c, there are four chain sets and three final sets totaling 12
+possible combinations. Everything for the 4T60 is the same except that 38/32 (0.84:1)
+chain was not used in that unit. </p>
+
+<p>After originally posting this, partfiero told me there might be a 33/37
+chain set. I was able to confirm this chain set actually exists thru the
+Aceomatic catalog linked above. I think I finally have everything...</p>
+
+<p>Here are all the possible ratios and the RPO codes for ones GM actually
+built. These RPO codes are additional to the Transaxle Type RPO. This means
+that on a vehicle's build sticker you'll find MD9 for TH125c (3T40) or ME9 for
+440-T4 (4T60) and one of the codes below to tell you how the transmission is
+geared. (Assuming you still have the original transmission...) The last column
+reflects a couple spots where GM and MS Excel&nbsp;rounded the number
+differently.</p>
+
+<table border="1">
+ <tr>
+  <th style="width:63.6pt;">Actual<br>Final Gear<br>(X:1)
+  </th>
+  <th style="width:76.5pt;">Chain Drive/Driven
+  </th>
+  <th style="width:70.1pt;">Chain Ratio (Y:1)
+  </th>
+  <th style="width:61.75pt;">Total Reduction (X*Y:1)
+  </th>
+  <th style="width:58.75pt;">Transaxle Ratio RPO
+  </th>
+  <th style="width:60.3pt;">RPO says (If dif)
+  </th>
+ </tr>
+ <tr>
+  <td style="text-align:center">2.84
+  </td>
+  <td style="text-align:center">35/35
+  </td>
+  <td style="text-align:center">1
+  </td>
+  <td style="text-align:center">2.84
+  </td>
+  <td style="text-align:center">F17
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">37/33
+  </td>
+  <td style="text-align:center">0.89
+  </td>
+  <td style="text-align:center">2.53
+  </td>
+  <td style="text-align:center">F16
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">38/32
+  </td>
+  <td style="text-align:center">0.84
+  </td>
+  <td style="text-align:center">2.39
+  </td>
+  <td style="text-align:center">F62
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">33/37
+  </td>
+  <td style="text-align:center">1.12
+  </td>
+  <td style="text-align:center">3.18
+  </td>
+  <td style="text-align:center">F75
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td colspan="6">
+   </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">3.06
+  </td>
+  <td style="text-align:center">35/35
+  </td>
+  <td style="text-align:center">1
+  </td>
+  <td style="text-align:center">3.06
+  </td>
+  <td style="text-align:center">FW2
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">37/33
+  </td>
+  <td style="text-align:center">0.89
+  </td>
+  <td style="text-align:center">2.72
+  </td>
+  <td style="text-align:center">FP3
+  </td>
+  <td style="text-align:center">2.73
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">38/32
+  </td>
+  <td style="text-align:center">0.84
+  </td>
+  <td style="text-align:center">2.57
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">33/37
+  </td>
+  <td style="text-align:center">1.12
+  </td>
+  <td style="text-align:center">3.43
+  </td>
+  <td style="text-align:center">FW9
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td colspan="6">
+   </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">3.33
+  </td>
+  <td style="text-align:center">35/35
+  </td>
+  <td style="text-align:center">1
+  </td>
+  <td style="text-align:center">3.33
+  </td>
+  <td style="text-align:center">GX3
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">37/33
+  </td>
+  <td style="text-align:center">0.89
+  </td>
+  <td style="text-align:center">2.96
+  </td>
+  <td style="text-align:center">F79
+  </td>
+  <td style="text-align:center">2.97
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">38/32
+  </td>
+  <td style="text-align:center">0.84
+  </td>
+  <td style="text-align:center">2.80
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:center">&nbsp;
+  </td>
+  <td style="text-align:center">33/37
+  </td>
+  <td style="text-align:center">1.12
+  </td>
+  <td style="text-align:center">3.73
+  </td>
+  <td style="text-align:center">F77
+  </td>
+  <td style="text-align:center">&nbsp;
+  </td>
+ </tr>
+ <tr>
+  <td colspan="6">
+   </td>
+ </tr>
+ <tr>
+  <td colspan="6">Chain Ratios of less than 1:1 are over driven
+  </td>
+ </tr>
+</table>
+
+<h3>Gear Ratios</h3>
+
+<p>Just in case someone needs them... </p>
+
+<table border="1">
+<tr>
+<th>RPO
+</th>
+<th>Transmission
+</th>
+<th>1<sup>st</sup>
+</th>
+<th>2<sup>nd</sup>
+</th>
+<th>3<sup>rd</sup>
+</th>
+<th>4<sup>th</sup>
+</th>
+<th>5<sup>th</sup>
+</th>
+<th>Reverse
+</th>
+<th>Final
+</th>
+<tr>
+<td>MD9
+</td>
+<td>THM 125c (3T40)
+</td>
+<td>2.840
+</td>
+<td>1.600
+</td>
+<td>1.000
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>2.067
+</td>
+<td>&nbsp;
+</tr>
+<tr>
+<td>ME9
+</td>
+<td>THM 440-T4 (4T60)
+</td>
+<td>2.921
+</td>
+<td>1.568
+</td>
+<td>1.000
+</td>
+<td>0.705
+</td>
+<td>&nbsp;
+</td>
+<td>2.385
+</td>
+<td>&nbsp;
+</tr>
+<tr>
+<td>MT2
+</td>
+<td>Isuzu (L4)
+</td>
+<td>3.73
+</td>
+<td>2.04
+</td>
+<td>1.45
+</td>
+<td>1.03
+</td>
+<td>0.74
+</td>
+<td>3.50
+</td>
+<td>3.35
+</tr>
+<tr>
+<td>MG2
+</td>
+<td>Getrag (V6)
+</td>
+<td>3.50
+</td>
+<td>2.05
+</td>
+<td>1.38
+</td>
+<td>0.94
+</td>
+<td>0.72
+</td>
+<td>3.41
+</td>
+<td>3.61
+</tr>
+<tr>
+<td>M17
+</td>
+<td>Getrag (V6)
+</td>
+<td>3.31
+</td>
+<td>1.95
+</td>
+<td>1.24
+</td>
+<td>0.81
+</td>
+<td>&nbsp;
+</td>
+<td>3.42
+</td>
+<td>3.65
+</tr>
+<tr>
+<td>M19
+</td>
+<td>Getrag (L4 perf)
+</td>
+<td>3.53
+</td>
+<td>1.95
+</td>
+<td>1.24
+</td>
+<td>0.81
+</td>
+<td>&nbsp;
+</td>
+<td>3.42
+</td>
+<td>4.10
+</tr>
+<tr>
+<td>MY8
+</td>
+<td>Getrag (L4 econo)
+</td>
+<td>3.53
+</td>
+<td>1.95
+</td>
+<td>1.24
+</td>
+<td>0.73
+</td>
+<td>&nbsp;
+</td>
+<td>3.42
+</td>
+<td>3.32
+</td>
+</tr>
+</table>
+
+<p><a href="https://web.archive.org/web/20150827000726/http://home.comcast.net/%7Efierocave/speed-vs-rpm.zip">Speed vs. RPM</a> Excel 5.0 workbook.</p>
+<p>Thanks to cypres, <a href="https://web.archive.org/web/20150827000726/http://www.teammfactory.com/gearcalculator.php" target="_blank">Illustrated Calculator</a>
+ from MFactory Competition Products. It plots all gears on MPH/KPH and Engine RPM axles.</p>
+
+<h3>Fiero Factory Setup</h3>
+
+<p>Various people have said Fiero automatic transmissions are all setup as one
+thing or another. A common statement will go &quot;all the L4 cars got 2.84
+finals gears.&quot; While technically true, as we've seen final gear ratio is
+not the only factor. Some of those 2.84 L4s are actually running 3.18:1
+transmission ratios thanks to the chain set.</p>
+
+<p>According to GM TSB 88-51 issued December 1988, these are all of the factory
+TH125c configurations used in Fiero thru 1987. 
+(1988 model info is a collection from 22P. Thanks Raydar. Going by the TC part numbers, I think the info is correct.) </p>
+
+
+<table border="1">
+ <tr>
+  <th>Year
+  </th>
+  <th>Trans
+  <br>Model
+  </th>
+  <th>Engine
+  </th>
+  <th>TC
+  <br>Code
+  </th>
+  <th>Stall
+  <br>Speed
+  </th>
+  <th>Final
+  <br>Drive
+  </th>
+  <th>Chain
+  <br>Set
+  </th>
+  <th>Total
+  <br>Ratio
+  </th>
+ </tr>
+ <tr>
+  <td>
+  84
+  </td>
+  <td>
+  PI
+  </td>
+  <td>
+  L4
+  </td>
+  <td>
+  FJ2
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  2.84
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  2.84
+  </td>
+ </tr>
+ <tr>
+  <td>
+  85
+  </td>
+  <td>
+  PF
+  </td>
+  <td>
+  L4
+  </td>
+  <td>
+  FJ2
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  2.84
+  </td>
+  <td>
+  33-37
+  </td>
+  <td>
+  3.18
+  </td>
+ </tr>
+ <tr>
+  <td>
+  85
+  </td>
+  <td>
+  CD
+  </td>
+  <td>
+  V6
+  </td>
+  <td>
+  FJ4
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  3.06
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  3.06
+  </td>
+ </tr>
+ <tr>
+  <td>
+  86
+  </td>
+  <td>
+  PF
+  </td>
+  <td>
+  L4
+  </td>
+  <td>
+  FJ2B
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  2.84
+  </td>
+  <td>
+  33-37
+  </td>
+  <td>
+  3.18
+  </td>
+ </tr>
+ <tr>
+  <td>
+  86
+  </td>
+  <td>
+  CD
+  </td>
+  <td>
+  V6
+  </td>
+  <td>
+  FJ4B
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  3.06
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  3.06
+  </td>
+ </tr>
+ <tr>
+  <td>
+  87
+  </td>
+  <td>
+  PSC
+  </td>
+  <td>
+  L4
+  </td>
+  <td>
+  FJ2B
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  2.84
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  2.84
+  </td>
+ </tr>
+ <tr>
+  <td>
+  87
+  </td>
+  <td>
+  CPC
+  </td>
+  <td>
+  V6
+  </td>
+  <td>
+  FD4B
+  </td>
+  <td>
+  2095
+  </td>
+  <td>
+  3.33
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  3.33
+  </td>
+ </tr>
+ <tr>
+  <td>
+  88
+  </td>
+  <td>
+  PSC
+  </td>
+  <td>
+  L4
+  </td>
+  <td>
+  FJ2B
+  </td>
+  <td>
+  2060
+  </td>
+  <td>
+  2.84
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  2.84
+  </td>
+ </tr>
+ <tr>
+  <td>
+  88
+  </td>
+  <td>
+  CPC
+  </td>
+  <td>
+  V6
+  </td>
+  <td>
+  FD4B
+  </td>
+  <td>
+  2095
+  </td>
+  <td>
+  3.33
+  </td>
+  <td>
+  35-35
+  </td>
+  <td>
+  3.33
+  </td>
+ </tr>
+</table>
+<p>Trans Model is on the tag/case under the Neutral Safety Switch.</p>
+
+<p><b>NOTE: Do not use this table to order parts!</b> You must confirm the
+model code on the transmission including a year digit that may precede the letters.
+There are often important internal differences each year even though the models
+are otherwise the same code. (TC Codes are explained in another article.)</p>
+
+<p>Notice that according to the tables in the TC article... all of the Torque Converters
+are listed as FWD units and all but one is 2060 Stall. The only real difference
+is that the V6 units have a heavy duty TC clutch.</p>
+
+<p>I did find the range of final gearing interesting. This helps explain some
+of the variations in fuel economy people see. </p>
+
+<h2>How are final ratios and tires related?</h2>
+
+<p>If you increase the tire size, you reduce the effective gear ratio. This is
+ok if you want highway mileage but not good for drag racing or autocross.</p>
+
+<p>Allot of people want the tire to better fill the wheel well, so lets say you
+want a larger tire on a 17inch wheel. (I just made up a size for the 17inch. I
+don't know if you can actually get it.) To find how the new wheel alters
+performance, we can do a bit of basic math. </p>
+
+<p>We need only three bits of information:</p>
+
+<p>The original tire size, 195/75R14, has a diameter = 25.5 inch (<span style="color:red">OldTD</span>)</p>
+
+<p>The new tire size, 225/60R17, has a diameter = 27.6 inch (<span style="color:red">NewTD</span>)</p>
+
+<p>OE Ring &amp; Pinion Ratio 3.06:1 (<span style="color:red">OERatio</span>) </p>
+
+<p>We're only concerned with the rolling diameter of the tires. Tire profile
+and rim size aren't important for this. You can get this info from either the
+tire maker (catalog or web site) or you can use the tire size calculators on
+the links page.</p>
+
+<p>Note that it is important to know the ratio of the gears that are actually
+in the transmission. We don't want a published ratio that may have been &quot;adjusted&quot;
+for whatever reasons by the carmakers. We've also got to keep in mind that the
+choices of alternate gears are usually very limited. That means we've got to
+balance the tires to available gear sets.</p>
+
+<table class="NoB" border="0">
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;border-bottom:solid black .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  OldTD x OERatio
+  </td>
+  <td class="NoB" rowspan="2" style="width:180pt;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;vertical-align : middle;">
+  = Effective ratio with new tire
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  NewTD
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;border-bottom:solid black .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  25.5 x 3.06
+  </td>
+  <td class="NoB" rowspan="2" style="width:180pt;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;vertical-align : middle;">
+  = 2.83:1
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  27.6
+  </td>
+ </tr>
+</table>
+
+<p>(Original Math Source: <a href="https://web.archive.org/web/20150827000726/http://www.offroaders.com/" target="_blank">www.offroaders.com</a>)</p>
+
+<p>That means when you change to the 17inch tire, the car performs as if the
+gears dropped to 2.83:1. You get better top end but will launch more slowly. 
+It's the same effect as changing the TH125 to 2.84 gears with the stock tire.</p>
+
+<p>To get back the same performance we need a new set of gears, to find them we run
+another calculation...</p>
+
+<table class="NoB" border="0">
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;border-bottom:solid black .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  NewTD x OE Ratio
+  </td>
+  <td class="NoB" rowspan="2" style="width:142.9pt;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;vertical-align : middle;">
+  = New gears required
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  OldTD
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;border-bottom:solid black .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  27.6 x 3.06
+  </td>
+  <td class="NoB" rowspan="2" style="width:142.9pt;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;vertical-align : middle;">
+  = 3.31:1
+  </td>
+ </tr>
+ <tr>
+  <td class="NoB" style="width:107.6pt;text-align:center;color:red;padding:3.75pt 3.75pt 3.75pt 3.75pt;">
+  25.5
+  </td>
+ </tr>
+</table>
+
+<p>A 3.31:1 gear set would return the car to the same performance as original.
+The closest TH125 alternative is 3.33:1 so that works out well for the new 17&quot;
+tire. You'll end up with performance as if the car was geared down very slightly.
+That means slightly faster launches without totally squashing fuel economy.</p>
+
+<p>Note that since Fiero VSS reads Axle rotations, Speedometer output doesn't
+change relative to final gears. Speedo recalibration is yet another calculator.
+Nearly all the transverse transmissions have the speedo reading axle rotation
+vs. traditional RWD where the speedo reads drive shaft rotations at the
+transmission. </p>
+
+<p>For most people with an automatic, the best way to change final drives will
+be to change the whole transmission. This is because the governor in TH125 and
+several other GM transverse transmissions reads axle rotation. Changing finals
+without correcting the governor function could mess up shift timing. There may
+be other factors involved as well. This puts changing finals out of the reach
+of most DIY folks.</p>
+
+<p>Even for the stock manual transmissions, it's probably better to change the
+whole transmission than try to change the finals. Manual transmissions may seem
+easier to work with but they really aren't. You can easily cause all sorts of
+problems unless you handle them very carefully. The problems may not show up
+right away. </p>
+
+<p>Depending on how the ECM is programmed, changing finals could also set error
+codes. I'm not aware of this being a problem in Stock Fiero but some of the
+engine conversions could have a fit if the finals are too far from what the
+ECM/PCM expects.</p>
+
+<p>When used with one of the Java based tire size calculators (In the links
+section) you can work all the numbers fairly quickly for a whole range of tire
+sizes. The math above will tell you how bad it will hurt performance. The tire
+calculator will tell you how far off a new tire will put the speedometer. The
+tire calculators can also be used to find various tire sizes that match OE
+diameter or will work with different gear sets. </p>
+
+<p>Any tire with 25.5inch diameter, such as 225/55R16 (25.6inch diameter), can
+replace the 195/75R14 without significantly messing up performance or the
+speedometer no matter what the rim size is. That 16inch tire is only one tenth of
+an inch larger. You get a short sidewall for better handling but only mess up
+the speedometer by 0.9% vs. a 3% error changing to a 195/70R14.</p>
+
+<p>Likewise changing from 3.06 to 3.33 gears would work for any tire of similar
+diameter to our sample 17inch one.</p>
+
+<p>On the other hand, if you've already got 3.33:1 gears in a TH125 then you'll
+have no choice but eat a performance change if you install larger tires unless
+you can find aftermarket gears with a higher ratio.</p>
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+<!--
+     FILE ARCHIVED ON 00:07:26 Aug 27, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:17:15 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.891
+  exclusion.robots: 0.044
+  exclusion.robots.policy: 0.025
+  esindex: 0.015
+  cdx.remote: 9.082
+  LoadShardBlock: 71.009 (3)
+  PetaboxLoader3.resolve: 44.704 (3)
+  PetaboxLoader3.datanode: 68.174 (4)
+  load_resource: 64.215
+-->

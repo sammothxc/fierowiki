@@ -1,0 +1,335 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="index.htm" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.htm" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>IGOR! Bring Another Brain! </h1>
+
+<p class="warn">WARNING! This is an Expert
+Level project and applies only to the 1227748 ECM. While the ECM is physically
+simple to work on, debugging problems is not. Modification to ECM circuits must
+be done very carefully. DO NOT experiment with the ECM and alternate PROM chips
+without an ECM Scanner!</p>
+
+<p class="warn">WARNING! The 1227748 ECM
+contains integrated Cruise Control logic. Failure or improper calibration of
+the Vehicle Speed Sensor circuit can cause potentially dangerous Cruise Control
+problems. (Like Cruise Control isn't screwy enough to start with...)</p>
+<p class="warn">WARNING: I strongly recommend you DO NOT try PROM chips from other motors.
+You might only set weird codes in the ECM. You could cause the motor to
+self-destruct.</p>
+
+<p class="warn">NOTICE! The reader assumes
+all risk and liability associated with the modifications described in this
+document. If you goof around with the ECM and fry it or the PROM, too freaking
+bad.</p>
+
+<p>The PROM hacking info in this article is
+for advanced users only. If your PROM has fried then order a new one using the numbers below.</p>
+
+<h2><a name="prom"></a>DIS PROM update</h2>
+
+<p>The following PROMs are listed as current numbers thru GM Parts Direct. They
+can also be ordered thru places that carry AC Delco using the same part number.
+The PROM codes shown are from AC Delco.com. </p>
+
+<p>You don't have a Scan tool? <a href="promnote.htm">Try this trick.</a></p>
+
+<table border="1" cellspacing="0" cellpadding="0">
+ <tr>
+  <th width="83" valign="top">
+  <p class="MsoNormal">AC/GM #</p>
+  </th>
+  <th width="109" valign="top">
+  <p class="MsoNormal">Transmission</p>
+  </th>
+  <th width="335" valign="top">
+  <p class="MsoNormal">Replaces PROM labeled with code:</p>
+  </th>
+ </tr>
+ <tr>
+  <td width="83" valign="top">
+  <p class="MsoNormal">16143455</p>
+  </td>
+  <td width="109" valign="top">
+  <p class="MsoNormal">M/TRNS(MT2)</p>
+  </td>
+  <td width="335" valign="top">
+  <p class="MsoNormal">6756ALRU, 1664ANAL, 0327ASLB, (3638ATBT)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="83" valign="top">
+  <p class="MsoNormal">16143453</p>
+  </td>
+  <td width="109" valign="top">
+  <p class="MsoNormal">M/TRNS(MT2)</p>
+  </td>
+  <td width="335" valign="top">
+  <p class="MsoNormal">3554HHM, 9544ACMH, 2806ANBP, 9308ASCT, (3563ATBS)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="83" valign="top">
+  <p class="MsoNormal">16143459</p>
+  </td>
+  <td width="109" valign="top">
+  <p class="MsoNormal">A/TRNS(MD9)</p>
+  </td>
+  <td width="335" valign="top">
+  <p class="MsoNormal">3550BXB, 9538ACMF, 6770ALWN, 2720ANBN, (3642ATCA)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="83" valign="top">
+  <p class="MsoNormal">16143570</p>
+  </td>
+  <td width="109" valign="top">
+  <p class="MsoNormal">A/TRNS(MD9)</p>
+  </td>
+  <td width="335" valign="top">
+  <p class="MsoNormal">6078ALRT, 1661ANAK, (3572ATBW)</p>
+  </td>
+ </tr>
+</table>
+
+<p>Note that these are the same part numbers from Table 2 in the 
+<a href="promtsb.htm">PROM TSB</a> some
+of you have read. The PROM code in parenthesis would be the one in the &quot;New
+PROM label&quot; column.</p>
+
+<p>Try <a href="https://web.archive.org/web/20151002181131/http://www.acdelco.com/" target="_blank">ACDelco</a> dealers. 
+ACDelco shows three part #. (List as of 8/11)</p>
+
+<p>Try <a href="https://web.archive.org/web/20151002181131/http://www.gmpartsdirect.com/" target="_blank">GM Parts Direct</a>, 
+<a href="https://web.archive.org/web/20151002181131/http://parts.nalleygmc.com/" target="_blank">Nalley GM</a> and other Dealer's part online operations. </p>
+
+<p>Also try a place that carries <a href="https://web.archive.org/web/20151002181131/http://www.bsecorp.com/" target="_blank">Blue Streak</a>. They claim to
+have loads of OE PROMs and even updated PROMs to fix various problems.</p>
+
+
+<h2>ECM compatibility</h2>
+
+<p>As I've mentioned in various threads,
+Pontiac Grand AM and Olds Cutlass Calais with the DIS 4 cylinder use the same
+ECM as 87-88 Fiero. Other potential sources and data on choosing are at the end
+of the article.</p>
+
+<p>While the ECM is the same, the PROM is
+not. In Most cases, you will be installing the Fiero PROM into the replacement
+ECM. You should always use Fiero PROM chips whenever possible. </p>
+
+<h3>What happens if someone has fried the
+Fiero PROM? Are their others that work?</h3>
+
+<p>Try the updated PROM first! I can't
+push this point enough. </p>
+
+<p>Yes, it is possible to use PROM chips
+from other cars. Before you can do so you have to know how this ECM works and
+how to alter the VSS circuit.</p>
+
+<p>The donor car must have:</p>
+
+<ul style="margin-top:0in" type="disc">
+ <li class="MsoNormal">The same motor. VIN R or U in Fiero case. (There
+     are at least 3 motors using the 1227748 ECM.)</li>
+ <li class="MsoNormal">The same Transmission
+     or as close as possible.</li>
+</ul>
+
+<p>We'll cover why this is important in
+ECM Sources below...</p>
+
+<h2>ECM configuration/hacking</h2>
+
+<p>Unlike most other ECM units, the 1227748
+ECM can be configured to accept a buffered VSS signal or the VSS can be wired
+directly to it. The choice of which input the ECM will use is programmed into
+the PROM. Normally only one input is actually wired. If the PROM selects the
+wrong input, the ECM will set code 24 and Cruise Control will not operate. (An
+ECM scanner will also report 0mph when the car is moving.)</p>
+
+<p>In the FWD cars tested to date, the PROM
+is programmed to select direct feed VSS instead of a buffered VSS like Fiero
+uses. In order to use those PROM chips we have to patch the Fiero VSS directly
+to the ECM.</p>
+
+<h3>Hacking VSS</h3>
+
+<p class="warn">Warning! Disconnect the
+battery before making this modification!</p>
+
+<p>To use PROMs set for direct input VSS in
+Fiero, we need to patch the ECM Black connector Terminal 6 to connector C203
+Terminal G. (Terminal markings are molded into the connector shells.)</p>
+
+<p>C203 is the large connector sitting
+below the ECM. Terminal G contains a Yellow wire between a Green and Pink/Black
+wire.</p>
+
+<p><img width="480" height="288" src="VSSpatch/image001.gif"></p>
+
+<p>In Fiero Terminal position 6 on the Black
+ECM connector is normally empty. Terminals for the ECM connectors are MotorMite
+# 85323. Optionally you can salvage some terminals with wire from a donor car.
+(Cut the wire as long as you can. You should be able to do this with only one
+splice.)</p>
+
+<p>To remove the pink cover from the ECM
+connector, depress the two tabs showing through the main housing on the
+&quot;small end&quot; of the shell. To release a terminal, insert a paper clip
+into the hole on the ECM side of the shell and then pull the terminal out the
+back.</p>
+
+<p>Note. Do Not alter the OE wiring in any
+other way. You want the car to continue to accept a Fiero PROM. Once this patch
+is made, the car will accept either the FWD PROM or the Fiero PROM and still
+see the VSS. </p>
+
+<p>You can splice the yellow wire described
+above with any method you like. Just make sure it can't come loose or short.
+The blue 3M &quot;ScotchLock&quot; speed taps are good for this. Just squash
+the thing onto the wires, close the lid and you're done with it.</p>
+
+<h4>Does the patch cause any problems?</h4>
+
+<p>The patch will not cause trouble as long as it is done right. The VSS has
+enough drive voltage/current to handle both the speedometer and the ECM feed.
+The ECM simply ignores the unused input when both circuits are wired.</p>
+
+<h4>Why would we want to use alternate PROM chips?</h4>
+
+<p>The big reason is that these ECM units are allot easier to find in the FWD
+cars. If something happened to fry the Fiero PROM, we need an alternate that
+will work. Many of these alternate PROM chips will allow the car to run
+properly as long as we lie to them about the VSS.</p>
+
+<p>Another reason is that the &quot;corrective&quot; PROM chips listed in a GM
+TSB are $60 each from the dealer. (They are allot cheaper thru GM Parts
+Direct!) With the above patch, we can play with various PROMs from later models
+of cars with this motor. This is the reason I worked out the above patch. (I
+did this patch before finding the PROMs for cheap.)</p>
+
+<p>Some of it is just to see what the different programming will do. I did it
+just to see things like: Does it solve the problems in the TSB? Will I gain any
+power? Will it idle any better? Will it get even more MPG?</p>
+
+<h4>Test Results?</h4>
+
+<p>I've tested PROM chips from the 88 Grand Am (VIN U) and the 87 Cutlass Calais
+(VIN U). (I have 87SC, Automatic transmission... VIN R) I've had no major
+problem with either. The one from the Calais ran ok but idled like crap with
+the AC on. <span style="text-decoration:line-through;">The Grand Am one is in it now.</span> It seems to run a little better then
+the OE one. (Now I've got new Fiero Update PROM.)</p>
+
+<p>I simply can't test every PROM available for this ECM. That means certain
+Grand Am or Calais PROM chips may cause trouble. You probably won't do any
+damage but you could get Error 24 and Cruise Control may not work right. If you
+have problems, the only way to figure it out is with an ECM scanner. </p>
+
+<p>I have no plans to test chips from 2.0l or 2.2l engines. If you try a PROM
+from one of the other motors, be extremely careful. These chips can potentially
+fry the motor. You must have an ECM scanner and other tools to make sure the
+PROM is running right. </p>
+
+<h2>Where to find ECM's</h2>
+
+<p>The ECM is located under the passenger
+side of the dash on both Grand Am and Olds Cutlass Calais. I think in Grand Am
+they used the DIS motor from 87-89. In Olds I think they used them from 87-91.
+Try to find ECM units with the label on them. Don't use one until you are sure
+it's correct. (The ones I've actually used are 88 Grand Am and 87 <span style="layout-grid-mode:line">Calais<span style="layout-grid-mode:
+line">. I've seen the DIS motor in 91 <span style="layout-grid-mode:
+  line">Calais but haven't been able
+to check that ECM.)</p>
+
+<p>If you are harvesting the ECM, cut out
+the connectors with as much wire as you can get. This will give you a bunch of
+wired spare terminals.</p>
+
+<p>The GM service replacement ECM's that I've seen are also labeled with the
+1227748 part number.</p>
+
+<p>Aftermarket replacements may have the part GM number on them of not. There is
+no standard with them.</p>
+
+<h3>Other ECM Sources</h3>
+
+<p>ACdelco list of models uses <a href="1227748.pdf">1227748 ECM.</a></p>
+
+<p>DIY-EFI.org reports this ECM is used with the following motors. I have not
+verified the data.</p>
+
+<ul style="margin-top:0in" type="disc">
+<li>1987-91 2.0 OHC L4 TBI &quot;K&quot; LT2</li>
+
+<li>1990-91 2.2 L4 TBI &quot;G&quot; LM3</li>
+
+<li>1987-92 2.5 L4 TBI &quot;R&quot; LR8 [Fiero] (exc. W body)</li>
+
+<li>1987-91 2.5 L4 TBI &quot;U&quot; L68 </li>
+</ul>
+<p>Source: <a href="https://web.archive.org/web/20151002181131/http://www.diy-efi.org/gmecm/ecm_info/1227748/" target="_blank">DIY-EFI.ORG</a></p>
+
+<p>I have seen a version of the DIS motor used in the S10 truck. That ECM can't
+be used in Fiero. The motor is similar but uses an EGR solenoid like the Fiero
+V6 motors. The ECM and wiring are completely different.</p>
+
+<p>Note! Make sure the PROM is correct for
+the transmission. If possible, you want them to match Stick/Auto, number of
+gears, and final drive ratio. At the very least, they must match Stick or Auto.</p>
+
+<p>If you put a stick chip in an automatic
+car, you'll have TC lock problems and probably other odd things. I'm not sure
+what an auto chip would do in a stick car other than make the shift light
+activate over 35mph.</p>
+
+<p>Chip selection for an automatic is
+easier. The TH125 automatics are mostly the same except for some variation in
+final drive. For the two chips I've tested, I didn't look at the transmission
+beyond it being a TH125 automatic. Either they were close enough or the chip
+didn't care.</p>
+
+<p>In a stick car, they have to match gear
+count and finals better than an automatic. If they don't match you'll have the
+shift light going nuts. (Allot of people hate that thing and pull the bulb even
+when it works right.) You might get some ECM codes depending on how different
+the transmission is from what the chip thinks is there.</p>
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+<!--
+     FILE ARCHIVED ON 18:11:31 Oct 02, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:18:33 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.519
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.013
+  esindex: 0.01
+  cdx.remote: 10.109
+  LoadShardBlock: 146.13 (3)
+  PetaboxLoader3.datanode: 116.851 (4)
+  PetaboxLoader3.resolve: 39.721 (2)
+  load_resource: 25.879
+-->
