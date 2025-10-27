@@ -2,11 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2025-10-25T09:43:48.871Z
+date: 2025-10-27T05:11:54.271Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-25T01:48:27.247Z
+dateCreated: 2025-10-26T22:26:43.895Z
 ---
+
+> Some pages may still be missing content or resources. I appreciate your support as I work on building this site.
+{.is-danger}
 
 ![fierowiki_logo_tr.png](/assets/logo/fierowiki_logo_tr.png)
 
