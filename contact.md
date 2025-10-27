@@ -2,10 +2,10 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-25T09:19:36.662Z
+date: 2025-10-27T01:09:26.118Z
 tags: legal
 editor: markdown
-dateCreated: 2025-10-25T00:33:11.770Z
+dateCreated: 2025-10-26T22:26:36.426Z
 ---
 
 # Contact FieroWiki
@@ -24,8 +24,9 @@ You can also reach out through:
 - **GitHub repository:** [sammothxc/fierowiki](https://github.com/sammothxc/fierowiki)  
   Submit issues for corrections, improvements, or issues.
 
-- **Discord:** `@sammothxc`  
-  For wiki discussions, collaboration, or quick questions.
+- **Telegram:** `@sammothxc`
+
+- **Discord:** `@sammothxc`
 
 <br>
 
