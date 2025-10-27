@@ -2,7 +2,7 @@
 title: FieroWiki User Guide
 description: 
 published: true
-date: 2025-10-27T19:30:46.192Z
+date: 2025-10-27T19:31:16.532Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-27T16:52:47.129Z
@@ -18,8 +18,6 @@ Welcome to **FieroWiki**! This guide will help you navigate the site and find in
 
 - Use the **search bar** at the top of the page to find specific topics, manuals, or files.
 - Clicking on the `Browse by Tags` button just to the right of the search bar allows you to see all pages with the associated tag.
-- Browse by **categories** in the [Directory](/directory.md) or use the **navigation menus** on each page.
-- Each article may include **links to related resources**, images, and downloadable files for your reference.
 
 <br>
 
