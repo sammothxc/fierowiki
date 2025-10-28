@@ -2,7 +2,7 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-28T16:43:54.417Z
+date: 2025-10-28T16:44:19.111Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-26T22:26:36.426Z
@@ -28,7 +28,7 @@ You can also reach out through:
 
 - **Reddit** at [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc)
 
-- Direct Message on my Fiero's instagram account `@fiero.sam'
+- Direct Message on my Fiero's **instagram account** `@fiero.sam`
 
 <br>
 
