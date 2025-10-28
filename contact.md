@@ -2,7 +2,7 @@
 title: Contact
 description: 
 published: true
-date: 2025-10-28T16:44:19.111Z
+date: 2025-10-28T16:44:40.682Z
 tags: legal
 editor: markdown
 dateCreated: 2025-10-26T22:26:36.426Z
@@ -24,7 +24,7 @@ You can also reach out through:
 - **GitHub repository:** [sammothxc/fierowiki](https://github.com/sammothxc/fierowiki)  
   Submit issues for corrections, improvements, or issues.
 
-- **Telegram and Discord:** `@sammothxc`
+- **Telegram** or **Discord:** `@sammothxc`
 
 - **Reddit** at [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc)
 
