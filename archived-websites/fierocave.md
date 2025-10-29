@@ -2,14 +2,14 @@
 title: Ogre's Fiero Cave Entry
 description: 
 published: true
-date: 2025-10-29T14:34:26.634Z
+date: 2025-10-29T14:34:35.002Z
 tags: fierocave
 editor: markdown
 dateCreated: 2025-10-27T02:09:15.929Z
 ---
 
 > By continuing, you acknowledge the Archive Notice stated below and agree to the original author's copyright policy.
-<a href="archived-websites/fierocave/index.html" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Enter the Archive**</a>
+<a href="/archived-websites/fierocave/index.html" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Enter the Archive**</a>
 {.is-success}
 
 # Archive Notice: Ogre’s Fiero Cave
