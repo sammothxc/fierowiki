@@ -2,7 +2,7 @@
 title: fierosails.com Entry
 description: 
 published: true
-date: 2025-10-29T18:10:18.996Z
+date: 2025-10-29T20:42:41.465Z
 tags: fierosails
 editor: markdown
 dateCreated: 2025-10-29T17:13:57.362Z
@@ -22,7 +22,7 @@ dateCreated: 2025-10-29T17:13:57.362Z
 ## Original Source
 fierosails<nolink>.com
 Original Website: [https://fierosails.com/](https://fierosails.com/)  
-Creator and Copyright Holder: *unknown (unknown original author)*
+Creator and Copyright Holder: Paul McKibben? (original author)
 
 If you are the original creator or copyright holder and would like this archive modified or removed, please contact me through the [Contact Page](/contact.md).
 
