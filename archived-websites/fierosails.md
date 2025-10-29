@@ -2,7 +2,7 @@
 title: fierosails.com Entry
 description: 
 published: true
-date: 2025-10-29T18:06:09.788Z
+date: 2025-10-29T18:10:18.996Z
 tags: fierosails
 editor: markdown
 dateCreated: 2025-10-29T17:13:57.362Z
@@ -33,4 +33,4 @@ If you are the original creator or copyright holder and would like this archive 
 - The content has been preserved **as-is** for the sake of technical reference, with only minor edits to the layout and source code to make it hostable.  
 - No claim of authorship, modification, or redistribution rights is made by FieroWiki.
 
-This is a **preserved, unedited copy** of the original website **fierosails<nolink>.com** as recorded in [The Wayback Machine](https://web.archive.org/web/20190307230721/http://www.fierosails.com/index.html) around 2014, hosted here **for archival and educational purposes only**.
+This is a **preserved, unedited copy** of the original website **fierosails<nolink>.com** as recorded in [The Wayback Machine](https://web.archive.org/web/20190307230721/http://www.fierosails.com/index.html) around 2019, hosted here **for archival and educational purposes only**.
