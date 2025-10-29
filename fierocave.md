@@ -2,7 +2,7 @@
 title: Ogre's Fiero Cave Entry
 description: 
 published: true
-date: 2025-10-27T05:02:59.729Z
+date: 2025-10-29T14:29:11.258Z
 tags: fierocave
 editor: markdown
 dateCreated: 2025-10-27T02:09:15.929Z
