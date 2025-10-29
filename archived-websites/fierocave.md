@@ -2,7 +2,7 @@
 title: Ogre's Fiero Cave Entry
 description: 
 published: true
-date: 2025-10-29T17:38:36.057Z
+date: 2025-10-29T20:42:59.997Z
 tags: fierocave
 editor: markdown
 dateCreated: 2025-10-27T02:09:15.929Z
@@ -22,7 +22,7 @@ dateCreated: 2025-10-27T02:09:15.929Z
 ## Original Source
 **Ogre’s Fiero Cave**  
 Original Website: [https://fierocave.shorturl.com/](https://fierocave.shorturl.com/)  
-Creator and Copyright Holder: *Ogre (original author)*
+Creator and Copyright Holder: Ogre (original author)
 
 If you are the original creator or copyright holder and would like this archive modified or removed, please contact me through the [Contact Page](/contact.md).
 
