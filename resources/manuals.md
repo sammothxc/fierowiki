@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T23:24:31.784Z
+date: 2025-11-03T23:34:36.314Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -18,7 +18,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## OEM Manuals
+## Official Materials
 
 <br>
 
@@ -67,7 +67,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## Community Manuals
+## Community Materials
 
 <br>
 
