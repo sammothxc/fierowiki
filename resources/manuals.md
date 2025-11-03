@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T22:20:49.990Z
+date: 2025-11-03T22:21:22.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -44,7 +44,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## ⚙️ Do-It-Yourself & Specialty Guides
+## Do-It-Yourself & Specialty Guides
 
 - [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
 - [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
@@ -53,7 +53,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## ⚡ Electrical, Emissions & Powertrain
+## Electrical, Emissions & Powertrain
 
 - [1984 Fiero Electrical Troubleshooting Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Electrical_Troubleshooting.pdf)
 - [1985 Fiero V6 6E3 Emissions and Drivability Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_FieroV6_6E3_Emissions_and_Drivability.pdf)
