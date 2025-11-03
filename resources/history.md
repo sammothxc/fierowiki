@@ -2,7 +2,7 @@
 title: History & Media
 description: 
 published: true
-date: 2025-11-03T23:25:59.710Z
+date: 2025-11-03T23:29:11.455Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T23:10:47.340Z
@@ -21,6 +21,14 @@ Each file is a direct download from the FieroWiki fileserver.
 ## Articles
 
 - [KitCar KitCarchive - Pontiac Fiero Mera](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/media/FieroMera.pdf)
+
+<br>
+
+## Books
+
+- [Fiero by Gary Witzenburg](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/media/Fiero_by_Gary_Witzenburg.pdf)
+
+<br>
 
 ## Graphics
 
