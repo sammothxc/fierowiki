@@ -1,8 +1,8 @@
 ---
-title: Sam's 86 GT
+title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T21:43:34.322Z
+date: 2025-11-03T21:44:13.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
