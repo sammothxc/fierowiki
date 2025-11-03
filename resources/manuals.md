@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T21:52:30.978Z
+date: 2025-11-03T21:53:08.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -11,14 +11,14 @@ dateCreated: 2025-10-26T22:27:00.661Z
 > 🚧 Under Construction: More Coming soon!
 {.is-warning}
 
-# 📘 FieroWiki: Manuals Archive
+# Manuals & Documents Archive
 
 An ever-growing list of manuals, guides, and other reference documents archived about the Fiero.  
 Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## 🏭 OEM Manuals
+## OEM Manuals
 
 - [1986 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/manuals/86_Fiero_Owners_Manual.pdf)
 - [1987 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/manuals/87_Fiero_Owners_Manual.pdf)
