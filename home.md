@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-11-03T16:33:50.412Z
+date: 2025-11-03T16:34:48.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -32,7 +32,7 @@ Every article, manual, and image helps ensure that the Fiero’s story remains a
 Things you'll find here:
 - [Archived Websites:](/archived-websites) Archived websites of all kinds, anything with information on the Fiero
 
-- [CAD & 3D Print Files](): Scanned parts and various things to 3D print
+- [CAD & 3D Print Files](/resources/3d-files): Scanned parts and various things to 3D print
 
 - [Technical Information](/knowledge-articles): Community-written repair guides, repair/restoration tips
 
