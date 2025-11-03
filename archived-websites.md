@@ -2,13 +2,13 @@
 title: Archived Websites
 description: 
 published: true
-date: 2025-11-03T19:38:13.721Z
+date: 2025-11-03T20:41:52.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T19:38:13.721Z
 ---
 
-# 🗃️ Archived Websites — FieroWiki
+# Archived Websites Full List
 
 The list of Pontiac Fiero–related websites preserved by FieroWiki.  
 Each entry links to the local archived copy (when available) and includes historical context, mirror status, and cleanup notes.
