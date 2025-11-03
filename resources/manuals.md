@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T21:58:25.735Z
+date: 2025-11-03T22:00:20.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -39,6 +39,9 @@ Each file is a direct download from the FieroWiki fileserver.
 https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Yourself.pdf
 https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Yourself.pdf
 
+86_Fiero_Owners_Manual.pdf
+86_Fiero_Owners_Manual.pdf
+
 ## Other Manuals
 
 - [Haynes Fiero Repair Manual](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/Haynes_Manual_Fiero.pdf)
@@ -49,7 +52,7 @@ https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Your
 ## ⚙️ Do-It-Yourself & Specialty Guides
 
 - [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Yourself.pdf)
-- [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/v/manuals/85_Fiero_Do_It_Yourself.pdf)
+- [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/85_Fiero_Do_It_Yourself.pdf)
 - [1986 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/86_Fiero_Do_It_Yourself.pdf)
 - [Fiero Parts & Illustrations CD](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/Fiero_Parts_&_Illustrations_CD.pdf)
 
