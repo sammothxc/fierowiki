@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T21:56:33.244Z
+date: 2025-11-03T21:58:25.735Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -36,6 +36,8 @@ Each file is a direct download from the FieroWiki fileserver.
 - [ETR Music System 2000 Series Manual](https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/ETR%20Music%20System%202000%20Series.pdf)
 
 <br>
+https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Yourself.pdf
+https://fierowiki.samwarr.dev/api/public/dl/N9G9z0tX/manuals/84_Fiero_Do_It_Yourself.pdf
 
 ## Other Manuals
 
