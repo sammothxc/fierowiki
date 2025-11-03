@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-11-03T15:44:52.050Z
+date: 2025-11-03T16:33:50.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -30,17 +30,15 @@ Every article, manual, and image helps ensure that the Fiero’s story remains a
 {.is-info}
 
 Things you'll find here:
-- [Archived Websites:](/archived-websites) Archived websites of all kinds; anything with information on the Fiero
+- [Archived Websites:](/archived-websites) Archived websites of all kinds, anything with information on the Fiero
 
-- Technical Information: Repair data, service manuals, and restoration resources
+- [CAD & 3D Print Files](): Scanned parts and various things to 3D print
 
-- Guides & Tutorials: Community-written repair, modification, and restoration tips
+- [Technical Information](/knowledge-articles): Community-written repair guides, repair/restoration tips
 
-- History & Archives: Articles and references on the Fiero’s design and legacy
+- [Service & User Manuals](/resources/manuals): Scanned manuals, spec sheets, other documents
 
-- Media & Galleries: Photos, brochures, and promotional material
-
-- Documents & PDFs: Scanned manuals, spec sheets, and historical documents
+- Photos & Media: Photos, articles, promotional material
 
 Want to help expand these sections? See the [Contributing section](/home#contributing).
 
