@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T22:21:22.843Z
+date: 2025-11-03T22:30:03.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -20,9 +20,26 @@ Each file is a direct download from the FieroWiki fileserver.
 
 ## OEM Manuals
 
+<br>
+
+### Owner's Manuals
+
 - [1986 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
 - [1987 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
 - [1988 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
+
+<br>
+
+### Do It Yourself Manuals
+
+- [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+- [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
+- [1986 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Do_It_Yourself.pdf)
+
+<br>
+
+### Service Manuals
+
 - [1984 Fiero Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Service_Manual.pdf)
 - [1985 Fiero Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Service_Manual.pdf)
 - [1986 Fiero Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Service_Manual.pdf)
@@ -37,18 +54,17 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## Other Manuals
+## Community Manuals
 
+<br>
+
+### Repair Manuals
 - [Haynes Fiero Repair Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf)
 - [Chilton Fiero Repair Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
 
 <br>
 
-## Do-It-Yourself & Specialty Guides
-
-- [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-- [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
-- [1986 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Do_It_Yourself.pdf)
+### Parts Diagram Manuals
 - [Fiero Parts & Illustrations CD](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf)
 
 <br>
