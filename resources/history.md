@@ -2,7 +2,7 @@
 title: History & Media
 description: 
 published: true
-date: 2025-11-03T23:43:43.933Z
+date: 2025-11-03T23:47:33.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T23:10:47.340Z
@@ -24,7 +24,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 > Author, “Title,” *Journal*, Date, URL
 
-- [Fiero Focus - Keith Goodyear Taillight Lenses (2020)](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/history/FieroMera.pdf)  
+- [Fiero Focus - Keith Goodyear Taillight Lenses (2020)](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/history/Keith_Goodyear_feature_article_March_April_2020.pdf)  
 
 > Author, “Title,” *Journal*, Date, URL
 
@@ -40,7 +40,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 ## Graphics
 
-- [Car & Driver - The Periodic Table of Sports Cars (2000)](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/history/Car_&_Driver_-_The_Periodic_Table_of_Sports_Cars.pdf)
+- [Car & Driver - The Periodic Table of Sports Cars (2010)](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/history/Car_&_Driver_-_The_Periodic_Table_of_Sports_Cars.pdf)
 
 > Tony Quiroga, “The Periodic Table of Sports Cars,” Car & Driver, December 6 2010, https://www.caranddriver.com/features/a14514444/the-periodic-table-of-sports-cars-feature/
 
