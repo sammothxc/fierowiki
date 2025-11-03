@@ -2,7 +2,7 @@
 title: History & Media
 description: 
 published: true
-date: 2025-11-03T23:47:33.342Z
+date: 2025-11-03T23:49:30.317Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T23:10:47.340Z
@@ -44,3 +44,10 @@ Each file is a direct download from the FieroWiki fileserver.
 
 > Tony Quiroga, “The Periodic Table of Sports Cars,” Car & Driver, December 6 2010, https://www.caranddriver.com/features/a14514444/the-periodic-table-of-sports-cars-feature/
 
+<br>
+
+## Video
+
+- [Pontiac Goes Mid Engine Designing the 1984-88 Pontiac Fiero's Interior](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/history/Pontiac_Goes_Mid_Engine_Designing_the_1984-88_Pontiac_Fiero's_Interior_(with_Marv_Fisher).mp4)
+
+>
