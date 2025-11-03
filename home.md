@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-11-03T16:34:48.078Z
+date: 2025-11-03T21:36:21.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -36,7 +36,7 @@ Things you'll find here:
 
 - [Technical Information](/knowledge-articles): Community-written repair guides, repair/restoration tips
 
-- [Service & User Manuals](/resources/manuals): Scanned manuals, spec sheets, other documents
+- [Service/User Manuals & Other Documents](/resources/manuals): Scanned manuals, spec sheets, other documents
 
 - Photos & Media: Photos, articles, promotional material
 
