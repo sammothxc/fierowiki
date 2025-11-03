@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T22:47:30.897Z
+date: 2025-11-03T23:24:31.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -61,6 +61,8 @@ Each file is a direct download from the FieroWiki fileserver.
 
 - [Muncie 5-Speed Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf)
 - [TH125C Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf)
+
+- [Chevrolet 60° V6 Summary](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf)
 - [Chevrolet 60° V6 Reference Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf)
 
 <br>
