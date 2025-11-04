@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T16:09:36.890Z
+date: 2025-11-04T16:11:14.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -30,7 +30,7 @@ Each file is a direct download from the FieroWiki fileserver.
 | 1987 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
 | 1988 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
 | Delco ETR Radio 2000 Series | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf)
-| 1986 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf)
+| Sunshade Instructions       | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf)
 
 <br>
 
