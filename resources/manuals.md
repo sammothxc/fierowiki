@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T16:03:42.265Z
+date: 2025-11-04T16:09:36.890Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -36,6 +36,11 @@ Each file is a direct download from the FieroWiki fileserver.
 
 ### Do It Yourself Manuals
 
+| Name                             | View in Browser | Direct Download |
+|----------------------------------|-----------------|-----------------|
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1985 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
+| 1986 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
 - [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
 - [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
 - [1986 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Do_It_Yourself.pdf)
