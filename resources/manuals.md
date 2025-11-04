@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T16:21:59.491Z
+date: 2025-11-04T16:22:28.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -26,6 +26,8 @@ Each file is a direct download from the FieroWiki fileserver.
 
 | Name                        | View in Browser | Direct Download |
 |-----------------------------|-----------------|-----------------|
+| 1984 Fiero Owner’s Manual | Coming Soon     | Coming Soon
+| 1985 Fiero Owner’s Manual | Coming Soon     | Coming Soon
 | 1986 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
 | 1987 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
 | 1988 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
