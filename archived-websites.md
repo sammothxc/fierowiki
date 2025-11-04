@@ -2,7 +2,7 @@
 title: Archived Websites
 description: 
 published: true
-date: 2025-11-04T01:46:58.683Z
+date: 2025-11-04T15:55:28.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T19:38:13.721Z
@@ -17,11 +17,10 @@ Each entry links to the local archived copy (when available) and includes histor
 
 ## Available Archives
 
-| Site                          | Years Active | Scope          | Archive                                |
-|-------------------------------|--------------|----------------|----------------------------------------|
+| Site                          | Years Active | Scope          | Archive |
+|-------------------------------|--------------|----------------|---------|
 | fierosails</nolink>.com       | 1999–2015    | Full Site      | [Entry](/archived-websites/fierosails)
 | Ogre's Fiero Cave             | 2002–2019    | Full Site      | [Entry](/archived-websites/fierocave)
-
 
 <br>
 
@@ -30,7 +29,6 @@ Each entry links to the local archived copy (when available) and includes histor
 | Site                          | Years Active | Scope          |
 |-------------------------------|--------------|----------------|
 | Driven Visions                | 1999-2009    | Specific Pages |
-
 
 <br>
 
