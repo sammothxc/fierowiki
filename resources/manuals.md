@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T16:23:07.568Z
+date: 2025-11-04T16:46:12.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -52,18 +52,22 @@ Each file is a direct download from the FieroWiki fileserver.
 
 | Name                             | View in Browser | Direct Download |
 |----------------------------------|-----------------|-----------------|
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Service Manual        | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| REVISED Electrical Section 8A    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1985 Fiero Service Manual        | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| REVISED V6 Emissions Section 6E3 | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1986 Fiero Service Manual        | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1987 Fiero Service Manual        | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1988 Fiero Service Manual        | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Body Service Manual         | Coming Soon     | Coming Soon
+| 1985 Body Service Manual         | Coming Soon     | Coming Soon
+| 1986 Body Service Manual         | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1987–88 Body Service Manual      | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Maintenance Schedule  | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1985 Fiero Maintenance Schedule  | Coming Soon     | Coming Soon
+| 1986 Fiero Maintenance Schedule  | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1987 Fiero Maintenance Schedule  | Coming Soon     | Coming Soon
+| 1988 Fiero Maintenance Schedule  | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
 
 - [1984 Fiero Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Service_Manual.pdf)
 - [REVISED - 1984 Fiero Electrical Troubleshooting Section 8A](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Electrical_Troubleshooting.pdf)
