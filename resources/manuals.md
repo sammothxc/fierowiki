@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-03T23:34:36.314Z
+date: 2025-11-04T15:58:00.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -24,7 +24,18 @@ Each file is a direct download from the FieroWiki fileserver.
 
 ### Owner's Manuals
 
-- [1986 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
+| Name                        | View in Browser | Direct Download |
+|-----------------------------|-----------------|-----------------|
+| 1986 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
+| 1987 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
+| 1988 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
+| Delco ETR Radio 2000 Series | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf)
+| 1986 Fiero Owner’s Manual   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf)
+
+<a href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf" target="_blank">
+  View PDF (PDF.js)
+</a>
+
 - [1987 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
 - [1988 Fiero Owner’s Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
 - [Delco ETR Music System 2000 Series Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf)
