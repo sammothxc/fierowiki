@@ -2,21 +2,12 @@
 title: 3D Files
 description: 
 published: true
-date: 2025-10-27T05:11:32.885Z
+date: 2025-11-04T17:21:21.441Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-26T22:26:42.083Z
+dateCreated: 2025-10-26T22:26:58.853Z
 ---
 
-> Coming soon!
+> 🚧 Still under construction: more coming soon!
 {.is-warning}
 
-![Under Construction](/assets/under_construction.jpg)
-
-# 🚧 Page Under Construction
-
-Thank you for visiting! This page is currently **under construction** (just like my Fiero).  
-
-I'm working hard to add content and resources here. Please check back soon for updates.
-
-<a href="/" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">Take me Home</a>
