@@ -2,7 +2,7 @@
 title: Ogre's Fiero Cave Entry
 description: 
 published: true
-date: 2025-10-29T20:42:59.997Z
+date: 2025-11-04T01:39:03.681Z
 tags: fierocave
 editor: markdown
 dateCreated: 2025-10-27T02:09:15.929Z
@@ -20,7 +20,7 @@ dateCreated: 2025-10-27T02:09:15.929Z
 
 
 ## Original Source
-**Ogre’s Fiero Cave**  
+> Ogre’s Fiero Cave
 Original Website: [https://fierocave.shorturl.com/](https://fierocave.shorturl.com/)  
 Creator and Copyright Holder: Ogre (original author)
 
@@ -34,3 +34,5 @@ If you are the original creator or copyright holder and would like this archive 
 - No claim of authorship, modification, or redistribution rights is made by FieroWiki.
 
 This is a **preserved, unedited copy** of the original website **Ogre’s Fiero Cave** as recorded in [The Wayback Machine](https://web.archive.org/web/20140928092033im_/http://home.comcast.net/~fierocave/) around 2014, hosted here **for archival and educational purposes only**.
+
+A full, unedited copy of the archived website can be [downloaded here](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/website_archives/fierocave_archive.zip) as a .zip file.
