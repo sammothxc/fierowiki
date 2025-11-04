@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T16:11:14.606Z
+date: 2025-11-04T16:17:11.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -41,13 +41,25 @@ Each file is a direct download from the FieroWiki fileserver.
 | 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
 | 1985 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
 | 1986 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
-- [1984 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-- [1985 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
-- [1986 Fiero Do-It-Yourself Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Do_It_Yourself.pdf)
 
 <br>
 
 ### Service Manuals
+
+| Name                             | View in Browser | Direct Download |
+|----------------------------------|-----------------|-----------------|
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
+| 1984 Fiero Do-It-Yourself Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
 
 - [1984 Fiero Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Service_Manual.pdf)
 - [REVISED - 1984 Fiero Electrical Troubleshooting Section 8A](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Electrical_Troubleshooting.pdf)
@@ -66,11 +78,12 @@ Each file is a direct download from the FieroWiki fileserver.
 
 ### Powertrain Manuals
 
-- [Muncie 5-Speed Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf)
-- [TH125C Service Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf)
-
-- [Chevrolet 60° V6 Summary](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf)
-- [Chevrolet 60° V6 Reference Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf)
+| Name                              | View in Browser | Direct Download |
+|-----------------------------------|-----------------|-----------------|
+| Muncie 5-Speed Service Manual     | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf)
+| TH125C Service Manual             | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf)
+| Chevrolet 60° V6 Summary          | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf)
+| Chevrolet 60° V6 Reference Manual | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf)
 
 <br>
 
@@ -79,10 +92,16 @@ Each file is a direct download from the FieroWiki fileserver.
 <br>
 
 ### Repair Manuals
-- [Haynes Fiero Repair Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf)
-- [Chilton Fiero Repair Manual](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
+
+| Name                             | View in Browser | Direct Download |
+|----------------------------------|-----------------|-----------------|
+| Haynes Fiero Repair Manual       | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf)
+| Chilton Fiero Repair Manual      | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
 
 <br>
 
 ### Parts Diagram Manuals
-- [Fiero Parts & Illustrations CD](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf)
+
+| Name                             | View in Browser | Direct Download |
+|----------------------------------|-----------------|-----------------|
+| Fiero Parts & Illustrations CD   | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf)
