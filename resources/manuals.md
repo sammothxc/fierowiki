@@ -2,13 +2,13 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T17:01:55.371Z
+date: 2025-11-04T17:03:43.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
 ---
 
-> 🚧 Under Construction: more coming soon!
+> 🚧 Still under construction: more coming soon!
 {.is-warning}
 
 # Manuals & Documents Archive
