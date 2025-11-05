@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-04T17:15:54.698Z
+date: 2025-11-05T21:56:02.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -11,18 +11,11 @@ dateCreated: 2025-10-26T22:27:00.661Z
 > 🚧 Still under construction: more coming soon!
 {.is-warning}
 
-# Manuals & Documents Archive
-
-An ever-growing list of manuals, guides, and other reference documents archived about the Fiero.  
-Each file is a direct download from the FieroWiki fileserver.
+# Official Materials
 
 <br>
 
-## Official Materials
-
-<br>
-
-### Owner's Manuals
+## Owner's Manuals
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
@@ -36,7 +29,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-### Do It Yourself Manuals
+## Do It Yourself Manuals
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
@@ -48,7 +41,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-### Service Manuals
+## Service Manuals
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
@@ -71,7 +64,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-### Powertrain Manuals
+## Powertrain Manuals
 
 | Name                              | Format | View in Browser | Direct Download |
 |-----------------------------------|--------|-----------------|-----------------|
@@ -82,11 +75,17 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-## Community Materials
+## Part Datasheets
+
+| Name                              | Format | View in Browser | Direct Download |
+|-----------------------------------|--------|-----------------|-----------------|
+| 
+
+# Community Materials
 
 <br>
 
-### Repair Manuals
+## Repair Manuals
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
@@ -95,7 +94,7 @@ Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
-### Parts Diagram Manuals
+## Parts Diagram Manuals
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
