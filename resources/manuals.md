@@ -2,7 +2,7 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-05T21:56:02.942Z
+date: 2025-11-05T22:06:29.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
@@ -79,7 +79,8 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                              | Format | View in Browser | Direct Download |
 |-----------------------------------|--------|-----------------|-----------------|
-| 
+| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/resistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/resistor.pdf)
+
 
 # Community Materials
 
