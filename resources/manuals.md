@@ -54,19 +54,33 @@ dateCreated: 2025-10-26T22:27:00.661Z
 | 1985 Body Service Manual         | PDF    | Coming Soon     | Coming Soon
 | 1986 Body Service Manual         | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf)
 | 1987–88 Body Service Manual      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87-88BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87-88BodyServiceManual.pdf)
-| Muncie 5-Speed Service Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf)
-| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf)
 | Chevrolet 60° V6 Short Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ShortManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ShortManual.pdf)
 | Chevrolet 60° V6 Service Manual   | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ServiceManual.pdf)
+| Muncie 5-Speed Service Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf)
+| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf)
+
+<br>
+
+## TSBs
+
+| Name                                 | Format | View in Browser | Direct Download |
+|--------------------------------------|--------|-----------------|-----------------|
+| Oil Pressure Sensor Service          | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_V6OilPressureSender.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_V6OilPressureSender.pdf)
+| Revised Cam Gear Replacement Service | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_88RearBrake.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_88RearBrake.pdf)
+| Rear Caliper Park Brake Service      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_88RearBrake.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TSB_88RearBrake.pdf)
 
 <br>
 
 ## Part Datasheets
 
-| Name                              | Format | View in Browser | Direct Download |
-|-----------------------------------|--------|-----------------|-----------------|
-| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/DS_FanResistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_FanResistor.pdf.pdf)
+| Name                                       | Format | View in Browser | Direct Download |
+|--------------------------------------------|--------|-----------------|-----------------|
+| General Purpose Power Resistor             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_FanResistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_FanResistor.pdf)
+| Throttle Body Injection (TBI) Bottom Feed  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_TBIBottomFeed.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_TBIBottomFeed.pdf)
+| Throttle Body Injection (TBI) Single Point | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_TBISinglePoint.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_TBISinglePoint.pdf)
+| Two-Way Check Valve - GM Patent            | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_PatentTwoWayCheckValve.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_PatentTwoWayCheckValve.pdf)
 
+<br>
 
 # Community Materials
 
@@ -76,8 +90,8 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
-| Haynes Repair Manual - Fiero     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf)
 | Chilton Repair Manual - Fiero    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_ChiltonsRepairManualFiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_ChiltonsRepairManualFiero.pdf)
+| Haynes Repair Manual - Fiero     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf)
 
 <br>
 
@@ -86,3 +100,11 @@ dateCreated: 2025-10-26T22:27:00.661Z
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
 | Fiero Parts & Illustrations CD   | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf)
+
+<br>
+
+## Unsorted
+
+| Name                             | Format | View in Browser | Direct Download |
+|----------------------------------|--------|-----------------|-----------------|
+| Brake Rotor Specifications       | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf)
