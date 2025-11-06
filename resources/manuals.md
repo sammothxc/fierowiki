@@ -69,8 +69,8 @@ dateCreated: 2025-10-26T22:27:00.661Z
 | Name                              | Format | View in Browser | Direct Download |
 |-----------------------------------|--------|-----------------|-----------------|
 | Muncie 5-Speed Service Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf)
-| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/th125c_Service_Manual.pdf)
-| Chevrolet 60° V6 Summary          | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/60degreev6.pdf)
+| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TH125C_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TH125C_Service_Manual.pdf)
+| Chevrolet 60° V6 Short            | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Short.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Short.pdf)
 | Chevrolet 60° V6 Reference Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf)
 
 <br>
@@ -79,7 +79,7 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                              | Format | View in Browser | Direct Download |
 |-----------------------------------|--------|-----------------|-----------------|
-| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/resistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/resistor.pdf)
+| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/AC_Resistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/AC_Resistor.pdf)
 
 
 # Community Materials
@@ -90,8 +90,8 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
-| Haynes Fiero Repair Manual       | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Manual_Fiero.pdf)
-| Chilton Fiero Repair Manual      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
+| Haynes Repair Manual - Fiero     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Repair_Manual_Fiero.pdf)
+| Chilton Repair Manual - Fiero    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
 
 <br>
 
