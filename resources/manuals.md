@@ -21,23 +21,21 @@ dateCreated: 2025-10-26T22:27:00.661Z
 |----------------------------------|--------|-----------------|-----------------|
 | 1984 Fiero Owner’s Manual        | PDF    | Coming Soon     | Coming Soon
 | 1985 Fiero Owner’s Manual        | PDF    | Coming Soon     | Coming Soon
-| 1986 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
-| 1987 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Fiero_Owners_Manual.pdf)
-| 1988 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Owners_Manual.pdf)
-| Delco ETR Radio 2000 Series      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Delco_ETR_Music_System_2000_Series.pdf)
-| Sunshade Instructions            | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Sunshade_Instructions.pdf)
-
-<br>
-
-## Do It Yourself Manuals
-
-| Name                             | Format | View in Browser | Direct Download |
-|----------------------------------|--------|-----------------|-----------------|
-| 1984 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1985 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Do_It_Yourself.pdf)
-| 1986 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Owners_Manual.pdf)
+| 1986 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroOwnersManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroOwnersManual.pdf)
+| 1987 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87FieroOwnersManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87FieroOwnersManual.pdf)
+| 1988 Fiero Owner’s Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroOwnersManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroOwnersManual.pdf)
+| 1984 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroMaintenanceSchedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroMaintenanceSchedule.pdf)
+| 1985 Fiero Maintenance Schedule  | PDF    | Coming Soon     | Coming Soon
+| 1986 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroMaintenanceSchedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroMaintenanceSchedule.pdf)
+| 1987 Fiero Maintenance Schedule  | PDF    | Coming Soon     | Coming Soon
+| 1988 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroMaintenanceSchedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroMaintenanceSchedule.pdf)
+| 1984 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroDoItYourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroDoItYourself.pdf)
+| 1985 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroDoItYourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroDoItYourself.pdf)
+| 1986 Fiero Do-It-Yourself Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroDoItYourself.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86FieroDoItYourself.pdf)
 | 1987 Fiero Do-It-Yourself Manual | PDF    | Coming Soon     | Coming Soon
 | 1988 Fiero Do-It-Yourself Manual | PDF    | Coming Soon     | Coming Soon
+| Delco ETR Radio 2000 Series      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_DelcoETRMusicSystem2000Series.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_DelcoETRMusicSystem2000Series.pdf)
+| Sunshade Instructions            | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_SunshadeInstructions.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_SunshadeInstructions.pdf)
 
 <br>
 
@@ -45,33 +43,21 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
-| 1984 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Service_Manual.pdf)
-| REVISED Electrical Section 8A    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Electrical_Troubleshooting.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Electrical_Troubleshooting.pdf)
-| 1985 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_Fiero_Service_Manual.pdf)
-| REVISED V6 Emissions Section 6E3 | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_FieroV6_6E3_Emissions_and_Drivability.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/85_FieroV6_6E3_Emissions_and_Drivability.pdf)
-| 1986 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Body_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Body_Service_Manual.pdf)
-| 1987 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Body_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87_Body_Service_Manual.pdf)
-| 1988 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Service_Manual.pdf)
+| 1984 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroServiceManual.pdf)
+| REVISED Electrical Section 8A    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroElectricalTroubleshooting.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_84FieroElectricalTroubleshooting.pdf)
+| 1985 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroServiceManual.pdf)
+| REVISED V6 Emissions Section 6E3 | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroV6EmissionsandDrivability.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_85FieroV6EmissionsandDrivability.pdf)
+| 1986 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf)
+| 1987 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87BodyServiceManual.pdf)
+| 1988 Fiero Service Manual        | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_88FieroServiceManual.pdf)
 | 1984 Body Service Manual         | PDF    | Coming Soon     | Coming Soon
 | 1985 Body Service Manual         | PDF    | Coming Soon     | Coming Soon
-| 1986 Body Service Manual         | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Body_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Body_Service_Manual.pdf)
-| 1987–88 Body Service Manual      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87-88_Body_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/87-88_Body_Service_Manual.pdf)
-| 1984 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Maintenance_Schedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Maintenance_Schedule.pdf)
-| 1985 Fiero Maintenance Schedule  | PDF    | Coming Soon     | Coming Soon
-| 1986 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/86_Fiero_Maintenance_Schedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/84_Fiero_Do_It_Yourself.pdf)
-| 1987 Fiero Maintenance Schedule  | PDF    | Coming Soon     | Coming Soon
-| 1988 Fiero Maintenance Schedule  | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Maintenance_Schedule.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/88_Fiero_Maintenance_Schedule.pdf)
-
-<br>
-
-## Powertrain Manuals
-
-| Name                              | Format | View in Browser | Direct Download |
-|-----------------------------------|--------|-----------------|-----------------|
-| Muncie 5-Speed Service Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Muncie_5_Spd_Service_Manual.pdf)
-| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TH125C_Service_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/TH125C_Service_Manual.pdf)
-| Chevrolet 60° V6 Short            | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Short.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Short.pdf)
-| Chevrolet 60° V6 Reference Manual | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chevrolet_60V6_Manual.pdf)
+| 1986 Body Service Manual         | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_86BodyServiceManual.pdf)
+| 1987–88 Body Service Manual      | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87-88BodyServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_87-88BodyServiceManual.pdf)
+| Muncie 5-Speed Service Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Muncie5SpdServiceManual.pdf)
+| TH125C Service Manual             | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_TH125CServiceManual.pdf)
+| Chevrolet 60° V6 Short Manual     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ShortManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ShortManual.pdf)
+| Chevrolet 60° V6 Service Manual   | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ServiceManual.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/OEM_Chevrolet60V6ServiceManual.pdf)
 
 <br>
 
@@ -79,7 +65,7 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                              | Format | View in Browser | Direct Download |
 |-----------------------------------|--------|-----------------|-----------------|
-| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/AC_Resistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/AC_Resistor.pdf)
+| General Purpose Power Resistor    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/fierocave-docs/DS_FanResistor.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/DS_FanResistor.pdf.pdf)
 
 
 # Community Materials
@@ -90,8 +76,8 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
-| Haynes Repair Manual - Fiero     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Haynes_Repair_Manual_Fiero.pdf)
-| Chilton Repair Manual - Fiero    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Chiltons_Repair_Manual_Fiero.pdf)
+| Haynes Repair Manual - Fiero     | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_HaynesRepairManualFiero.pdf)
+| Chilton Repair Manual - Fiero    | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_ChiltonsRepairManualFiero.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_ChiltonsRepairManualFiero.pdf)
 
 <br>
 
@@ -99,4 +85,4 @@ dateCreated: 2025-10-26T22:27:00.661Z
 
 | Name                             | Format | View in Browser | Direct Download |
 |----------------------------------|--------|-----------------|-----------------|
-| Fiero Parts & Illustrations CD   | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/Fiero_Parts_&_Illustrations_CD.pdf)
+| Fiero Parts & Illustrations CD   | PDF    | [View](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf?inline=true) | [Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/docs/CR_FieroParts&Illustrations.pdf)
