@@ -2,7 +2,7 @@
 title: VSS Gear 29T
 description: 
 published: true
-date: 2025-12-02T06:09:56.987Z
+date: 2025-12-02T06:11:21.239Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T03:12:36.178Z
@@ -10,9 +10,13 @@ dateCreated: 2025-12-02T03:12:36.178Z
 
 # VSS Gear, Red 29T
 
+<br>
+
 ## 3D Viewer
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fvss_gear.stl" style="border:0;margin:0;width:500px;height:500px;"></iframe>
+This is an interactive 3D viewer; click and drag to navigate the part.
+
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fvss_gear.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
 ## Downloads
 
