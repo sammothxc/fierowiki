@@ -2,7 +2,7 @@
 title: Air Intake Hose, V6
 description: 
 published: true
-date: 2025-12-02T07:02:41.436Z
+date: 2025-12-02T07:30:10.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T07:02:41.436Z
@@ -15,6 +15,9 @@ dateCreated: 2025-12-02T07:02:41.436Z
 ## 3D Viewer
 
 This is an interactive 3D viewer; click and drag to navigate the part.
+
+> This part is large and may take a bit to load, but it will.
+{.is-warning}
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fair_intake_hose_mesh.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
