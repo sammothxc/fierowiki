@@ -2,7 +2,7 @@
 title: VSS Gear 29T
 description: 
 published: true
-date: 2025-12-02T03:20:23.030Z
+date: 2025-12-02T03:22:36.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T03:12:36.178Z
@@ -12,15 +12,10 @@ dateCreated: 2025-12-02T03:12:36.178Z
 
 ## 3D Viewer
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=black&color=red" style="border:0;margin:0;width:500px;height:500px;"></iframe>
-
 ## Downloads
 
-
-
-
-| Type     | Link   |
-|:--------:|:------:|
-| Viewer   | [View]()
-| STL      | [Download](/api/public/dl/EvpPN0OJ/3d-files/vss_gear.stl) |
-| 3MF      | [Download](/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf) |
+| Type | Link |
+| --- | --- |
+| Viewer | View |
+| STL | [Download](/api/public/dl/EvpPN0OJ/3d-files/vss_gear.stl) |
+| 3MF | [Download](/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf) |
