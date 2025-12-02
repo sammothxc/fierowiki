@@ -16,7 +16,7 @@ dateCreated: 2025-12-02T03:12:36.178Z
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fvss_gear.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fvss_gear_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
 <br>
 
@@ -26,21 +26,21 @@ If you need or want these files in a different format than the ones listed below
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 4.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modelled by hand in Fusion 360 |
+| STL | 4.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modelled by hand in Fusion 360 |
 
-| 3MF | 1.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modelled by hand in Fusion 360 |
+| 3MF | 1.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_3mf.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modelled by hand in Fusion 360 |
 
-| Faro RevEng Raw Scans | 1.3 GB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_scan.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
+| Faro RevEng Raw Scans | 1.3 GB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_faro.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| CPE |  MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>
+| CPE | 167 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_cpe.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
+| E57 | 615 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_e57.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| E57 |  MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download)**</a>
+| OBJ | 9.3 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_obj.obj" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| OBJ |  MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>
+| PLY | 617 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_ply.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| PLY |  MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>
+| PTS | 615 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_pts.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| PTS |  MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>
+| Mesh STL | 5.9 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_mesh.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
 
-| Mesh STL | 5.9 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>
