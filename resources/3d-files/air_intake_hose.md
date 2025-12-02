@@ -18,7 +18,7 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fair_intake_hose_mesh.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
-<br> air_intake_hose_pcd.pcd
+<br>
 
 ## Downloads
 
