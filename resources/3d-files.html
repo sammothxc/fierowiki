@@ -2,7 +2,7 @@
 title: 3D Files
 description: 
 published: true
-date: 2025-12-02T07:18:28.516Z
+date: 2025-12-02T07:36:39.075Z
 tags: 
 editor: code
 dateCreated: 2025-12-02T06:52:27.077Z
@@ -164,3 +164,47 @@ dateCreated: 2025-12-02T06:52:27.077Z
     </a>
   </div>
 </div>
+
+<style>
+.parts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.part-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.part-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.part-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.part-card a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.part-card a:hover {
+  text-decoration: underline;
+}
+</style>
