@@ -2,7 +2,7 @@
 title: Power Window Switch
 description: 
 published: true
-date: 2025-12-03T20:01:28.705Z
+date: 2025-12-03T20:04:29.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:47:31.981Z
@@ -20,7 +20,7 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 <br>
 
-## Downloads
+## Notes
 
 "This is the main switch cover for power windows in all years of Pontiac Fieros. Originally, the 84 Fieros had a grey one and 85-88 were black. All years tend to fade and or crack with age. This piece was modeled after the original and can be printed to replace them.
 
@@ -30,8 +30,14 @@ I recommend printing out of either ABS or PETG as a warm car will definitely mel
 
 Print standing horizontal if possible with supports. 100% infill."
 
+<br>
+
+## Downloads
+
+
+
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 261 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/power_window_switch_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from [Thingiverse](https://www.thingiverse.com/thing:4495244) |
+| STL | 261 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/power_window_switch_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
 
-> "[Pontiac Fiero Window Switch](https://www.thingiverse.com/thing:4495244)" by [larsencreate](https://www.thingiverse.com/larsencreate) is licensed under the [Creative Commons - Attribution - Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license.
+> "[Pontiac Fiero Window Switch](https://www.thingiverse.com/thing:4495244)" by [larsencreate](https://www.thingiverse.com/larsencreate) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
