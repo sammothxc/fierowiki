@@ -2,7 +2,7 @@
 title: Power Window Switch
 description: 
 published: true
-date: 2025-12-03T20:00:48.259Z
+date: 2025-12-03T20:01:28.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:47:31.981Z
@@ -21,6 +21,14 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 <br>
 
 ## Downloads
+
+"This is the main switch cover for power windows in all years of Pontiac Fieros. Originally, the 84 Fieros had a grey one and 85-88 were black. All years tend to fade and or crack with age. This piece was modeled after the original and can be printed to replace them.
+
+Note: When replacing the switch, you do not need to disassemble the entire thing(unless you need to clean it). You can push on the two dimples on either side of the switch  and it will pop out.
+
+I recommend printing out of either ABS or PETG as a warm car will definitely melt this switch in PLA. 
+
+Print standing horizontal if possible with supports. 100% infill."
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
