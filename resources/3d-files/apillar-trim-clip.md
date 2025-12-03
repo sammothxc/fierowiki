@@ -2,7 +2,7 @@
 title: A-Pillar Trim Clip
 description: 
 published: true
-date: 2025-12-03T19:19:47.662Z
+date: 2025-12-03T19:27:54.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:19:47.662Z
@@ -22,8 +22,8 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 ## Downloads
 
-> Credit goes to ###
+> Credit goes to [airwrench](https://www.thingiverse.com/thing:2030247)
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 51 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/apiller_trim_clip_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
+| STL | 51 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/apiller_trim_clip_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from [Thingiverse](https://www.thingiverse.com/thing:2030247) |
