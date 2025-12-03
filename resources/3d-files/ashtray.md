@@ -1,14 +1,14 @@
 ---
-title: Ashtray
+title: Ashtray Insert
 description: 
 published: true
-date: 2025-12-03T21:33:09.234Z
+date: 2025-12-03T21:35:13.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T21:33:09.234Z
 ---
 
-# Ashtray
+# Ashtray Insert
 <br>
 
 ## 3D Viewer
@@ -31,4 +31,4 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 |:-----------:|:----:|:----:|-------------|
 | STL | 795 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
 
-> "[Fiero A-piller Trim Clip](https://www.thingiverse.com/thing:2030247)" by [airwrench](https://www.thingiverse.com/airwench) is licensed under the [Creative Commons - Attribution - Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license.
+> "[Pontiac Fiero Ashtray Insert Logo & Plain Version](https://www.thingiverse.com/thing:3259292)" by [basti_vr6](https://www.thingiverse.com/basti_vr6) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
