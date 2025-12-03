@@ -2,7 +2,7 @@
 title: Rear Pontiac Badge
 description: 
 published: true
-date: 2025-12-03T21:16:02.234Z
+date: 2025-12-03T21:16:56.658Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T21:16:02.234Z
@@ -46,7 +46,7 @@ Pins printed separately will need to be glued in.
 
 ### Post-Printing
 
-![](rear_pontiac_badge_img.jpg)
+![](/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge_img.jpg)
 
 Paint with plastidip to protect from sun/elements.  Mount with glue - shoogoo works well.
 
