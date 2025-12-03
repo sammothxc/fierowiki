@@ -2,7 +2,7 @@
 title: VSS Gear 29T
 description: 
 published: true
-date: 2025-12-03T18:50:17.810Z
+date: 2025-12-03T19:39:02.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T06:54:21.324Z
