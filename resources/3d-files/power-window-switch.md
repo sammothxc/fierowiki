@@ -2,7 +2,7 @@
 title: Power Window Switch
 description: 
 published: true
-date: 2025-12-03T19:47:31.981Z
+date: 2025-12-03T20:00:48.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:47:31.981Z
@@ -22,8 +22,8 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 ## Downloads
 
-> Credit goes to [larsencreate](https://www.thingiverse.com/thing:4495244)
-
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
 | STL | 261 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/power_window_switch_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from [Thingiverse](https://www.thingiverse.com/thing:4495244) |
+
+> "[Pontiac Fiero Window Switch](https://www.thingiverse.com/thing:4495244)" by [larsencreate](https://www.thingiverse.com/larsencreate) is licensed under the [Creative Commons - Attribution - Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license.
