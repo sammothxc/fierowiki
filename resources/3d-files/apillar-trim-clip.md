@@ -2,7 +2,7 @@
 title: A-Pillar Trim Clip
 description: 
 published: true
-date: 2025-12-03T20:02:58.423Z
+date: 2025-12-03T21:02:40.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:19:47.662Z
@@ -22,7 +22,7 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 ## Notes
 
-"Clip to hold Fiero A pillar trim to car.  Different design than factory clip - provides easier removal than factory clip.  Snug fit on the A pillar metal clip holder.  Does not rattle on my car, but the factory clip does provide a more secure ratcheting holding mechanism.  The ratcheting feature on the factory clip also makes removing old clips intact difficult."
+Clip to hold Fiero A pillar trim to car.  Different design than factory clip - provides easier removal than factory clip.  Snug fit on the A pillar metal clip holder.  Does not rattle on my car, but the factory clip does provide a more secure ratcheting holding mechanism.  The ratcheting feature on the factory clip also makes removing old clips intact difficult.
 
 <br>
 
