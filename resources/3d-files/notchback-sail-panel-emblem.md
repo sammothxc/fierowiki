@@ -2,7 +2,7 @@
 title: Notchback Sail Panel Emblem
 description: 
 published: true
-date: 2025-12-03T20:58:47.840Z
+date: 2025-12-03T21:01:54.214Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:58:47.840Z
@@ -16,13 +16,13 @@ dateCreated: 2025-12-03T20:58:47.840Z
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fapiller_trim_clip_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fnotchback_sail_panel_emblem_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
 <br>
 
 ## Notes
 
-"Clip to hold Fiero A pillar trim to car.  Different design than factory clip - provides easier removal than factory clip.  Snug fit on the A pillar metal clip holder.  Does not rattle on my car, but the factory clip does provide a more secure ratcheting holding mechanism.  The ratcheting feature on the factory clip also makes removing old clips intact difficult."
+Remixed, i think it looks better with the 4 pointed star thing protruding.
 
 <br>
 
@@ -30,6 +30,6 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 51 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
+| STL | 193 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
 
-> "[Fiero A-piller Trim Clip](https://www.thingiverse.com/thing:2030247)" by [airwrench](https://www.thingiverse.com/airwench) is licensed under the [Creative Commons - Attribution - Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license.
+> "[Fiero Notchback Sail Panel Emblem](https://www.thingiverse.com/thing:2030247)" by [az4521](https://www.thingiverse.com/az4521) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
