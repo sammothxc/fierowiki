@@ -1,14 +1,14 @@
 ---
-title: External Trim Clip
+title: External Trim Clips
 description: 
 published: true
-date: 2025-12-03T20:53:24.863Z
+date: 2025-12-03T21:25:25.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:53:24.863Z
 ---
 
-# External Trim Clip
+# External Trim Clips
 
 <br>
 
