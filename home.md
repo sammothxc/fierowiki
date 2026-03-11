@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-11-03T21:36:21.272Z
+date: 2026-03-11T03:20:37.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -34,7 +34,7 @@ Things you'll find here:
 
 - [CAD & 3D Print Files](/resources/3d-files): Scanned parts and various things to 3D print
 
-- [Technical Information](/knowledge-articles): Community-written repair guides, repair/restoration tips
+- [Technical Information](/quick-resources/troubleshooting): Community-written repair guides, repair/restoration tips
 
 - [Service/User Manuals & Other Documents](/resources/manuals): Scanned manuals, spec sheets, other documents
 
