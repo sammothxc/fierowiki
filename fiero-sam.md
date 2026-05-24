@@ -2,7 +2,7 @@
 title: Sam's 86 GT
 description: 
 published: true
-date: 2025-10-27T05:11:32.885Z
+date: 2026-05-24T22:13:31.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:42.083Z
@@ -13,9 +13,9 @@ dateCreated: 2025-10-26T22:26:42.083Z
 
 ![Under Construction](/assets/under_construction.jpg)
 
-# 🚧 Page Under Construction
+# Page Under Construction
 
-Thank you for visiting! This page is currently **under construction** (just like my Fiero).  
+Thank you for visiting! This page is currently under construction (just like my Fiero).  
 
 I'm working hard to add content and resources here. Please check back soon for updates.
 
