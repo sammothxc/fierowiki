@@ -2,7 +2,7 @@
 title: FieroWiki User Guide
 description: 
 published: true
-date: 2025-10-27T22:53:11.285Z
+date: 2026-05-24T22:11:45.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-27T16:52:47.129Z
@@ -10,11 +10,11 @@ dateCreated: 2025-10-27T16:52:47.129Z
 
 # How to Use FieroWiki
 
-Welcome to **FieroWiki**! This guide will help you navigate the site and find information quickly.
+Welcome to FieroWiki! This short guide will help you navigate the site and find information quickly.
 
 <br>
 
-## 🔎 Searching
+## Searching
 
 - Use the search bar at the top of the page to find specific topics, manuals, or files
 
@@ -22,7 +22,8 @@ Welcome to **FieroWiki**! This guide will help you navigate the site and find in
 
 <br>
 
-## 🧭 Navigation
+## Navigation
+
 FieroWiki's site-wide navigation bar is on the left. Use it to:
 
 - Quickly access FieroWiki-specific pages such as quick reference material, file downloads, and policy pages
@@ -42,9 +43,9 @@ The sidebar on the right contains the Table of Contents for the page you’re cu
 
 <br>
 
-## 📂 Files and Downloads
+## Files and Downloads
 
-Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server, **FieroFile**.
+Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server (FieroFile).
 These files use links beginning with the base URL [`https://fierowiki.samwarr.dev/api/public/dl/`](https://fierowiki.samwarr.dev/api/public/dl/).
 Downloads linked in this manner are considered part of the FieroWiki website.
 
