@@ -2,10 +2,10 @@
 title: Common Issues
 description: 
 published: true
-date: 2025-10-27T05:11:32.885Z
+date: 2026-05-25T00:28:13.111Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-26T22:26:42.083Z
+dateCreated: 2025-10-26T22:26:57.067Z
 ---
 
 > Coming soon!
@@ -13,9 +13,9 @@ dateCreated: 2025-10-26T22:26:42.083Z
 
 ![Under Construction](/assets/under_construction.jpg)
 
-# 🚧 Page Under Construction
+# Page Under Construction
 
-Thank you for visiting! This page is currently **under construction** (just like my Fiero).  
+Thank you for visiting! This page is currently under construction (just like my Fiero).  
 
 I'm working hard to add content and resources here. Please check back soon for updates.
 
