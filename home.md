@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-25T00:38:44.525Z
+date: 2026-05-25T01:35:22.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -32,9 +32,9 @@ This wiki aims to gather technical documentation, historical resources, restorat
 
 - [CAD & 3D Print Files](/resources/3d-files): Scanned parts and various things to 3D print
 
-- [Technical Information](/quick-resources/troubleshooting): Community-written repair guides, repair/restoration tips
-
 - [Service/User Manuals & Other Documents](/resources/manuals): Scanned manuals, spec sheets, other documents
+
+- **(Coming Soon)** Technical Information: Community-written repair guides, repair/restoration tips
 
 - **(Coming Soon)** Photos & Media: Photos, articles, promotional material, etc
 
