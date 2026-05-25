@@ -45,7 +45,12 @@ Please respect the copyright and licensing of all materials. Only contribute con
 
 > FieroWiki is an personal and independent project and **not affiliated** with General Motors, Pontiac, or any other official Fiero organization.
 
+## Other
+
 - Website: [FieroWiki](https://fierowiki.samwarr.dev)
 - Maintainer: Sam Warr (sammothxc)
-- Repository: [sammothxc/fierowiki](https://github.com/sammothxc/fierowiki) on GitHub
-- Platform: [Wiki.js](https://wiki.js.org) (self-hosted)
+- [Copyright Policy](/copyright)
+- [Data Privacy Policy](/data-privacy)
+- [Terms of Use](/terms-of-use)
+
+All information is provided in good faith to support Fiero owners and enthusiasts. FieroWiki does not sell products, collect advertising revenue, or operate for profit. FieroWiki is powered by [Wiki.js](https://js.wiki/) and hosted on self-managed servers by the project maintainer, synced continuously with [GitHub](https://github.com/) for version control. Anti-spam protection is provided by [Akismet](https://akismet.com/).
