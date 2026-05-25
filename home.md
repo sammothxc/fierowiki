@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-25T00:27:09.295Z
+date: 2026-05-25T00:38:08.563Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -21,13 +21,13 @@ dateCreated: 2025-10-26T22:26:43.895Z
 
 FieroWiki is a free, independent knowledge base and archival project for everything related to the Pontiac Fiero: the innovative American mid-engine sports car produced by Pontiac from 1984 to 1988.
 
-This wiki aims to gather technical documentation, historical resources, restoration guides, and community knowledge in one place.
-Every article and manual helps Fieros stay on the road for future generations.
+This wiki aims to gather technical documentation, historical resources, restoration guides, and community knowledge in one place. Every article and manual helps Fieros stay on the road for future generations.
 
 > All materials are used under fair use and educational purposes where applicable. [See more](/copyright)
 {.is-info}
 
-Things you'll find here:
+## Things you'll find here
+
 - [Archived Websites:](/archived-websites) Archived websites of all kinds, anything with information on the Fiero
 
 - [CAD & 3D Print Files](/resources/3d-files): Scanned parts and various things to 3D print
@@ -38,19 +38,38 @@ Things you'll find here:
 
 - **(Coming Soon)** Photos & Media: Photos, articles, promotional material, etc
 
-You can search any topic, part, or piece of information using the site’s built-in search tool above.  
-If something isn’t listed here and you think it should be, see the Contributing section below.
+## Searching
 
+- You can search any topic, part, or piece of information using the site’s built-in search tool above. If something isn’t listed here and you think it should be, see the Contributing section below.
+- You can also click the Browse by Tags button (just to the right of the search bar) to view all pages associated with a specific tag
+
+## Navigation
+
+FieroWiki’s site-wide navigation bar is on the left. Use it to:
+
+- Quickly access FieroWiki-specific pages such as quick reference material, file downloads, and policy pages
+- Reach the landing pages for archived websites preserved by FieroWiki
+
+The sidebar on the right contains the Table of Contents for the page you’re currently viewing. Use it to:
+
+- Jump directly to a specific section on the page
+- View tags associated with that page
+- Access the comment section for discussion or feedback
+
+> Each archived site will also have its own sitemap, menu, or index page for navigating its resources and pages.
+{.is-info}
+
+## Files and Downloads
+
+Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server (FieroFile). These files use links beginning with the base URL `https://fierowiki.samwarr.dev/api/public/dl/`. Downloads linked in this manner are considered part of the FieroWiki website.
+
+> While FieroWiki takes precautions against malware by scanning files with various tools, all third-party content is hosted as-is. FieroWiki cannot guarantee that all hosted files (especially executables!) are completely safe. Always use caution when downloading files.
+{.is-warning}
 ## Mission
 
-The goal when I started FieroWiki was simple: to preserve and organize the collective knowledge of the Fiero community before it disappears.
-Too many original Fiero websites, forums, and technical resources have vanished over the years, lost to server shutdowns, expired domains, or lack of a maintainer.
-FieroWiki exists to bring that information back together, properly attributed and organized, in one place for educational and historical purposes.
+The goal when I started FieroWiki was simple: to preserve and organize the collective knowledge of the Fiero community before it disappears. Too many original Fiero websites, forums, and technical resources have vanished over the years, lost to server shutdowns, expired domains, or lack of a maintainer. FieroWiki tries to bring that information back together, properly attributed and organized, in one place for educational and historical purposes.
 
-## Preservation Efforts
-
-FieroWiki aims to archive at-risk online resources (such as older personal sites or defunct forums) to prevent their loss.  
-Archived materials are always credited to their original authors whenever possible, with clear source links and archival metadata.
+FieroWiki also focuses on finding and archiving at-risk online resources (such as older personal sites or defunct forums) to prevent the loss of the valueable information they contain. Archived materials are always credited to their original authors whenever possible, with clear source links and archival metadata.
 
 If you are the creator or copyright holder of any archived content and wish to have it modified or removed, please see the the Contributing section below for ways to contact me.
 
