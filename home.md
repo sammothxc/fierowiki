@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-25T00:23:04.419Z
+date: 2026-05-25T00:26:57.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -58,7 +58,7 @@ FieroWiki content is also mirrored continuously on the [FieroWiki GitHub reposit
 
 ## Contributing
 
-FieroWiki is a personal project of mine, and just one of many that I spend my free time on. If youspot an error or just want to contribute to the site, you can help by submitting additions or corrections via the [GitHub repository](https://github.com/sammothxc/fierowiki) or by reachinmg out to me directly:
+FieroWiki is a personal project of mine, and just one of many that I spend my free time on. If you spot an error or just want to contribute to the site, you can help by submitting additions or corrections via the [GitHub repository](https://github.com/sammothxc/fierowiki) or by reachinmg out to me directly:
 
 - [u/sammothxc](https://www.reddit.com/message/compose/?to=sammothxc) on Reddit
 - `@sammothxc` on Cyberspace, Discord, or Telegram 
