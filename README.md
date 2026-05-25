@@ -49,8 +49,8 @@ Please respect the copyright and licensing of all materials. Only contribute con
 
 - Website: [FieroWiki](https://fierowiki.samwarr.dev)
 - Maintainer: Sam Warr (sammothxc)
-- [Copyright Policy](/copyright)
-- [Data Privacy Policy](/data-privacy)
-- [Terms of Use](/terms-of-use)
+- [Copyright Policy](/copyright.md)
+- [Data Privacy Policy](/data-privacy.md)
+- [Terms of Use](/terms-of-use.md)
 
 All information is provided in good faith to support Fiero owners and enthusiasts. FieroWiki does not sell products, collect advertising revenue, or operate for profit. FieroWiki is powered by [Wiki.js](https://js.wiki/) and hosted on self-managed servers by the project maintainer, synced continuously with [GitHub](https://github.com/) for version control. Anti-spam protection is provided by [Akismet](https://akismet.com/).
