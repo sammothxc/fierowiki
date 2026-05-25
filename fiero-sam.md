@@ -2,7 +2,7 @@
 title: Sam's 86 GT
 description: 
 published: true
-date: 2026-05-25T00:04:27.712Z
+date: 2026-05-25T01:47:26.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:42.083Z
@@ -24,6 +24,10 @@ This page is to just keep a running log of all the things I've done to my Fiero,
 ## April 2026
 
 - I wired in a Viofo A229 Plus dashcam, it has both a front cam and a separate rear cam mounted just below the third brake light. I have the same model in my other car, and it works great.
+
+## February 2026
+
+- I couldn't find any information about the transmission oil drain plug crush washer, and mine was cracked and leaking. So I drew one up in FreeCAD and 3D printed it in ABS, and its been working great, no leaks. It also took me a while to hunt down the fact that the trans oil drain plug torque spec is 25 ft/lbs.
 
 ## October 2025
 
