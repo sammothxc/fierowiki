@@ -2,13 +2,13 @@
 title: Manuals & Docs
 description: 
 published: true
-date: 2025-11-05T22:06:29.376Z
+date: 2026-05-25T01:36:05.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:27:00.661Z
 ---
 
-> 🚧 Still under construction: more coming soon!
+> Still under construction, more coming soon!
 {.is-warning}
 
 # Official Materials
