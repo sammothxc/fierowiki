@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-25T00:12:28.971Z
+date: 2026-05-25T00:23:04.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -16,8 +16,6 @@ dateCreated: 2025-10-26T22:26:43.895Z
 > A preservation project for the technical knowledge and legacy of the Pontiac Fiero.
 
 # Welcome to FieroWiki
-
-<br>
 
 ## What Is FieroWiki?
 
@@ -43,7 +41,20 @@ Things you'll find here:
 You can search any topic, part, or piece of information using the site’s built-in search tool above.  
 If something isn’t listed here and you think it should be, see the Contributing section below.
 
-<br>
+## Mission
+
+The goal when I started FieroWiki was simple: to preserve and organize the collective knowledge of the Fiero community before it disappears.
+Too many original Fiero websites, forums, and technical resources have vanished over the years, lost to server shutdowns, expired domains, or lack of a maintainer.
+FieroWiki exists to bring that information back together, properly attributed and organized, in one place for educational and historical purposes.
+
+## Preservation Efforts
+
+FieroWiki aims to archive at-risk online resources (such as older personal sites or defunct forums) to prevent their loss.  
+Archived materials are always credited to their original authors whenever possible, with clear source links and archival metadata.
+
+If you are the creator or copyright holder of any archived content and wish to have it modified or removed, please see the the Contributing section below for ways to contact me.
+
+FieroWiki content is also mirrored continuously on the [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki) and periodically backed up offline to help ensure long-term preservation.
 
 ## Contributing
 
@@ -55,14 +66,17 @@ FieroWiki is a personal project of mine, and just one of many that I spend my fr
 
 Please respect the copyright and licensing of all materials. Only contribute content you have the right to share (Fair Use included), or have permission from the original author.
 
-<br>
-
 ## DISCLAIMER
 
 > FieroWiki is an personal and independent project and **not affiliated** with General Motors, Pontiac, or any other official Fiero organization.
 {.is-warning}
 
+## Other
+
 - Website: [FieroWiki](https://fierowiki.samwarr.dev)
 - Maintainer: Sam Warr (sammothxc)
-- Repository: [sammothxc/fierowiki](https://github.com/sammothxc/fierowiki) on GitHub
-- Platform: [Wiki.js](https://wiki.js.org) (self-hosted)
+- [Copyright Policy](/copyright)
+- [Data Privacy Policy](/data-privacy)
+- [Terms of Use](/terms-of-use)
+
+All information is provided in good faith to support Fiero owners and enthusiasts. FieroWiki does not sell products, collect advertising revenue, or operate for profit. FieroWiki is powered by [Wiki.js](https://js.wiki/) and hosted on self-managed servers by the project maintainer, synced continuously with [GitHub](https://github.com/) for version control. Anti-spam protection is provided by [Akismet](https://akismet.com/).
