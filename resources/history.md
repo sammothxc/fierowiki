@@ -2,19 +2,18 @@
 title: History & Media
 description: 
 published: true
-date: 2025-11-04T17:04:17.185Z
+date: 2026-05-25T01:41:03.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-03T23:10:47.340Z
 ---
 
-> 🚧 Still under construction: more coming soon!
+> Still under construction, more coming soon!
 {.is-warning}
 
 # History & Media Archive
 
-A list of cool historical or other media archived about the Fiero.  
-Each file is a direct download from the FieroWiki fileserver.
+A list of cool historical or other media archived about the Fiero. Each file is a direct download from the FieroWiki fileserver.
 
 <br>
 
