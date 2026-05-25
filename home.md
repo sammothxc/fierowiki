@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-25T00:38:08.563Z
+date: 2026-05-25T00:38:44.525Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -65,6 +65,7 @@ Larger files such as PDFs, videos, 3D files/scans, and other archived materials 
 
 > While FieroWiki takes precautions against malware by scanning files with various tools, all third-party content is hosted as-is. FieroWiki cannot guarantee that all hosted files (especially executables!) are completely safe. Always use caution when downloading files.
 {.is-warning}
+
 ## Mission
 
 The goal when I started FieroWiki was simple: to preserve and organize the collective knowledge of the Fiero community before it disappears. Too many original Fiero websites, forums, and technical resources have vanished over the years, lost to server shutdowns, expired domains, or lack of a maintainer. FieroWiki tries to bring that information back together, properly attributed and organized, in one place for educational and historical purposes.
