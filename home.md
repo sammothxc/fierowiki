@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-24T22:08:50.054Z
+date: 2026-05-25T00:12:28.971Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:43.895Z
@@ -39,10 +39,6 @@ Things you'll find here:
 - [Service/User Manuals & Other Documents](/resources/manuals): Scanned manuals, spec sheets, other documents
 
 - **(Coming Soon)** Photos & Media: Photos, articles, promotional material, etc
-
-<br>
-
-## Search
 
 You can search any topic, part, or piece of information using the site’s built-in search tool above.  
 If something isn’t listed here and you think it should be, see the Contributing section below.
