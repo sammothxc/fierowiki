@@ -2,13 +2,13 @@
 title: Airbox
 description: 
 published: true
-date: 2026-05-26T07:10:30.693Z
+date: 2026-05-26T07:12:34.891Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-26T06:37:48.101Z
 ---
 
-# External Trim Clip Type 1
+# Airbox (V6)
 
 <br>
 
@@ -16,7 +16,7 @@ dateCreated: 2026-05-26T06:37:48.101Z
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fexternal_trim_clip1_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fairbox_stl1.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
