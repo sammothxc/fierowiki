@@ -2,7 +2,7 @@
 title: Airbox
 description: 
 published: true
-date: 2026-05-26T07:04:04.922Z
+date: 2026-05-26T07:06:06.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-26T06:37:48.101Z
@@ -24,7 +24,7 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| FreeCAD Project | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip1_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip1_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip1_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and no pre-recall vent tube |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip1_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |
+| FreeCAD Project | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_fcstd.fcstd" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD |
+| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl1.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
+| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl2.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and no pre-recall vent tube |
+| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl3.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |
