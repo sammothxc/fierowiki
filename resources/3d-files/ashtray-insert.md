@@ -2,13 +2,13 @@
 title: Ashtray Insert
 description: 
 published: true
-date: 2026-05-26T06:54:24.407Z
+date: 2026-05-26T07:14:48.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T21:33:09.234Z
 ---
 
-# Ashtray Insert
+# Ashtray Insert (logo/no logo)
 <br>
 
 ## 3D Viewer
