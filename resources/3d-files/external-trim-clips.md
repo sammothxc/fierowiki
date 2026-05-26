@@ -1,8 +1,8 @@
 ---
-title: External Trim Clips
+title: External Trim Clip Type 1
 description: 
 published: true
-date: 2025-12-03T21:25:25.827Z
+date: 2026-05-26T06:39:22.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:53:24.863Z
