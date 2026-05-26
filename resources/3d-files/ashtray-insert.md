@@ -2,7 +2,7 @@
 title: Ashtray Insert
 description: 
 published: true
-date: 2025-12-03T21:39:10.369Z
+date: 2026-05-26T06:19:36.382Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T21:33:09.234Z
@@ -14,12 +14,6 @@ dateCreated: 2025-12-03T21:33:09.234Z
 ## 3D Viewer
 
 This is an interactive 3D viewer; click and drag to navigate the part.
-
-### Logo
-
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fashtray_insert_logo_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
-
-### Plain
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fashtray_insert_plain_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
 
@@ -48,6 +42,6 @@ Infill:
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
 | STL | 795 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_logo_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| With Logo. Archived from Thingiverse |
-| STL | 643 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_plain_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Plain. Archived from Thingiverse |
+| STL | 643 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_plain_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Plain, no logo inside. Archived from Thingiverse |
 
 > "[Pontiac Fiero Ashtray Insert Logo & Plain Version](https://www.thingiverse.com/thing:3259292)" by [basti_vr6](https://www.thingiverse.com/basti_vr6) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
