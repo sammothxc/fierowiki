@@ -2,7 +2,7 @@
 title: Notchback Sail Panel Emblem
 description: 
 published: true
-date: 2025-12-03T21:01:54.214Z
+date: 2026-05-26T06:53:09.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:58:47.840Z
@@ -16,7 +16,7 @@ dateCreated: 2025-12-03T20:58:47.840Z
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fnotchback_sail_panel_emblem_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fnotchback_sail_panel_emblem_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
