@@ -2,14 +2,13 @@
 title: Notchback Sail Panel Emblem
 description: 
 published: true
-date: 2026-05-26T06:53:09.171Z
+date: 2026-05-26T07:15:21.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:58:47.840Z
 ---
 
-# Notchback Sail Panel Emblem
-
+# Sail Panel Emblem (notchback)
 <br>
 
 ## 3D Viewer
