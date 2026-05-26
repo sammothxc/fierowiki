@@ -2,7 +2,7 @@
 title: External Trim Clip Type 1
 description: 
 published: true
-date: 2026-05-26T06:49:08.540Z
+date: 2026-05-26T06:50:09.566Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:53:24.863Z
@@ -57,7 +57,7 @@ part of the print needs to be heated and bent to hold it into the car. see the a
 
 If the retention clip part is too long to clip into the door panel, you can cut it down to size.
 
-![](/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_img.webp)
+![](/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_img.webp =300x)
 
 <br>
 
