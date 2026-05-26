@@ -2,13 +2,13 @@
 title: Airbox
 description: 
 published: true
-date: 2026-05-26T07:12:34.891Z
+date: 2026-05-26T07:16:05.110Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-26T06:37:48.101Z
 ---
 
-# Airbox (V6)
+# Airbox (V6, various options)
 
 <br>
 
