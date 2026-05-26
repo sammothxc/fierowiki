@@ -2,7 +2,7 @@
 title: Ashtray Insert
 description: 
 published: true
-date: 2026-05-26T06:19:36.382Z
+date: 2026-05-26T06:54:24.407Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T21:33:09.234Z
@@ -15,7 +15,7 @@ dateCreated: 2025-12-03T21:33:09.234Z
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fashtray_insert_plain_stl.stl" style="border:0;margin:0;width:1000px;height:1000px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fashtray_insert_plain_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
