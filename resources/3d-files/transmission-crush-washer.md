@@ -2,13 +2,13 @@
 title: Transmission Crush Washer
 description: 
 published: true
-date: 2026-05-26T06:53:25.145Z
+date: 2026-05-26T07:13:49.023Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T18:50:55.609Z
 ---
 
-# Transmission Crush Washer
+# Transmission Crush Washer (4-spd)
 
 <br>
 
