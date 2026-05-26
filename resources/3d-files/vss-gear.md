@@ -2,13 +2,13 @@
 title: VSS Gear 29T
 description: 
 published: true
-date: 2026-05-26T06:53:43.525Z
+date: 2026-05-26T07:14:17.610Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T06:54:21.324Z
 ---
 
-# VSS Gear, Red 29T
+# VSS Gear (red, 29-tooth)
 
 <br>
 
