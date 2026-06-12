@@ -2,7 +2,7 @@
 title: Common Issues
 description: 
 published: true
-date: 2026-05-25T00:28:13.111Z
+date: 2026-06-12T18:54:24.541Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-26T22:26:57.067Z
@@ -20,3 +20,9 @@ Thank you for visiting! This page is currently under construction (just like my 
 I'm working hard to add content and resources here. Please check back soon for updates.
 
 <a href="/" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">Take me Home</a>
+
+# Troubleshoot Procedures
+
+- list
+- list
+- list
