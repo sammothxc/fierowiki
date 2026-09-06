@@ -2,6 +2,9 @@
 
 > A preservation project for the technical knowledge and legacy of the Pontiac Fiero.
 
+[![FieroWiki Status](https://status.samwarr.dev/api/badge/13/status)](https://status.samwarr.dev)
+
+
 ## What Is [FieroWiki](https://fierowiki.samwarr.dev)?
 
 FieroWiki is a free, independent knowledge base and archival project for everything related to the Pontiac Fiero: the innovative American mid-engine sports car produced by Pontiac from 1984 to 1988.
