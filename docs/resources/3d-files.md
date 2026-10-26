@@ -1,88 +1,45 @@
-<!--
+---
 title: 3D Files
-description: 
-published: true
-date: 2026-05-26T07:31:42.195Z
-tags: 
-editor: code
-dateCreated: 2025-12-02T06:52:27.077Z
--->
+---
 
-<h1 class="toc-header"> 3D CAD Parts</h1>
-<p>A full list of all the available parts 3D files. Browse categories with the Table of Contents on the right sidebar or use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search a specific part. Some of these parts have been scanned or roughly modelled in CAD for the Fiero, and may or may not be directly suitable for 3D printing as is. Some parts may not be exact replicas of the OEM part.</p>
-<br>
+# 3D CAD Parts
 
-<h2>Exterior</h2>
-<div class="parts-grid">
+A full list of all the available parts 3D files. Browse categories with the table of contents or use ++ctrl+f++ to search a specific part. Some of these parts have been scanned or roughly modelled in CAD for the Fiero, and may or may not be directly suitable for 3D printing as is. Some parts may not be exact replicas of the OEM part.
 
-  <a class="part-card" href="/resources/3d-files/airbox">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/airbox.jpg">
-    <div>Airbox (V6, various options)</div>
-  </a>
+## Exterior
 
-  <a class="part-card" href="/resources/3d-files/airbox-lid">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/coming_soon.jpg">
-    <div>Airbox Lid (V6)</div>
-  </a>
+<div class="parts-grid" markdown>
 
-  <a class="part-card" href="/resources/3d-files/air-intake-hose">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/air_intake_hose.jpg">
-    <div>Air Intake Hose (V6)</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox.jpg)<br>Airbox (V6, various options)](3d-files/airbox.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/external-trim-clip-1">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_1.jpg">
-    <div>External Trim Clip Type 1</div>
-  </a>
+<span class="part-card">![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/coming_soon.jpg)<br>Airbox Lid (V6)</span>
 
-  <a class="part-card" href="/resources/3d-files/external-trim-clip-2">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_2.jpg">
-    <div>External Trim Clip Type 2</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/air_intake_hose.jpg)<br>Air Intake Hose (V6)](3d-files/air-intake-hose.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/rear-pontiac-badge">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge.jpg">
-    <div>Rear Pontiac Badge</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_1.jpg)<br>External Trim Clip Type 1](3d-files/external-trim-clip-1.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/notchback-sail-panel-emblem">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem.jpg">
-    <div>Sail Panel Emblem (notchback)</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip_2.jpg)<br>External Trim Clip Type 2](3d-files/external-trim-clip-2.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/transmission-crush-washer">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer.jpg">
-    <div>Transmission Crush Washer (4-spd)</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge.jpg)<br>Rear Pontiac Badge](3d-files/rear-pontiac-badge.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/vss-gear">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/vss_gear.jpg">
-    <div>VSS Gear (red, 29-tooth)</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem.jpg)<br>Sail Panel Emblem (notchback)](3d-files/notchback-sail-panel-emblem.md){ .part-card }
 
-</div><br>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer.jpg)<br>Transmission Crush Washer (4-spd)](3d-files/transmission-crush-washer.md){ .part-card }
 
-  <h2>Interior</h2>
-<div class="parts-grid">
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear.jpg)<br>VSS Gear (red, 29-tooth)](3d-files/vss-gear.md){ .part-card }
 
-  <a class="part-card" href="/resources/3d-files/apillar-trim-clip">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/apillar_trim_clip.jpg">
-    <div>A-Pillar Trim Clip</div>
-  </a>
+</div>
 
-  <a class="part-card" href="/resources/3d-files/ashtray-insert">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert.jpg">
-    <div>Ashtray Insert (logo/no logo)</div>
-  </a>
+## Interior
 
-  <a class="part-card" href="/resources/3d-files/front-speaker-cover">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/coming_soon.jpg">
-    <div>Front Speaker Cover (regular/defrost patterns)</div>
-  </a>
+<div class="parts-grid" markdown>
 
-  <a class="part-card" href="/resources/3d-files/power-window-switch">
-    <img src="/api/public/dl/EvpPN0OJ/3d-files/power_window_switch.jpg">
-    <div>Power Window Switch</div>
-  </a>
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/apillar_trim_clip.jpg)<br>A-Pillar Trim Clip](3d-files/apillar-trim-clip.md){ .part-card }
+
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert.jpg)<br>Ashtray Insert (logo/no logo)](3d-files/ashtray-insert.md){ .part-card }
+
+<span class="part-card">![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/coming_soon.jpg)<br>Front Speaker Cover (regular/defrost patterns)</span>
+
+[![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/power_window_switch.jpg)<br>Power Window Switch](3d-files/power-window-switch.md){ .part-card }
 
 </div>

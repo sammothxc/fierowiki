@@ -1,11 +1,5 @@
 ---
 title: Data Privacy
-description: 
-published: true
-date: 2025-10-25T03:51:07.845Z
-tags: legal
-editor: markdown
-dateCreated: 2025-10-25T00:36:05.030Z
 ---
 
 # Data Privacy Policy
@@ -22,8 +16,8 @@ FieroWiki aims to remain advertisement-free, funded entirely by the site owner's
 
 <br>
 
-> FieroWiki does not use any cookies for advertising, tracking, or marketing.
-{.is-info}
+!!! info ""
+    FieroWiki does not use any cookies for advertising, tracking, or marketing.
 
 ## 2. Information FieroWiki Collects
 
@@ -66,7 +60,7 @@ FieroWiki may interact with the following external services:
 
 ## 5. Data Requests or Removal
 
-If you believe your personal data appears on FieroWiki and wish for it to be corrected or removed, please get in contact via the [Contact page](/contact).  
+If you believe your personal data appears on FieroWiki and wish for it to be corrected or removed, please get in contact via the [Contact page](index.md#contributing).  
 Requests will be reviewed promptly and in good faith.
 
 <br>

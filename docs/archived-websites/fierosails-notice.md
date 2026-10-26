@@ -1,21 +1,15 @@
 ---
 title: fierosails.com Entry
-description: 
-published: true
-date: 2025-11-04T01:42:41.791Z
-tags: fierosails
-editor: markdown
-dateCreated: 2025-10-29T17:13:57.362Z
 ---
 
-> By continuing, you acknowledge the Archive Notice stated below and agree to the original author's copyright policy.
-<a href="/archived-websites/fierosails/index.html" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Enter the Archive**</a>
-{.is-success}
+!!! success ""
+    By continuing, you acknowledge the Archive Notice stated below and agree to the original author's copyright policy.
+    [Enter the Archive](fierosails/index.html){ .md-button }
 
-# Archive Notice: fierosails</nolink>.com
+# Archive Notice: fierosails.com
 
-> This archive is **not affiliated with**, **endorsed by**, or **maintained by** the original author or owner of fierosails</nolink>.com. It has been mirrored here without modification to the content, to help preserve the awesome technical knowledge and legacy that this website contributes to the Fiero community.
-{.is-warning}
+!!! warning ""
+    This archive is **not affiliated with**, **endorsed by**, or **maintained by** the original author or owner of fierosails.com. It has been mirrored here without modification to the content, to help preserve the awesome technical knowledge and legacy that this website contributes to the Fiero community.
 
 <br>
 
@@ -25,7 +19,7 @@ dateCreated: 2025-10-29T17:13:57.362Z
 - The content has been preserved **as-is** for the sake of technical reference, with only minor edits to the layout and source code to make it hostable.  
 - No claim of authorship, modification, or redistribution rights is made by FieroWiki.
 
-This is a **preserved, unedited copy** of the original website **fierosails</nolink>.com** as recorded in [The Wayback Machine](https://web.archive.org/web/20190307230721/http://www.fierosails.com/index.html) around 2019, hosted here **for archival and educational purposes only**.
+This is a **preserved, unedited copy** of the original website **fierosails.com** as recorded in [The Wayback Machine](https://web.archive.org/web/20190307230721/http://www.fierosails.com/index.html) around 2019, hosted here **for archival and educational purposes only**.
   
 A full, unedited copy of the archived website can be [downloaded here](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/website_archives/fierosails_archive.zip) as a .zip file.
   
@@ -33,8 +27,8 @@ A full, unedited copy of the archived website can be [downloaded here](https://f
 
 ## Original Source
 
-> fierosails</nolink>.com
+> fierosails.com
 Original Website: [https://fierosails.com/](https://fierosails.com/)  
 Creator and Copyright Holder: Paul McKibben (original author)
 
-If you are the original creator or copyright holder and would like this archive modified or removed, please contact me through the [Contact Page](/contact.md).
+If you are the original creator or copyright holder and would like this archive modified or removed, please contact me through the [Contact Page](../index.md#contributing).

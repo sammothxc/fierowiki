@@ -1,11 +1,5 @@
 ---
 title: External Trim Clip Type 2
-description: 
-published: true
-date: 2026-05-26T06:51:45.018Z
-tags: 
-editor: markdown
-dateCreated: 2026-05-26T06:45:46.665Z
 ---
 
 # External Trim Clip Type 1
@@ -57,6 +51,6 @@ ABS
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 126 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip2_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Type 2, Archived from Thingiverse |
+| STL | 126 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip2_stl.stl){ .md-button }| Type 2, Archived from Thingiverse |
 
 > "[Pontiac Fiero Trim Clips](https://www.thingiverse.com/thing:4917631)" by [az4521](https://www.thingiverse.com/az4521) is licensed under the [Creative Commons - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.

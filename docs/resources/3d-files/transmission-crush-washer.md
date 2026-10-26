@@ -1,11 +1,5 @@
 ---
 title: Transmission Crush Washer
-description: 
-published: true
-date: 2026-05-26T07:13:49.023Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-03T18:50:55.609Z
 ---
 
 # Transmission Crush Washer (4-spd)
@@ -26,6 +20,6 @@ If you need or want these files in a different format than the ones listed below
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 57 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
-| 3MF | 78 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_3mf.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
-| Fusion 360 Project | 52 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_f3d.f3d" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
+| STL | 57 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_stl.stl){ .md-button }| Modeled by hand in Fusion 360 |
+| 3MF | 78 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_3mf.3mf){ .md-button }| Modeled by hand in Fusion 360 |
+| Fusion 360 Project | 52 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/transmission_crush_washer_f3d.f3d){ .md-button }| Modeled by hand in Fusion 360 |

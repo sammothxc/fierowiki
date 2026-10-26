@@ -1,11 +1,5 @@
 ---
 title: Rear Pontiac Badge
-description: 
-published: true
-date: 2026-05-26T06:52:39.286Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-03T21:16:02.234Z
 ---
 
 # Rear Pontiac Badge
@@ -46,7 +40,7 @@ Pins printed separately will need to be glued in.
 
 ### Post-Printing
 
-![](/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge_img.jpg =600x)
+![](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge_img.jpg){ width="600" }
 
 Paint with plastidip to protect from sun/elements.  Mount with glue - shoogoo works well.
 
@@ -56,6 +50,6 @@ Paint with plastidip to protect from sun/elements.  Mount with glue - shoogoo wo
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 410 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
+| STL | 410 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/rear_pontiac_badge_stl.stl){ .md-button }| Archived from Thingiverse |
 
 > "[88 Fiero coupe rear Pontiac badge](https://www.thingiverse.com/thing:2107430)" by [airwrench](https://www.thingiverse.com/airwench) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.

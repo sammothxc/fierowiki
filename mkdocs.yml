@@ -1,0 +1,82 @@
+site_name: FieroWiki
+site_url: https://fierowiki.samwarr.dev/
+site_description: A preservation project for the technical knowledge and legacy of the Pontiac Fiero.
+site_author: Sam Warr
+repo_url: https://github.com/sammothxc/fierowiki
+repo_name: sammothxc/fierowiki
+edit_uri: edit/main/docs/
+copyright: FieroWiki content is licensed under CC BY-NC-SA 4.0
+
+theme:
+  name: material
+  logo: assets/logo/fiero_logo_tr_sq.png
+  favicon: assets/favicon/favicon.ico
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+# Individual 3D part pages are reached from the card grid on the 3D Files page.
+not_in_nav: |
+  /resources/3d-files/*.md
+
+nav:
+  - Home: index.md
+  - Quick Resources:
+      - quick-resources/error-codes.md
+      - quick-resources/rpo-codes.md
+      - quick-resources/troubleshooting.md
+  - Resources:
+      - resources/3d-files.md
+      - resources/manuals.md
+      - resources/history.md
+      - resources/photos.md
+  - Archived Websites:
+      - archived-websites.md
+      - archived-websites/fierocave-notice.md
+      - archived-websites/fierosails-notice.md
+  - Sam's 86 GT: fiero-sam.md
+  - Policies:
+      - copyright.md
+      - data-privacy.md
+      - terms-of-use.md
+
+validation:
+  links:
+    absolute_links: warn
+    unrecognized_links: warn
+    anchors: warn

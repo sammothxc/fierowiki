@@ -1,15 +1,9 @@
 ---
 title: History & Media
-description: 
-published: true
-date: 2026-05-25T01:41:03.611Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-03T23:10:47.340Z
 ---
 
-> Still under construction, more coming soon!
-{.is-warning}
+!!! warning ""
+    Still under construction, more coming soon!
 
 # History & Media Archive
 

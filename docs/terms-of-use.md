@@ -1,15 +1,9 @@
 ---
 title: Terms of Use
-description: 
-published: true
-date: 2025-10-25T03:43:59.848Z
-tags: legal
-editor: markdown
-dateCreated: 2025-10-25T00:42:05.114Z
 ---
 
-> These Terms are governed by and construed in accordance with the laws of the United States.
-{.is-info}
+!!! info ""
+    These Terms are governed by and construed in accordance with the laws of the United States.
 
 # Terms of Use
 
@@ -21,10 +15,10 @@ Welcome to **FieroWiki**! An independent, community-focused information archive 
 
 FieroWiki is a **nonprofit**, educational resource built to document and preserve information about the Pontiac Fiero for the Fiero community, including technical data, restoration guides, and any other official and community-created materials. FieroWiki exists to collect, organize, and share knowledge about the Pontiac Fiero for personal, educational, and historical purposes. The project operates in good faith to preserve information that might otherwise be lost to time.
 
-For more information, please see the [About page](/about).
+For more information, please see the [About page](index.md#what-is-fierowiki).
 
-> FieroWiki is not affiliated with General Motors, Pontiac, or any official Fiero organization
-{.is-warning}
+!!! warning ""
+    FieroWiki is not affiliated with General Motors, Pontiac, or any official Fiero organization
 
 <br>
 
@@ -69,9 +63,9 @@ You remain the copyright holder of your own original work.
 
 FieroWiki includes materials that fall under **fair use** or **preservation** exceptions for educational purposes, including quotations, screenshots, and archived documents.
 
-If you are a copyright owner and believe material on this site infringes your rights, please reach out via the [Contact page](/contact). FieroWiki will promptly review and, if appropriate, remove or revise the content.
+If you are a copyright owner and believe material on this site infringes your rights, please reach out via the [Contact page](index.md#contributing). FieroWiki will promptly review and, if appropriate, remove or revise the content.
 
-For more information, please see the [Copyright page](/copyright).
+For more information, please see the [Copyright page](copyright.md).
 
 <br>
 
@@ -102,7 +96,7 @@ FieroWiki and its maintainers are not responsible for the content, availability,
 
 FieroWiki uses third-party services such as **Akismet** to filter spam in comments. These services may process data (such as IP addresses or text content) to identify unwanted activity.
 
-For more information, please see the [Data Privacy page](/data-privacy).
+For more information, please see the [Data Privacy page](data-privacy.md).
 
 <br>
 
@@ -117,4 +111,4 @@ Continued use of the site constitutes acceptance of any changes.
 
 ## 10. Contact
 
-For questions, permissions, or takedown requests, please visit the [Contact page](/contact).
+For questions, permissions, or takedown requests, please visit the [Contact page](index.md#contributing).

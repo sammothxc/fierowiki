@@ -1,11 +1,5 @@
 ---
 title: Sam's 86 GT
-description: 
-published: true
-date: 2026-05-25T01:47:26.242Z
-tags: 
-editor: markdown
-dateCreated: 2025-10-26T22:26:42.083Z
 ---
 
 # My 1986 GT (4-spd manual)
@@ -42,7 +36,7 @@ This page is to just keep a running log of all the things I've done to my Fiero,
 
 - I dropped the transmission to replace the clutch (and other clutch related parts, bearings, axle seals) in my apartment parking lot. It took me about a week with a buddy, a pair of jack stands, and 2 floor jacks. It was the hardest repair job that I'd ever done at this point. I also got the flywheel resurfaced. While everything was out, I also did the trans/engine mounts, rear main seal, timing cover gasket, and CV axles. This fixed the issues I had getting the clutch to fully disengage, but interestingly enough it did not fix the rattling noise during left turns.
 
-![Under Construction](/assets/under_construction.jpg)
+![Under Construction](assets/under_construction.jpg)
 
 
 ## April 2025

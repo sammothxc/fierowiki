@@ -1,11 +1,5 @@
 ---
 title: VSS Gear 29T
-description: 
-published: true
-date: 2026-05-26T07:14:17.610Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-02T06:54:21.324Z
 ---
 
 # VSS Gear (red, 29-tooth)
@@ -26,13 +20,13 @@ If you need or want these files in a different format than the ones listed below
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 4.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
-| 3MF | 1.4 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_3mf.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
-| Fusion 360 Project | 1.4 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_f3d.f3d" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in Fusion 360 |
-| Faro RevEng Raw Scans | 1.3 GB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_faro.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| CPE | 167 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_cpe.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| E57 | 615 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_e57.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| OBJ | 9.3 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_obj.obj" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| PLY | 617 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_ply.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| PTS | 615 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_pts.zip" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
-| Mesh STL | 5.9 MB |<a href="/api/public/dl/EvpPN0OJ/3d-files/vss_gear_mesh.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Scanned by 8-axis Faro Arm with Faro RevEng |
+| STL | 4.4 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_stl.stl){ .md-button }| Modeled by hand in Fusion 360 |
+| 3MF | 1.4 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_3mf.3mf){ .md-button }| Modeled by hand in Fusion 360 |
+| Fusion 360 Project | 1.4 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_f3d.f3d){ .md-button }| Modeled by hand in Fusion 360 |
+| Faro RevEng Raw Scans | 1.3 GB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_faro.zip){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| CPE | 167 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_cpe.zip){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| E57 | 615 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_e57.zip){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| OBJ | 9.3 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_obj.obj){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| PLY | 617 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_ply.zip){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| PTS | 615 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_pts.zip){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |
+| Mesh STL | 5.9 MB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/vss_gear_mesh.stl){ .md-button }| Scanned by 8-axis Faro Arm with Faro RevEng |

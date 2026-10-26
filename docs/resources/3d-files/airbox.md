@@ -1,11 +1,5 @@
 ---
 title: Airbox
-description: 
-published: true
-date: 2026-05-26T07:16:05.110Z
-tags: 
-editor: markdown
-dateCreated: 2026-05-26T06:37:48.101Z
 ---
 
 # Airbox (V6, various options)
@@ -24,10 +18,10 @@ This is an interactive 3D viewer; click and drag to navigate the part.
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| FreeCAD Project | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_fcstd.FCStd" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl1.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl2.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount but no pre-recall vent tube |
-| STL | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_stl3.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |
-| 3MF | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf1.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
-| 3MF | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf2.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount but no pre-recall vent tube |
-| 3MF | -- KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf3.3mf" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |
+| FreeCAD Project | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_fcstd.FCStd){ .md-button }| Modeled by hand in FreeCAD |
+| STL | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_stl1.stl){ .md-button }| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
+| STL | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_stl2.stl){ .md-button }| Modeled by hand in FreeCAD, wiring loom mount but no pre-recall vent tube |
+| STL | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_stl3.stl){ .md-button }| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |
+| 3MF | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf1.3mf){ .md-button }| Modeled by hand in FreeCAD, no wiring loom mount or no pre-recall vent tube |
+| 3MF | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf2.3mf){ .md-button }| Modeled by hand in FreeCAD, wiring loom mount but no pre-recall vent tube |
+| 3MF | -- KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/airbox_3mf3.3mf){ .md-button }| Modeled by hand in FreeCAD, wiring loom mount and pre-recall vent tube |

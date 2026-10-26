@@ -1,11 +1,5 @@
 ---
 title: Copyright
-description: 
-published: true
-date: 2025-10-25T03:52:32.073Z
-tags: legal
-editor: markdown
-dateCreated: 2025-10-25T00:34:17.034Z
 ---
 
 # Copyright Policy
@@ -31,7 +25,7 @@ Under the following terms:
 - **Non-Commercial:** You may not use the material for commercial purposes or personal profit.  
 - **ShareAlike:** If you modify or build upon the material, you must distribute your contributions under the same license.
 
-The full license text is available on this site at **[fierowiki.samwarr.dev/LICENSE](/LICENSE)** and at  [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The full license text is available on this site at **[fierowiki.samwarr.dev/LICENSE](https://github.com/sammothxc/fierowiki/blob/main/LICENSE.md)** and at  [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br>
 
@@ -43,7 +37,7 @@ This allows your contributions to appear within the wiki and be preserved in ver
 
 FieroWiki may archive, reformat, or make minor edits for clarity and consistency as part of FieroWiki's mission to maintain accurate information.
 
-If you wish to remove your contribution, contact FieroWiki via the [Contact page](/contact).  
+If you wish to remove your contribution, contact FieroWiki via the [Contact page](index.md#contributing).  
 Reasonable, verified requests will be reviewed in good faith.
 
 <br>
@@ -56,7 +50,7 @@ These materials are presented **under the doctrine of fair use** for purposes su
 Such materials remain the intellectual property of their respective rights holders.  
 No challenge to those rights is intended.
 
-If you are a rights holder and believe material hosted on FieroWiki infringes your copyright, please get in contact via the [Contact page](/contact).
+If you are a rights holder and believe material hosted on FieroWiki infringes your copyright, please get in contact via the [Contact page](index.md#contributing).
 Identified content will be reviewed and, if appropriate, removed or replaced promptly.
 
 <br>

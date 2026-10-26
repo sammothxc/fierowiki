@@ -1,11 +1,5 @@
 ---
 title: Ashtray Insert
-description: 
-published: true
-date: 2026-05-26T07:14:48.953Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-03T21:33:09.234Z
 ---
 
 # Ashtray Insert (logo/no logo)
@@ -41,7 +35,7 @@ Infill:
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 795 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_logo_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| With Logo. Archived from Thingiverse |
-| STL | 643 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_plain_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Plain, no logo inside. Archived from Thingiverse |
+| STL | 795 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_logo_stl.stl){ .md-button }| With Logo. Archived from Thingiverse |
+| STL | 643 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/ashtray_insert_plain_stl.stl){ .md-button }| Plain, no logo inside. Archived from Thingiverse |
 
 > "[Pontiac Fiero Ashtray Insert Logo & Plain Version](https://www.thingiverse.com/thing:3259292)" by [basti_vr6](https://www.thingiverse.com/basti_vr6) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.

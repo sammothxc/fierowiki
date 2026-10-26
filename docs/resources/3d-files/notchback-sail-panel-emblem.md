@@ -1,11 +1,5 @@
 ---
 title: Notchback Sail Panel Emblem
-description: 
-published: true
-date: 2026-05-26T07:15:25.110Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-03T20:58:47.840Z
 ---
 
 # Sail Panel Emblem (notchback)
@@ -30,6 +24,6 @@ Remixed, i think it looks better with the 4 pointed star thing protruding.
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 193 KB |<a href="/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem_stl.stl" style="display:inline-block; padding:8px 16px; background-color:#007bff; color:white; text-decoration:none; border-radius:4px;">**Download**</a>| Archived from Thingiverse |
+| STL | 193 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/notchback_sail_panel_emblem_stl.stl){ .md-button }| Archived from Thingiverse |
 
 > "[Fiero Notchback Sail Panel Emblem](https://www.thingiverse.com/thing:2030247)" by [az4521](https://www.thingiverse.com/az4521) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
