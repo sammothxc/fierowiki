@@ -4,7 +4,7 @@ title: fierosails.com Entry
 
 !!! success ""
     By continuing, you acknowledge the Archive Notice stated below and agree to the original author's copyright policy.
-    [Enter the Archive](fierosails/index.html){ .md-button }
+    [Enter the Archive](fierosails/home.html){ .md-button }
 
 # Archive Notice: fierosails.com
 
@@ -21,7 +21,7 @@ title: fierosails.com Entry
 
 This is a **preserved, unedited copy** of the original website **fierosails.com** as recorded in [The Wayback Machine](https://web.archive.org/web/20190307230721/http://www.fierosails.com/index.html) around 2019, hosted here **for archival and educational purposes only**.
   
-A full, unedited copy of the archived website can be [downloaded here](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/website_archives/fierosails_archive.zip) as a .zip file.
+A full, unedited copy of the archived website can be [downloaded here](https://fierofile.samwarr.dev/website_archives/fierosails_archive.zip) as a .zip file.
   
 <br>
 

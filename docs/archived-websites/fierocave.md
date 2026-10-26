@@ -4,7 +4,7 @@ title: Ogre's Fiero Cave Entry
 
 !!! success ""
     By continuing, you acknowledge the Archive Notice stated below and agree to the original author's copyright policy.
-    [Enter the Archive](fierocave/index.html){ .md-button }
+    [Enter the Archive](fierocave/home.html){ .md-button }
 
 # Archive Notice: Ogre’s Fiero Cave
 
@@ -21,7 +21,7 @@ title: Ogre's Fiero Cave Entry
 
 This is a **preserved, unedited copy** of the original website **Ogre’s Fiero Cave** as recorded in [The Wayback Machine](https://web.archive.org/web/20140928092033im_/http://home.comcast.net/~fierocave/) around 2014, hosted here **for archival and educational purposes only**.
 
-A full, unedited copy of the archived website can be [downloaded here](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/website_archives/fierocave_archive.zip) as a .zip file.
+A full, unedited copy of the archived website can be [downloaded here](https://fierofile.samwarr.dev/website_archives/fierocave_archive.zip) as a .zip file.
 
 <br>
 
