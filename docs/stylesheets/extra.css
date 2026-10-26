@@ -1,0 +1,45 @@
+/* Card grid on the 3D Files page (replaces the Wiki.js custom theme CSS). */
+.parts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.parts-grid > p {
+  margin: 0;
+}
+
+.part-card {
+  display: block;
+  height: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  color: var(--md-default-fg-color);
+  text-align: center;
+  font-size: 0.7rem;
+}
+
+a.part-card:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: var(--md-shadow-z1);
+}
+
+.part-card img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 0.1rem;
+}
+
+/* Wiki.js stacked download buttons in table cells. */
+.md-typeset td .md-button {
+  padding: 0.3em 1em;
+  white-space: nowrap;
+}
+
+/* The 3D viewer iframes are a fixed 600px wide; keep them inside narrow screens. */
+.md-typeset iframe {
+  max-width: 100%;
+}

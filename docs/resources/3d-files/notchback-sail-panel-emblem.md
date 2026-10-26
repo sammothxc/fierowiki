@@ -1,0 +1,29 @@
+---
+title: Notchback Sail Panel Emblem
+---
+
+# Sail Panel Emblem (notchback)
+
+<br>
+
+## 3D Viewer
+
+This is an interactive 3D viewer; click and drag to navigate the part.
+
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierofile.samwarr.dev%2F3d-files%2Fnotchback_sail_panel_emblem_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
+
+<br>
+
+## Notes
+
+Remixed, i think it looks better with the 4 pointed star thing protruding.
+
+<br>
+
+## Downloads
+
+| File Format | Size | Link | Description |
+|:-----------:|:----:|:----:|-------------|
+| STL | 193 KB |[Download](https://fierofile.samwarr.dev/3d-files/notchback_sail_panel_emblem_stl.stl){ .md-button }| Archived from Thingiverse |
+
+> "[Fiero Notchback Sail Panel Emblem](https://www.thingiverse.com/thing:2030247)" by [az4521](https://www.thingiverse.com/az4521) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.

@@ -1,0 +1,70 @@
+<!--
+title: Ogre's Fiero Cave
+description: 
+published: true
+date: 2025-10-27T02:55:44.984Z
+tags: fierocave
+editor: code
+dateCreated: 2025-10-27T01:59:30.300Z
+-->
+
+<body>
+<div class="header">
+<img class="hid" src="css/tofc.gif" height="55" width="416" alt="The Ogre's Fiero Cave" title="The Ogre's Fiero Cave" style="float:left;">
+<a class="home" href="home.html" alt="Go Home" title="Go Home">Go Home</a>
+<a class="map" href="map.html" alt="Site Map" title="Site Map">Site Map</a>
+
+<h1>ICM/PIM Grounding &quot;Myth&quot;</h1>
+
+<p>Most everyone will tell you that DIS and HEI systems uses a wire that goes
+to the ECM/PCM is a Ground for use by the ICM/PIM, like a backup ground for ICM
+use, but is it? Sadly No, the ground is really a Ground Reference, <i>an Input
+to the ECM.</i> Many Documents, like Service Manuals, just label that circuit
+as a Ground to avoid confusion with the (spark) reference signal.</p>
+
+<p>This &quot;ground&quot; is at the ICM end of the connection and not the ECM
+end. At ECM side of the connection the pin goes to 270 ohm resistor as first
+thing it hits. It then goes to more resistors and capacitor to &quot;buffer&quot;
+the signal.</p>
+
+<p class="MsoNormal">So if the main ground has a bad connection then you have
+real problems and can kill the ICM. A loose ground wire can cause DTC 42 Electronic
+Spark Timing.</p>
+
+<p>Need proof? Go to <a href="https://web.archive.org/web/20151002181224/http://www.exatorq.com/ludis_obd1/index.html" target="_blank">Ludis's Home Page</a> and follow schematics for ECM you're
+interesting in. </p>
+
+<p>This example might help... I make it from 2 Ludis's 1227170 Schematics with an
+ICM connected. Every GM OBD1 uses this setup.
+</p>
+<p><img border="0" width="719" height="647" src="heiground/image001.gif" alt="Example Ground Circuit."></p>
+
+<p><a href="javascript:history.back(-1);"><img src="css/btn-back.gif" border="0" width="32" height="32"></a></p>
+</div>
+<div class="footer">
+<p>Copyright 1999, 2013 The Ogre's Fiero Cave, D.W.Lane, All rights reserved.<br>
+Not for reproduction in any media without written permission.</p>
+
+</body>
+
+
+<!--
+     FILE ARCHIVED ON 18:12:24 Oct 02, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:09:56 Oct 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.152
+  exclusion.robots: 0.035
+  exclusion.robots.policy: 0.022
+  esindex: 0.013
+  cdx.remote: 7.238
+  LoadShardBlock: 111.326 (3)
+  PetaboxLoader3.resolve: 40.883 (4)
+  PetaboxLoader3.datanode: 97.686 (4)
+  load_resource: 55.241
+-->

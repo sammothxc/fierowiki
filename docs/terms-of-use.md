@@ -1,0 +1,112 @@
+---
+title: Terms of Use
+---
+
+!!! info ""
+    These Terms are governed by and construed in accordance with the laws of the United States.
+
+# Terms of Use
+
+Welcome to **FieroWiki**! An independent, community-focused information archive and knowledge base dedicated to preserving information about the Pontiac Fiero and related projects. By accessing or using this site, you agree to the following Terms of Use.
+
+<br>
+
+## 1. Purpose of FieroWiki
+
+FieroWiki is a **nonprofit**, educational resource built to document and preserve information about the Pontiac Fiero for the Fiero community, including technical data, restoration guides, and any other official and community-created materials. FieroWiki exists to collect, organize, and share knowledge about the Pontiac Fiero for personal, educational, and historical purposes. The project operates in good faith to preserve information that might otherwise be lost to time.
+
+For more information, please see the [About page](index.md#what-is-fierowiki).
+
+!!! warning ""
+    FieroWiki is not affiliated with General Motors, Pontiac, or any official Fiero organization
+
+<br>
+
+## 2. Acceptance of Terms
+
+By viewing, downloading, or contributing to this site, you agree to these Terms of Use and to comply with all applicable laws and regulations.  
+If you do not agree with any of these terms, please discontinue use of the site.
+
+<br>
+
+## 3. Use of Content
+
+Unless otherwise noted:
+
+- Content on this site is made available for **personal, educational, and noncommercial use**.
+
+- When reusing or referencing FieroWiki material, **credit the original source** and provide a link back to the relevant page.
+
+- You may not republish, sell, or redistribute content for profit without prior written permission.
+
+Some materials hosted here are **archival reproductions** of third-party works originally published elsewhere.  
+FieroWiki does not claim ownership of any such materials and will remove or modify content upon verified request from a rights holder.
+
+<br>
+
+## 4. User Contributions
+
+If you contribute text, images, or files to FieroWiki, you agree to:
+
+- Only upload material that you have the right to share, or otherwise have approval from FieroWiki to do so  
+- Grant FieroWiki a **non-exclusive, perpetual, and royalty-free license** to display, archive, reformat, or make minor edits for clarity and consistency as part of the site.
+
+- Understand that your contributions may be edited, reformatted, or reorganized to maintain consistency across the project
+
+- Not to submit unlawful, defamatory, or spam content.
+
+You remain the copyright holder of your own original work.
+
+<br>
+
+## 5. Copyright and Fair Use
+
+FieroWiki includes materials that fall under **fair use** or **preservation** exceptions for educational purposes, including quotations, screenshots, and archived documents.
+
+If you are a copyright owner and believe material on this site infringes your rights, please reach out via the [Contact page](index.md#contributing). FieroWiki will promptly review and, if appropriate, remove or revise the content.
+
+For more information, please see the [Copyright page](copyright.md).
+
+<br>
+
+## 6. Accuracy and Disclaimer
+
+All information on FieroWiki is provided **“as is”** without warranty or guarantee of any kind for **educational and preservational purposes only**.  
+While FieroWiki and its maintainers strive for accuracy, some data may be incomplete, outdated, or contain errors. Use at your own discretion.
+
+FieroWiki and its maintainers are **not responsible** for any damages, losses, or issues that result from the use or misuse of information on this site. 
+
+FieroWiki is not affiliated with General Motors, the Pontiac brand, or any official Fiero organization.
+
+While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as FieroWiki may reorganize or correct materials over time. Furthermore, this site depends on third-party hosting services and on its maintainer, and remains vulnerable to service outages, discontinued services, account issues, and acts of God. Protective measures have been put in place such as keeping the complete site in the public [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups to make this information as available as possible despite these risks.
+
+Some writing may be produced by large language models to assist FieroWiki’s maintainers, but all such content is always reviewed by a human prior to publication. Personal information is never shared with large language models.
+
+<br>
+
+## 7. External Links
+
+FieroWiki includes links to external websites and archives, such as the Internet Archive. These links are provided for reference only.
+
+FieroWiki and its maintainers are not responsible for the content, availability, or accuracy of external sites.
+
+<br>
+
+## 8. Data Handling
+
+FieroWiki does not collect personal information. For more information, please see the [Data Privacy page](data-privacy.md).
+
+<br>
+
+## 9. Changes to These Terms
+
+FieroWiki may update or revise these Terms of Use at any time.
+The most recent version will always be available on this page, and its full edit history is available in the [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki).
+
+Continued use of the site constitutes acceptance of any changes.
+
+<br>
+
+## 10. Contact
+
+For questions, permissions, or takedown requests, please visit the [Contact page](index.md#contributing).
