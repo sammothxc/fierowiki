@@ -78,7 +78,7 @@ FieroWiki and its maintainers are **not responsible** for any damages, losses, o
 
 FieroWiki is not affiliated with General Motors, the Pontiac brand, or any official Fiero organization.
 
-While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as FieroWiki may reorganize or correct materials over time. Furthermore, as this site is self-hosted on privately owned hardware by the site owner, it remains vulnerable to natural disaster, extended power outages, internet outages, hardware failure, hacking, extreme financial hardship, death of the server owner, and acts of God. Protective measures have been put in place such as continuous syncronization with the [FieroWiki Github repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups to make this information as available as possible despite these risks.
+While it is FieroWiki's mission of making this information available long-term, FieroWiki cannot perfectly guarantee permanence of any specific page, file, or piece of information, as FieroWiki may reorganize or correct materials over time. Furthermore, this site depends on third-party hosting services and on its maintainer, and remains vulnerable to service outages, discontinued services, account issues, and acts of God. Protective measures have been put in place such as keeping the complete site in the public [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki) and routine physical hardcopy backups to make this information as available as possible despite these risks.
 
 Some writing may be produced by large language models to assist FieroWiki’s maintainers, but all such content is always reviewed by a human prior to publication. Personal information is never shared with large language models.
 
@@ -92,18 +92,16 @@ FieroWiki and its maintainers are not responsible for the content, availability,
 
 <br>
 
-## 8. Data Handling and Anti-Spam Measures
+## 8. Data Handling
 
-FieroWiki uses third-party services such as **Akismet** to filter spam in comments. These services may process data (such as IP addresses or text content) to identify unwanted activity.
-
-For more information, please see the [Data Privacy page](data-privacy.md).
+FieroWiki does not collect personal information. For more information, please see the [Data Privacy page](data-privacy.md).
 
 <br>
 
 ## 9. Changes to These Terms
 
 FieroWiki may update or revise these Terms of Use at any time.
-The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.
+The most recent version will always be available on this page, and its full edit history is available in the [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki).
 
 Continued use of the site constitutes acceptance of any changes.
 

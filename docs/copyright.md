@@ -75,6 +75,6 @@ All trademarks, logos, and brand names are the property of their respective owne
 ## 6. Changes to This Policy
 
 FieroWiki may update or revise this policy at any time.
-The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.
+The most recent version will always be available on this page, and its full edit history is available in the [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki).
 
 Continued use of the site constitutes acceptance of any changes.

@@ -11,7 +11,7 @@ This page explains what information may be collected, how it is used, and your c
 
 ## 1. General Principles
 
-FieroWiki is a nonprofit, community-driven preservation project. FieroWiki does not sell, trade, or otherwise share personal data for profit or marketing purposes. Any data processing that occurs is solely to ensure the site’s functionality, security, and spam prevention.
+FieroWiki is a nonprofit, community-driven preservation project. FieroWiki does not sell, trade, or otherwise share personal data for profit or marketing purposes. Any data processing that occurs is solely to ensure the site’s functionality and security.
 FieroWiki aims to remain advertisement-free, funded entirely by the site owner's love for Fieros.
 
 <br>
@@ -21,15 +21,9 @@ FieroWiki aims to remain advertisement-free, funded entirely by the site owner's
 
 ## 2. Information FieroWiki Collects
 
-FieroWiki may collect the following limited types of information:
+FieroWiki is a static, read-only website. It has no accounts, comments, forms, or analytics, and FieroWiki itself does not collect any personal information.
 
-- **Visitor metadata:** Browser type, IP address, and visit timestamps may be automatically logged for security and spam purposes only. This data is never shared or sold for any reason.
-
-- **Comments and contributions:** If you leave a comment or submit content, the text you enter and any identifying information you voluntarily include (such as your name or email) are stored. This data is never sold for any reason.
-
-- **Spam filtering:** Submitted comments may be checked through third-party anti-spam services such as [Akismet](https://akismet.com/), which may process data such as IP address, user agent, referrer, and comment text.
-
-- **Emails:** If you provide an email address to register, authenticate, or communicate with FieroWiki, it will be used **only** for account-related and authentication purposes. This data is never sold for any reason.
+- **Visitor metadata:** The services that host and deliver the site (see below) may automatically log technical data such as browser type, IP address, and visit timestamps, as described in their own privacy policies. FieroWiki does not receive, share, or sell this data.
 
 <br>
 
@@ -37,11 +31,11 @@ FieroWiki may collect the following limited types of information:
 
 FieroWiki may interact with the following external services:
 
-- **GitHub** — for version control, content backup, and repository synchronization.  
+- **GitHub** — for website hosting (GitHub Pages), version control, and content backup.  
   See [GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) for more information.
 
-- **Akismet** — for spam detection in comment forms.  
-  See [Akismet’s Privacy Policy](https://akismet.com/privacy/) for details on what data is processed.
+- **Cloudflare** — for DNS and file download links.  
+  See [Cloudflare’s Privacy Policy](https://www.cloudflare.com/privacypolicy/) for more information.
 
 - **External links** — Some pages may include links to outside sites such as the Internet Archive or other resources.  
   FieroWiki is not responsible for the privacy practices of those sites. FieroWiki strives to provide tracker-free links, but cannot guarantee as it could conflict with the obligation to cite original sources.
@@ -50,9 +44,7 @@ FieroWiki may interact with the following external services:
 
 ## 4. Data Retention
 
-- The server log records IP traffic and this data may be retained temporarily for spam, security, and troubleshooting purposes. This data is never shared or sold for any reason.
-
-- User contributions (e.g., wiki edits or uploads) are kept as part of the permanent historical record unless removed for legal or content reasons. This data is never sold for any reason.
+- User contributions (e.g., corrections or files submitted through GitHub) are kept as part of the permanent historical record unless removed for legal or content reasons. This data is never sold for any reason.
 
 - Backup copies that persist in GitHub repositories or physical archives as part of long-term preservation efforts may contain data that has been requested to be removed. While FieroWiki cannot guarantee removal from every backup source, such data is never shared or sold for any reason.
 
@@ -67,7 +59,7 @@ Requests will be reviewed promptly and in good faith.
 
 ## 6. Security Measures
 
-FieroWiki uses HTTPS encryption and other technical safeguards to protect stored data.  
+FieroWiki is served exclusively over HTTPS.  
 However, no system is completely secure. By using this site, you acknowledge that data transmission over the Internet carries inherent risks.
 
 <br>
@@ -85,7 +77,7 @@ If you are located outside the United States, please note that your data may be 
 ## 8. Changes to This Policy
 
 FieroWiki may update or revise this policy at any time.
-The most recent version will always be available on this page, with the `last edited by` date shown in the right sidebar.
+The most recent version will always be available on this page, and its full edit history is available in the [FieroWiki GitHub repository](https://github.com/sammothxc/fierowiki).
 
 Continued use of the site constitutes acceptance of any changes.
 
