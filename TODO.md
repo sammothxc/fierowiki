@@ -5,7 +5,6 @@ Not published to the site (lives outside `docs/`). Delete once everything is tic
 ## Done on the `mkdocs-migration` branch
 
 - [x] Move site content into `docs/` (`home.md` → `docs/index.md`)
-- [x] Rename archive notice pages to `*-notice.md` so they don't overwrite each archive's own `index.html`
 - [x] Strip Wiki.js front matter (keep `title` / `description`)
 - [x] Convert Wiki.js callouts (`> … {.is-warning}`) to Material admonitions
 - [x] Convert inline-styled `<a>` buttons to `{ .md-button }` links
@@ -13,60 +12,58 @@ Not published to the site (lives outside `docs/`). Delete once everything is tic
 - [x] Rewrite root-absolute links (`/copyright`) to relative `.md` links so MkDocs can validate them
 - [x] Point `/contact` and `/about` links at the home page's Contributing / What Is FieroWiki sections
 - [x] Point the `/LICENSE` link at `LICENSE.md` on GitHub
-- [x] Make relative file-server links (`/api/public/dl/…`) absolute (`https://fierowiki.samwarr.dev/api/public/dl/…`) so they keep working until the files move
 - [x] Rewrite `resources/3d-files.html` as Markdown with a CSS card grid (`docs/stylesheets/extra.css`)
 - [x] Remove Wiki.js-only features (tags, comments, "powered by Wiki.js") from the home page and README
+- [x] Remove comments/Akismet/accounts/self-hosting text from the privacy policy and terms of use. "Last edited in the right sidebar" now points to the GitHub history.
 - [x] Fix README links for the new `docs/` paths
+- [x] Keep the archive notice pages at their Wiki.js URLs (`/archived-websites/fierocave/`). Each archive's own `index.html` became `home.html`, and the 156 archive links to it were updated.
+- [x] Repair 1,228 broken local links inside the archived sites (`.htm` → `.html`, filename case, folders saved without `[brackets]`, subfolder pages written relative to the site root)
+- [x] Point every download at `https://fierofile.samwarr.dev/<folder>/<file>` (164 links, including the percent-encoded viewstl iframes; `?inline=true` dropped)
+- [x] `cloudflare/fierofile-worker.js`: 302-redirects `fierofile.samwarr.dev/<folder>/…` to a per-folder target, with CORS headers so the 3D viewer works
 - [x] `mkdocs.yml`, pinned `requirements.txt`, and a GitHub Pages workflow (`.github/workflows/deploy.yml`) that runs `mkdocs build --strict` on PRs and deploys on `main`
 
-## Before switching DNS (blocking)
+## Before shutting down Wiki.js (grab these first)
 
-- [ ] **Re-host the 100 files on the file server (FieroFile).** Every download, 3D viewer, part thumbnail, manual PDF and archive zip points at `https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/…`. Pointing the domain at GitHub Pages breaks all of them. Options:
-  - archive.org item(s): free and permanent, and fits a preservation project. Big PDFs are fine.
-  - GitHub Releases on this repo: up to 2 GB per file. Fine for the 3D files and PDFs.
-  - Cloudflare R2 (free egress) on something like `files.samwarr.dev`
-  - Or keep the current file server running on a different subdomain for now
-  
-  Once the files are re-hosted, swap the base URL across the repo. The 3D viewer iframes have the URL percent-encoded (`https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2F`), so replace that form too. Pages that reference the file server: `docs/index.md`, `docs/archived-websites/*-notice.md`, `docs/resources/{manuals,history,3d-files}.md`, `docs/resources/3d-files/*.md`, plus 13 HTML pages inside the archives (fierosails `fierosails_docs/*.pdf` links, and others).
-- [ ] Check that viewstl.com can fetch STLs from the new host (needs CORS allowed). If it can't, consider self-hosting the viewer, e.g. `<model-viewer>` with GLB files.
-- [ ] Update the "Files and Downloads" section in `docs/index.md` and `README.md`, which still describes FieroFile and the `/api/public/dl/` base URL.
+- [ ] **Export the Wiki.js theme CSS / code injection** (Administration → Theme → CSS Override and Head/Body HTML Injection). The archived pages ship no stylesheet of their own; fierocave's menus (`sf-menu`, `header`, `footer` classes) were styled by Wiki.js. Without it they render as plain nested lists. Put the CSS in e.g. `docs/archived-websites/fierocave/css/site.css` and add a `<link>` to the pages.
+- [ ] Final database dump + copy of the FieroFile storage folder for offline backups.
+
+## Files: archive.org + fierofile.samwarr.dev
+
+- [ ] Upload the 100 files to archive.org. The worker currently expects four items mirroring the folders: `fierowiki-3d-files`, `fierowiki-docs`, `fierowiki-history`, `fierowiki-website-archives` (`ia upload <item> <folder>/*`). Consider splitting the Haynes/Chilton `CR_*.pdf` manuals into their own item so a takedown can't hide everything. Just add a `TARGETS` entry, or a path-specific rule, in the worker.
+- [ ] Wait for archive.org processing, then spot-check a few `https://archive.org/download/<item>/<file>` URLs.
+- [ ] Deploy the worker (Workers & Pages → Create → paste `cloudflare/fierofile-worker.js`) and add the custom domain `fierofile.samwarr.dev`.
+  - If you want downloads working before the upload finishes, temporarily point `TARGETS` at the old server. Note that it has to live on a hostname other than `fierowiki.samwarr.dev` once that domain moves to GitHub Pages.
+- [ ] Spot-check through the worker: a PDF, a zip, a part thumbnail on the 3D Files page, and a viewstl 3D viewer.
+
+## Go live
+
 - [ ] Enable Pages in the repo: Settings → Pages → Source: **GitHub Actions**.
-- [ ] Merge to `main`, confirm the deploy works at `https://sammothxc.github.io/fierowiki/`, then set the custom domain `fierowiki.samwarr.dev` in Settings → Pages and update DNS (CNAME → `sammothxc.github.io`). Tick "Enforce HTTPS".
-  - Note: the archived HTML and `site.webmanifest` use a few root-absolute paths, so the `github.io/fierowiki/` preview will have some broken links. They work once the custom domain serves the site at `/`.
+- [ ] Merge to `main`, confirm the deploy works at `https://sammothxc.github.io/fierowiki/`, then set the custom domain `fierowiki.samwarr.dev` in Settings → Pages and update the Cloudflare DNS record (CNAME → `sammothxc.github.io`, DNS-only/grey cloud while GitHub issues the certificate). Tick "Enforce HTTPS".
+  - The `github.io/fierowiki/` preview will have some broken links because `site.webmanifest` and a few archive links are root-absolute. They work once the custom domain serves the site at `/`.
+- [ ] Wiki.js URLs had no trailing slash (`/copyright`). GitHub Pages redirects `/copyright` → `/copyright/`, so these should be fine. Spot-check after launch.
+- [ ] Remove the status badge from `README.md` (status.samwarr.dev monitor #13) or repoint the monitor at the new site.
 
-## Content / policy (your wording)
+## Content (your wording)
 
-- [ ] `docs/data-privacy.md` and `docs/terms-of-use.md` still describe comments, Akismet spam filtering and self-hosted servers. Rewrite for a static site on GitHub Pages: no comments, no cookies from FieroWiki itself, and GitHub's privacy statement covers hosting logs.
 - [ ] Decide on a contact method. Wiki.js `/contact` links now go to the home page's Contributing section. A real `docs/contact.md` would be cleaner.
 - [ ] The "Contributing" text could invite GitHub issues/PRs now that the repo is the only editing path. The header also has an "edit this page" pencil via `edit_uri`.
 - [ ] `docs/copyright.md` says the license is at `fierowiki.samwarr.dev/LICENSE`. It now links to GitHub, so reword if needed.
 - [ ] Stub pages ("Coming soon"): `quick-resources/{error-codes,rpo-codes,troubleshooting}.md` and `resources/photos.md`. Fill them in, or drop them from `nav` in `mkdocs.yml` since the wiki is effectively frozen.
 - [ ] `docs/fiero-sam.md` is a log for a car you no longer own. Maybe add a closing note, or move it under an "About" section.
 - [ ] The 3D Files grid lists two "coming soon" parts (Airbox Lid, Front Speaker Cover) with no pages. Keep or remove them.
+- [ ] "In progress" archive (Driven Visions) and the watchlist on `docs/archived-websites.md`: finish them or mark as not planned.
 
 ## Archived sites
 
-- [ ] The archived HTML has ~1,340 local links that don't resolve (some were probably broken under Wiki.js too):
-  - 477 are `foo.htm` links where `foo.html` exists. They can be fixed mechanically if you're OK with that edit to the "as-is" mirror.
-  - The rest are missing images/pages from the original crawl.
-  
-  To regenerate the report, build the site and check every local `href`/`src` under `site/archived-websites/`.
+- [ ] 105 local links in the archives still point at files the original crawl never captured. The biggest are `css/btn-back.gif` (24, fierocave) and `PartsManual.html` (23, fierosails), plus scattered images. These may be recoverable from the Wayback Machine.
 - [ ] The archived HTML files still start with a Wiki.js `<!-- title: … -->` comment and have no `<!doctype html>`/`<meta charset>`, so they render in quirks mode. That's probably fine for 2000s-era pages, but check a few in the browser.
-- [ ] "In progress" archive (Driven Visions) and the watchlist on `docs/archived-websites.md`: finish them or mark as not planned.
-
-## Redirects (optional)
-
-- [ ] Old Wiki.js URLs like `/archived-websites/fierocave` (the notice page) now land on the archive's own `index.html`, skipping the notice. If that matters, add the `mkdocs-redirects` plugin or a tiny HTML redirect, or link the notice from inside the archive.
-- [ ] Wiki.js URLs had no trailing slash (`/copyright`). GitHub Pages redirects `/copyright` → `/copyright/` automatically, so these should be fine. Spot-check after launch.
 
 ## Later
 
 - [ ] **Material for MkDocs reaches end of life on May 5, 2027** (the build prints this banner). Move to [Zensical](https://zensical.org/docs/compatibility/mkdocs/migration/) before then. It reads the existing `mkdocs.yml`.
-- [ ] Shut down the Wiki.js instance and its database once the new site and file hosting are verified. Keep a final DB dump with your offline backups.
-- [ ] Remove the status badge from `README.md` (status.samwarr.dev monitor #13) or repoint the monitor at the new site.
 
 <details>
-<summary>All 100 files currently on the file server (paths after <code>/api/public/dl/EvpPN0OJ/</code>)</summary>
+<summary>All 100 files currently on the file server (paths after <code>https://fierofile.samwarr.dev/</code>)</summary>
 
 - `3d-files/airbox_3mf1.3mf`
 - `3d-files/airbox_3mf2.3mf`

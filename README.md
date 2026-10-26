@@ -45,7 +45,7 @@ The sidebar on the right contains the Table of Contents for the page you’re cu
 
 ## Files and Downloads
 
-Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server (FieroFile). These files use links beginning with the base URL `https://fierowiki.samwarr.dev/api/public/dl/`. Downloads linked in this manner are considered part of the FieroWiki website.
+Larger files such as PDFs, videos, 3D files/scans, and other archived materials are hosted on FieroWiki’s file server (FieroFile). These files use links beginning with `https://fierofile.samwarr.dev/`. Downloads linked in this manner are considered part of the FieroWiki website.
 
 > While FieroWiki takes precautions against malware by scanning files with various tools, all third-party content is hosted as-is. FieroWiki cannot guarantee that all hosted files (especially executables!) are completely safe. Always use caution when downloading files.
 

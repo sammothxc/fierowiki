@@ -10,7 +10,7 @@ title: External Trim Clip Type 2
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fexternal_trim_clip2_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierofile.samwarr.dev%2F3d-files%2Fexternal_trim_clip2_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
@@ -51,6 +51,6 @@ ABS
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 126 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/external_trim_clip2_stl.stl){ .md-button }| Type 2, Archived from Thingiverse |
+| STL | 126 KB |[Download](https://fierofile.samwarr.dev/3d-files/external_trim_clip2_stl.stl){ .md-button }| Type 2, Archived from Thingiverse |
 
 > "[Pontiac Fiero Trim Clips](https://www.thingiverse.com/thing:4917631)" by [az4521](https://www.thingiverse.com/az4521) is licensed under the [Creative Commons - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.

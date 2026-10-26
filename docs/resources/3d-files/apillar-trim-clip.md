@@ -10,7 +10,7 @@ title: A-Pillar Trim Clip
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fapiller_trim_clip_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierofile.samwarr.dev%2F3d-files%2Fapiller_trim_clip_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
@@ -24,6 +24,6 @@ Clip to hold Fiero A pillar trim to car.  Different design than factory clip - p
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 51 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/apiller_trim_clip_stl.stl){ .md-button }| Archived from Thingiverse |
+| STL | 51 KB |[Download](https://fierofile.samwarr.dev/3d-files/apiller_trim_clip_stl.stl){ .md-button }| Archived from Thingiverse |
 
 > "[Fiero A-piller Trim Clip](https://www.thingiverse.com/thing:2030247)" by [airwrench](https://www.thingiverse.com/airwench) is licensed under the [Creative Commons - Attribution - Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license.

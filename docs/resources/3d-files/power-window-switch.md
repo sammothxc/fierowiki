@@ -10,7 +10,7 @@ title: Power Window Switch
 
 This is an interactive 3D viewer; click and drag to navigate the part.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierowiki.samwarr.dev%2Fapi%2Fpublic%2Fdl%2FEvpPN0OJ%2F3d-files%2Fpower_window_switch_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=flat&clean=no&edges=no&bgcolor=transparent&color=red&url=https%3A%2F%2Ffierofile.samwarr.dev%2F3d-files%2Fpower_window_switch_stl.stl" style="border:0;margin:0;width:600px;height:600px;"></iframe>
 
 <br>
 
@@ -32,6 +32,6 @@ Print standing horizontal if possible with supports. 100% infill.
 
 | File Format | Size | Link | Description |
 |:-----------:|:----:|:----:|-------------|
-| STL | 261 KB |[Download](https://fierowiki.samwarr.dev/api/public/dl/EvpPN0OJ/3d-files/power_window_switch_stl.stl){ .md-button }| Archived from Thingiverse |
+| STL | 261 KB |[Download](https://fierofile.samwarr.dev/3d-files/power_window_switch_stl.stl){ .md-button }| Archived from Thingiverse |
 
 > "[Pontiac Fiero Window Switch](https://www.thingiverse.com/thing:4495244)" by [larsencreate](https://www.thingiverse.com/larsencreate) is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
